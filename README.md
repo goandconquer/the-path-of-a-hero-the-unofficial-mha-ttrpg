@@ -8,7 +8,7 @@
 
 Kōhei Horikoshi, Shueisha, Viz Media, and many other contributors are the creators and holders of all applicable rights for *My Hero Academia*.
 
-Inspiration for many of the mechanics featured in this system comes from those developed by forum-based role-playing community found at http://myheroacademiarp.com.
+Inspiration for many of the mechanics featured in this system comes from those developed by the forum-based role-playing community found at http://myheroacademiarp.com.
 
 *The Path of a Hero* was first drafted by Juanito Marquez as an unfinished and unpolished prototype systen.
 
