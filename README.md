@@ -33,7 +33,7 @@ In 2022, Caleb Brown and David Goforth began a comprehensive revision of the pro
 
 The system itself is broken up into the following chapters:
 
-1. [The Front Matter](0000 - The Front Matter/README.md) This chapter contains any housekeeping information not connected to the system and its presentation, such as disclaimers or forewords.
+1. [The%20Front%20Matter](0000%20-%20The%20Front%20Matter/README.md) This chapter contains any housekeeping information not connected to the system and its presentation, such as disclaimers or forewords.
 2. [The World of the Powers and the Powerless](0100 - The World of the Powers and the Powerless/README.md) This chapter contains the historical information that may assist incoming players in understanding the grander context of the world that the system takes place in, as well as the characterizations and background concepts that players should keep in mind when creating a realistic character for this universe.
 3. [The Fundamental Elements of a Hero](0200 - The Fundamental Elements of a Hero/README.md) This chapter contains the foundational mechanical concepts of the systems, such as the attributes, resources, and abilities that come from a player-character's Quirk and training.
 4. [The Rules of Engagement](0300 - The Rules of Engagement/README.md) This chapter builds off of the previous chapter to introduce the overall combat-and-action system which is the main means of players engaging with the world at large, such as limit points, techniques, equipment, and death.
