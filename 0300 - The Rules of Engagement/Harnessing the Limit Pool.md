@@ -6,10 +6,10 @@ Last Modified: 08-31-2023
 
 ****
 
-1. [Limit Pool](Harnessing20%the%20Limit%20Pool#limit-pool)
-2. [Limit Refresh Rate](Harnessing20%the%20Limit%20Pool#limit-refresh-rate)
-3. [Limit Bursting](Harnessing20%the%20Limit%20Pool#limit-bursting)
-4. [#Quirk Exhaustion](Harnessing20%the%20Limit%20Pool#quirk-exhaustion)
+1. [Limit Pool](Harnessing20%the%20Limit%20Pool.md#limit-pool)
+2. [Limit Refresh Rate](Harnessing20%the%20Limit%20Pool.md#limit-refresh-rate)
+3. [Limit Bursting](Harnessing20%the%20Limit%20Pool.md#limit-bursting)
+4. [#Quirk Exhaustion](Harnessing20%the%20Limit%20Pool.md#quirk-exhaustion)
 
 ****
 ## Limit Pool
