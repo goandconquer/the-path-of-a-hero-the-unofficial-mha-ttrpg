@@ -10,9 +10,9 @@ Kōhei Horikoshi, Shueisha, Viz Media, and many other contributors are the creat
 
 Inspiration for many of the mechanics featured in this system comes from those developed by the forum-based role-playing community found at http://myheroacademiarp.com.
 
-*The Path of a Hero* was first drafted by Juanito Marquez as an unfinished and unpolished prototype systen.
+*The Path of a Hero* was first drafted by Juanito Marquez as an unfinished and unpolished prototype system.
 
-Playtesters that provided feedback pivotal to the development of the system (in alphabetical order) include: 
+Play-testers that provided feedback pivotal to the development of the system (in alphabetical order) include: 
 
 - Caleb Brown
 - David Carey
@@ -23,7 +23,7 @@ Playtesters that provided feedback pivotal to the development of the system (in 
 - Nathan Goforth
 - Trey Reynolds
 
-...and many others.
+and many others.
 
 In 2022, Caleb Brown and David Goforth began a comprehensive revision of the prototype system. This repository is that revision.
 
@@ -33,11 +33,11 @@ In 2022, Caleb Brown and David Goforth began a comprehensive revision of the pro
 
 The system itself is broken up into the following chapters:
 
-1. [The Front Matter](0000%20-%20The%20Front%20Matter/README.md) This chapter contains any housekeeping information not connected to the system and its presentation, such as disclaimers or forewords.
-2. [The World of the Powers and the Powerless](0100%20-%20The%20World%20of%20the%20Powers%20and%20the%20Powerless/README.md) This chapter contains the historical information that may assist incoming players in understanding the grander context of the world that the system takes place in, as well as the characterizations and background concepts that players should keep in mind when creating a realistic character for this universe.
-3. [The Fundamental Elements of a Hero](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero/README.md) This chapter contains the foundational mechanical concepts of the systems, such as the attributes, resources, and abilities that come from a player-character's Quirk and training.
-4. [The Rules of Engagement](0300%20-%20The%20Rules%20of%20Engagement/README.md) This chapter builds off of the previous chapter to introduce the overall combat-and-action system which is the main means of players engaging with the world at large, such as limit points, techniques, equipment, and death.
-5. [The Villains of This Age](0400%20-%20The%20Villains%20of%20This%20Age/README.md) This chapter introduces DM-centered information on how to flesh out the encounters, story arcs, and overall campaign-related topics that create compelling gameplay for the party.
-6. [The Appendices](0500%20-%20The%20Appendices/README.md) This chapter contains any information agnostic of the previously-introduced chapters or is considered optional in the context of the rest of the system.
+1. **[The Front Matter](0000%20-%20The%20Front%20Matter/0000%20-%20The%20Front%20Matter)**. This chapter contains any housekeeping information not connected to the system and its presentation, such as disclaimers or forewords.
+2. **[The World of the Powers and the Powerless](0100%20-%20The%20World%20of%20the%20Powers%20and%20the%20Powerless/0100%20-%20The%20World%20of%20the%20Powers%20and%20the%20Powerless.md)**. This chapter contains the historical information that may assist incoming players in understanding the grander context of the world that the system takes place in, as well as the characterizations and background concepts that players should keep in mind when creating a realistic character for this universe.
+3. **[The Fundamental Elements of a Hero](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero/0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero.md)**. This chapter contains the foundational mechanical concepts of the systems, such as the attributes, resources, and abilities that come from a player-character's Quirk and training.
+4. **[The Rules of Engagement](0300%20-%20The%20Rules%20of%20Engagement/0300%20-%20The%20Rules%20of%20Engagement.md)**. This chapter builds off of the previous chapter to introduce the overall combat-and-action system which is the main means of players engaging with the world at large, such as limit points, techniques, equipment, and death.
+5. **[The Villains of This Age](0400%20-%20The%20Villains%20of%20This%20Age/0400%20-%20The%20Villains%20of%20This%20Age.md)**. This chapter introduces DM-centered information on how to flesh out the encounters, story arcs, and overall campaign-related topics that create compelling gameplay for the party.
+6. **[The Appendices](0500%20-%20The%20Appendices/0500%20-%20The%20Appendices.md)**. This chapter contains any information agnostic of the previously-introduced chapters or is considered optional in the context of the rest of the system.
 
 As a reminder, this is an ongoing project. Any information presented in this README may be out of date and any organizational elements or content may change at any point.
