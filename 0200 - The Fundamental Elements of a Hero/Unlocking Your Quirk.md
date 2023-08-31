@@ -1,4 +1,4 @@
-Category: [0200 - The Fundamental Elements of a Hero](200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero/0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero.md)
+Category: [0200 - The Fundamental Elements of a Hero](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero.md)
 Tags: #fundamental-elements-of-a-hero #quirks
 Last Modified: 08-31-2023
 
@@ -12,8 +12,8 @@ Regardless of the motivation, all of them rely on the manifestation of a unique 
 
 ****
 
-1. [What is Your Quirk](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero/Unlocking%20Your%20Quirk.md#what%20is%20your%20quirk)
-2. [[#The Three Quirk Types]]
+1. [What is Your Quirk](Unlocking%20Your%20Quirk.md#what%20is%20your%20quirk)
+2. [The Three Quirk Types](Unlocking%20Your%20Quirk.md#the-three-quirk-types)
 	- [[#Emitter Quirks]]
 	- [[#Transformation Quirks]]
 	- [[#Mutation Quirks]]
