@@ -1,8 +1,8 @@
-Category: [[0400 - The Villains of This Age]]
+Category: [0400 - The Villains of This Age](0400%20-%20The%20Villains%20of%20This%20Age.md)
 Tags: #villains-of-this-age #composition-of-evil
 Last Updated: 08-31-2023
 
-# [[The Composition of Evil]]
+# The Composition of Evil
 
 ****
 
@@ -14,4 +14,4 @@ In the early days proceeding the emergence of Quirks, society buckled under the 
 
 ****
 
-(next: [[The Overwhelming Cost of Murder]])
+(next: [The Overwhelming Cost of Murder](The%20Overwhelming%20Cost%20of%20Murder.md))

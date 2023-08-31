@@ -1,18 +1,17 @@
-Category: [[0300 - The Rules of Engagement]]
+Category: [0300 - The Rules of Engagement](0300%20-%20The%20Rules%20of%20Engagement.md)
 Tags: #rules-of-engagement #limit-pool 
 Last Modified: 08-31-2023
 
-# [[Harnessing the Limit Pool]]
+# Harnessing the Limit Pool
 
 ****
 
-1. [[#Limit Pool]]
-2. [[#Limit Refresh Rate]]
-3. [[#Limit Bursting]]
-4. [[#Quirk Exhaustion]]
+1. [Limit Pool](Harnessing20%the%20Limit%20Pool#limit-pool)
+2. [Limit Refresh Rate](Harnessing20%the%20Limit%20Pool#limit-refresh-rate)
+3. [Limit Bursting](Harnessing20%the%20Limit%20Pool#limit-bursting)
+4. [#Quirk Exhaustion](Harnessing20%the%20Limit%20Pool#quirk-exhaustion)
 
 ****
-
 ## Limit Pool
 
 ## Limit Refresh Rate
@@ -23,4 +22,4 @@ Last Modified: 08-31-2023
 
 ****
 
-(next: [[Gear & Gadgets]])
+(next: [Gear and Gadgets](Gear%20and%20Gadgets.md))

@@ -1,24 +1,24 @@
-Category: [[0300 - The Rules of Engagement]]
+Category: [0300 - The Rules of Engagement](0300%20-%20The%20Rules%20of%20Engagement.md)
 Tags: #rules-of-engagement #gear-and-gadgets
 Last Modified: 08-31-2023
 
-# [[Gear & Gadgets]]
+# Gear and Gadgets
 
 ****
 
-1. [[#Licenses]]
-2. [[#Weapons]]
-3. [[#Firearms]]
-4. [[#Gadgets]]
-	- [[#Enhancements]]
-	- [[#Offensive]]
-	- [[#Utility]]
-	- [[#Armaments]]
-5. [[#Armor]]
-	- [[#Durability]]
-6. [[#Costumes]]
-	- [[#Body Augmentation]]
-7. [[#Consumables]]
+1. [Licenses](Gear%20and%20Gadgets.md#licenses)
+2. [Weapons](Gear%20and%20Gadgets.md#weapons)
+3. [Firearms](Gear%20and%20Gadgets.md#firearms)
+4. [Gadgets](Gear%20and%20Gadgets.md#gadgets)
+	- [Enhancements](Gear%20and%20Gadgets.md#enhancements)
+	- [Offensive](Gear%20and%20Gadgets.md#offensive)
+	- [Utility](Gear%20and%20Gadgets.md#utility)
+	- [Armaments](Gear%20and%20Gadgets.md#armaments)
+5. [Armor](Gear%20and%20Gadgets.md#armor)
+	- [Durability](Gear%20and%20Gadgets.md#durability)
+6. [Costumes](Gear%20and%20Gadgets.md#costumes)
+	- [Body Augmentation](Gear%20and%20Gadgets.md#body-augmentation)
+7. [Consumables](Gear%20and%20Gadgets.md#consumables)
 
 ****
 ## Licenses
@@ -92,4 +92,4 @@ In both cases, the reloading process can be influenced by Quirks, Trained Weapon
 
 ****
 
-(next: [[0400 - The Villains of This Age]])
+(next: [0400 - The Villains of This Age](../0400%20-%20The%20Villains%20of%20This%20Age/0400%20-%20The%20Villains%20of%20This%20Age.md))

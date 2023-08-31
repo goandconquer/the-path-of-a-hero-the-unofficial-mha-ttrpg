@@ -1,8 +1,8 @@
-Category: [[0500 - The Appendices]]
+Category: [0500 - The Appendices](0500%20-%20The%20Appendices.md)
 Tags: #appendices #tables 
 Last Modified: 08-27-2023
 
-# [[Gadget and Weapon Damage]]
+# Gadget and Weapon Damage
 
 | Weapon Rank | Freeform Physical Damage  | Technique Physical Damage | Technique Ranged Damage |
 |-------------|---------------------------|---------------------------|-------------------------|
@@ -12,3 +12,7 @@ Last Modified: 08-27-2023
 | B           | 7 + MOD                   | 13 + MOD                  | 32                      |
 | A           | 10 + MOD                  | 18 + MOD                  | 43                      |
 | S           | 14 + MOD                  | 24 + MOD                  | 54                      |
+
+****
+
+(next: [Glossary](Glossary.md))

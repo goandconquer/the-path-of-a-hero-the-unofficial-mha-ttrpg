@@ -1,4 +1,4 @@
-Category: [0000 - The Front Matter](0000%20-%20The%20Front%20Matter/0000%20-%20The%20Front%20Matter.md)
+Category: [0000 - The Front Matter](../0000%20-%20The%20Front%20Matter/0000%20-%20The%20Front%20Matter.md)
 Tags: #rules-of-engagement #map-of-content 
 Last Modified: 08-31-2023
 
@@ -6,11 +6,11 @@ Last Modified: 08-31-2023
 
 ****
 
-1. [[Mastering Combat]]
-2. [[Crafting Techniques]]
-3. [[Harnessing the Limit Pool]]
-4. [[Gear & Gadgets]]
+1. [Mastering Combat](Mastering%20Combat.md)
+2. [Crafting Techniques](Crafting%20Techniques.md)
+3. [Harnessing the Limit Pool](Harnessing%20the%20Limit%20Pool.md)
+4. [Gear and Gadgets](Gear%20and%20Gadget.md)
 
 ****
 
-(next: [[Mastering Combat]])
+(next: [Mastering Combat](Mastering%20Combat.md))

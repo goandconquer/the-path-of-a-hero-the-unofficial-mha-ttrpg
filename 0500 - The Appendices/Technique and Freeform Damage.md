@@ -1,8 +1,8 @@
-Category: [[0500 - The Appendices]]
+Category: [0500 - The Appendices](0500%20-%20The%20Appendices.md)
 Tags: #appendices #tables 
-Last Modified: 08-27-2023
+Last Modified: 08-31-2023
 
-# [[Technique and Freeform Damage]]
+# Technique and Freeform Damage
 
 | Technique Rank | Technique Damage | Physical Techniques      | Freeforms          | 
 |----------------|------------------|--------------------------|--------------------|
@@ -12,3 +12,7 @@ Last Modified: 08-27-2023
 | B              | 1d10 + MOD       | 1d8 + PWR or ACC         | 1d6 + (1/2)(MOD)   |
 | A              | 1d12 + MOD       | 1d10 + PWR or ACC        | 1d8 + (1/2)(MOD)   |
 | S              | 1d20 + MOD       | 1d12 + PWR or ACC        | 1d10 + (1/2)(MOD)  |
+
+****
+
+(next: [Technique-Notes](Technique-Notes.md))

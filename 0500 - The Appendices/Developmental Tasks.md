@@ -1,3 +1,9 @@
+Category: [0500 - The Appendices](0500%20-%20The%20Appendices.md)
+Tags: #appendices 
+Last Modified: 08-31-2023
+
+# Developmental Tasks
+
 - [ ] Create a summary of the major historical differences between the canonical media and the campaign(s).
 - [ ] Create a summary of the campaign(s) so far.
 - [ ] Create a stat table for the bonus modifiers applied to defensive-action-specific
@@ -17,3 +23,7 @@ Fury Counters can be expended to supplement the damage caused by any source.
 - [ ] @TODO(): Revise Terms for Quirk Tier Bonus and Quirk Die to reference their respective Quirk type (Mutation Bonus and Emitter Die). 
 
 (1) Non-experience-based modifier improvements cannot affect your health or limit point maximums, however Spirit buffs can increase Limit Refresh Rate.
+
+****
+
+(next: [Gadget and Weapon Damage](Gadget%20and%20Weapon%20Damage.md))

@@ -1,8 +1,8 @@
-Category: [[0300 - The Rules of Engagement]]
+Category: [0500 - The Appendices](0500%20-%20The%20Appendices.md)
 Tags: #rules-of-engagement #techniques
-Last Updated: 07-20-2022
+Last Updated: 08-31-2023
 
-# [[Technique-Notes]]
+# Technique-Notes
 
 ## Transformation Techniques
 
@@ -35,7 +35,7 @@ Any statistic or mechanic could be influenced by a Buff Technique, at the Gamema
 
 Separate from the mysterious flow of reviving energies that some Quirks manifest through Healing Techniques is the application of man-made healing solutions. This can range from over-the-counter medications and other readily-available first aid implements to full-range military-grade kits. Such implements carry with them a more reliable reputation for healing the wounded and sparing the dying but are nowhere near as immediately effective or potent as Quirk-based Healing Techniques. These limitations should be at the forefront of any hero's mind when developing such techniques.
 
-Consumable medical kits are at the crux of any Medical Technique as they provide the Technique user the resources necessary to adminster healing or revival. Not all medicla kits are created equal. The table below outlines the individual ranks of consumable medical kits available throughout the world. The Quin prices for consumable medical kits can be found in [[0300 - The Rules of Engagement/Understanding Equipment]] in the "Item Prices by Material Rank" table.
+Consumable medical kits are at the crux of any Medical Technique as they provide the Technique user the resources necessary to adminster healing or revival. Not all medicla kits are created equal. The table below outlines the individual ranks of consumable medical kits available throughout the world. The Quin prices for consumable medical kits can be found in 0300 - The Rules of Engagement/Understanding Equipment in the "Item Prices by Material Rank" table.
 
 | Rank | Healing Die |
 |------|-------------|
@@ -109,4 +109,6 @@ You can only obtained a Counter when your Control Rank is a C or higher.
 ### Reflects
 You can only obtained a Reflect when your Control is a C or higher.
 
+****
 
+(next: [README](../README.md))

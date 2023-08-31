@@ -1,8 +1,8 @@
-Category: [[0300 - The Rules of Engagement]]
-Tags:
-Last Updated: 07-21-2022
+Category: [0500 - The Appendices](0500%20-%20The%20Appendices.md)
+Tags: #appendices 
+Last Updated: 08-31-2023
 
-# [[LP-Notes]]
+# LP-Notes
 
 Limit Points are a crucial resource for any character in the My Hero Academia universe, representing the amount of energy that can be spent on the activation and maintenance of Quirk-based abilities. Each character has a maximum number of Limit Points that they can spend (referred to as a character's Limit Pool), which is determined by their Control Rank. The following table shows the base Limit Pool value that corresponds to a character's Control Rank. This value is supplemented by a character's Stamina modifier.
 
@@ -41,5 +41,9 @@ Quirk Exhaustion is, however, usually temporary and non-fatal (at least the effe
 For example, a character that Limit Bursts might manifest Quirk Exhaustion in the form of a -2 penalty to their Speed modifier for the duration of 2 turns. If no further Limit Bursts are suffered, then that penalty naturally passess as the Quirk's regenerative nature is quick enough to restore biochemical equilibrium in a wielder. However, subsequent Limit Bursts may result in entirely new effects of Quirk Exhaustion manifesting or pre-existing effects multiplying in both intensity and duration. So that the -2 penalty to Speed for 2 turns may, after another Limit Burst, may worsen to the state of a -4 penalty to Speed for a renewed duration of 4 turns, regardless of how much time as elapsed into the pre-existing penalty.
 
 The Gamemaster is able to define the inflicted effects of Quirk Exhaustion at their distrection.
+
+****
+
+(next: [Rally Together](Rally%20Together.md))
 
 
