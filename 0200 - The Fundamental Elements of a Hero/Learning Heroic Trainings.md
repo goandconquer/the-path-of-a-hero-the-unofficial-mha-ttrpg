@@ -1,43 +1,43 @@
-Category: [0200 - The Fundamental Elements of a Hero](200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero/0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero.md)
+Category: [0200 - The Fundamental Elements of a Hero](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero.md)
 Tags: #fundamental-elements-of-a-hero #heroic-trainings
 Last Modified: 08-31-2023
 
-# [[Learning Heroic Trainings]]
+# Learning Heroic Trainings
 
 ****
 
-1. [[#The General Enhancements]]
-2. [[#The Heroic Trainings]]
-	- [[#Tinkerer]]
-	- [[#Medical]]
-	- [[#Speed Demon (Emitters)]]
-	- [[#Fatgum]]
-	- [[#Rescue]]
-	- [[#Crime Fighter]]
-	- [[#Private Investigator]]
-	- [[#True Detective]]
-	- [[#Oblivion]]
-	- [[#People Pleaser]]
-	- [[#Silver Tongue]]
-	- [[#Team Player]]
-	- [[#Wilderness]]
-	- [[#Leet Haxor]]
-	- [[#Infiltrator]]
-	- [[#Arsenal]]
-	- [[#Blade]]
-	- [[#Ordinance]]
-	- [[#Villainous]]
-	- [[#Henchman]]
-	- [[#Battle Analysis]]
-	- [[#Hot-Head]]
-	- [[#Yandere]]
-	- [[#Recon]]
-	- [[#Chem Tech]]
-	- [[#Flying]]
-	- [[#Mental Combat]]
-	- [[#Protectorate]]
-	- [[#Stealth]]
-	- [[#Inception]]
+1. [The General Enhancements](Learning%20Heroic%20Trainings.md#the-general-enhancements)
+2. [The Heroic Trainings](Learning%20Heroic%20Trainings.md#the-heroic-trainings)
+	- [Tinkerer](Learning%20Heroic%20Trainings.md#tinkerer)
+	- [Medical](Learning%20Heroic%20Trainings.md#medical)
+	- [Speed Demon (Emitters)](Learning%20Heroic%20Trainings.md#speed-demon-emitters)
+	- [Fatgum](Learning%20Heroic%20Trainings.md#fatgum)
+	- [Rescue](Learning%20Heroic%20Trainings.md#rescue)
+	- [Crime Fighter](Learning%20Heroic%20Trainings.md#crime-fighter)
+	- [Private Investigator](Learning%20Heroic%20Trainings.md#private-investigator)
+	- [True Detective](Learning%20Heroic%20Trainings.md#true-detective)
+	- [Oblivion](Learning%20Heroic%20Trainings.md#oblivion)
+	- [People Pleaser](Learning%20Heroic%20Trainings.md#people-pleaser)
+	- [Silver Tongue](Learning%20Heroic%20Trainings.md#silver-tongue)
+	- [Team Player](Learning%20Heroic%20Trainings.md#team-player)
+	- [Wilderness](Learning%20Heroic%20Trainings.md#wilderness)
+	- [Leet Haxor](Learning%20Heroic%20Trainings.md#leet-haxor)
+	- [Infiltrator](Learning%20Heroic%20Trainings.md#infiltrator)
+	- [Arsenal](Learning%20Heroic%20Trainings.md#arsenal)
+	- [Blade](Learning%20Heroic%20Trainings.md#blade)
+	- [Ordinance](Learning%20Heroic%20Trainings.md#ordinance)
+	- [Villainous](Learning%20Heroic%20Trainings.md#villainous)
+	- [Henchman](Learning%20Heroic%20Trainings.md#henchmen)
+	- [Battle Analysis](Learning%20Heroic%20Trainings.md#battle-analysis)
+	- [Hot-Head](Learning%20Heroic%20Trainings.md#hot-headed)
+	- [Yandere](Learning%20Heroic%20Trainings.md#yandere)
+	- [Recon](Learning%20Heroic%20Trainings.md#recon)
+	- [Chem Tech](Learning%20Heroic%20Trainings.md#chem-tech)
+	- [#Flying](Learning%20Heroic%20Trainings.md#flying)
+	- [Mental Combat](Learning%20Heroic%20Trainings.md#mental-combat)
+	- [Protectorate](Learning%20Heroic%20Trainings.md#protectorate)
+	- [Stealth](Learning%20Heroic%20Trainings.md#stealth)
+	- [Inception](Learning%20Heroic%20Trainings.md#inception)
 
 ****
 # The General Enhancements
@@ -239,4 +239,4 @@ You hold to the traditions of the warrior, forgoing any sense of self-preservati
 
 ****
 
-(next: [[0300 - The Rules of Engagement]])
+(next: [0300 - The Rules of Engagement](../0300%20-%20The%20Rules%20of%20Engagement/0300%20-%20The%20Rules%20of%20Engagement.md))

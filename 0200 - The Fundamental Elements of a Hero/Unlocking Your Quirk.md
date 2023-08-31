@@ -1,7 +1,6 @@
 Category: [0200 - The Fundamental Elements of a Hero](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero.md)
 Tags: #fundamental-elements-of-a-hero #quirks
 Last Modified: 08-31-2023
-
 # Unlocking Your Quirk
 
 Heroes come in all shapes and sizes, and that's not an exaggeration. With so many superhumans scattered throughout society, figuring out what it means to be a human has become quite the challenge.
@@ -12,14 +11,14 @@ Regardless of the motivation, all of them rely on the manifestation of a unique 
 
 ****
 
-1. [What is Your Quirk](Unlocking%20Your%20Quirk.md#what%20is%20your%20quirk)
+1. [What is Your Quirk](Unlocking%20Your%20Quirk.md#what-is-your-quirk)
 2. [The Three Quirk Types](Unlocking%20Your%20Quirk.md#the-three-quirk-types)
-	- [[#Emitter Quirks]]
-	- [[#Transformation Quirks]]
-	- [[#Mutation Quirks]]
-3. [[#Multiple Quirks]]
-4. [[#The Quirk Tiers]]
-5. [[#Quirk Awakening]] 
+	- [Emitter Quirks](Unlocking%20Your%20Quirk.md#emitter-quirks)
+	- [Transformation Quirks](Unlocking%20Your%20Quirk.md#transformation-quirks)
+	- [Mutation Quirks](Unlocking%20Your%20Quirk.md#mutation-quirks)
+3. [Possessing Multiple Quirks](Unlocking%20Your%20Quirk.md#possessing-multiple-quirks)
+4. [The Quirk Tiers](Unlocking%20Your%20Quirk.md#the-quirk-tiers)
+5. [Quirk Awakening](Unlocking%20Your%20Quirk.md#quirk-awakening)
 
 ****
 
@@ -131,4 +130,4 @@ Characters are able to advance to higher tiers through dedication, persistance, 
 
 ****
 
-(next: [[Realizing Your Skills]])
+(next: [Realizing Your Skills](Realizing%20Your%20Skills.md))
