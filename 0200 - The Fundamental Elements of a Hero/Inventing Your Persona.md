@@ -1,23 +1,23 @@
-Category: [[0200 - The Fundamental Elements of a Hero]]
+Category: [0200 - The Fundamental Elements of a Hero](200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero/0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero.md)
 Tags: #fundamental-elements-of-a-hero #personas 
 Last Modified: 08-31-2023
 
-# [[Inventing Your Persona|Inventing Your Persona]]
+# Inventing Your Persona
 
 ****
 
-1. [[#Backgrounds]]
-	- [[#Ex-Delinquent]]
-	- [[#Projects Kid]]
-	- [[#Heroic Parents]]
-	- [[#Legendary Heroic Lineage]]
-	- [[#Villainous Heritage]]
-2. [[#Personas]]
-	- [[#Lineage]]
-	- [[#Personality]]
-	- [[#Aspirations]]
-	- [[#Flaws & Fears]]
-	- [[#History]]
+1. [Backgrounds](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero/Inventing%20Your%20Persona.md#backgrounds)
+	- [Ex-Delinquent](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero/Inventing%20Your%20Persona.md#ex-delinquent)
+	- [Projects Kid](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero/Inventing%20Your%20Persona.md#projects%20kid)
+	- [Heroic Parents](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero/Inventing%20Your%20Persona.md#heroic%20parents)
+	- [Legendary Heroic Lineage](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero/Inventing%20Your%20Persona.md#legendary%20heroic%20lineage)
+	- [Villainous Heritage](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero/Inventing%20Your%20Persona.md#villainous%20heritage)
+2. [Personas](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero/Inventing%20Your%20Persona.md#personas)
+	- [Lineage](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero/Inventing%20Your%20Persona.md#lineage)
+	- [Personality](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero/Inventing%20Your%20Persona.md#personality)
+	- [Aspirations](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero/Inventing%20Your%20Persona.md#aspirations)
+	- [Flaws and Fears](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero/Inventing%20Your%20Persona.md#flaws%20and%20fears)
+	- [History](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero/Inventing%20Your%20Persona.md#history)
 
 ****
 
@@ -67,10 +67,10 @@ A character with the Villainous Heritage background receives 50 starting Quin.
 
 ## Aspirations
 
-## Flaws & Fears
+## Flaws and Fears
 
 ## History
 
 ****
 
-(next: [[Unlocking Your Quirk]])
+(next: [Unlocking Your Quirk](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero/Unlocking%20Your%20Quirk.md))

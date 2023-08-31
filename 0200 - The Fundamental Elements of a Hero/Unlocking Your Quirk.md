@@ -1,8 +1,8 @@
-Category: [[Unlocking Your Quirk]]
+Category: [0200 - The Fundamental Elements of a Hero](200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero/0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero.md)
 Tags: #fundamental-elements-of-a-hero #quirks
 Last Modified: 08-31-2023
 
-# [[Unlocking Your Quirk]]
+# Unlocking Your Quirk
 
 Heroes come in all shapes and sizes, and that's not an exaggeration. With so many superhumans scattered throughout society, figuring out what it means to be a human has become quite the challenge.
 
@@ -12,7 +12,7 @@ Regardless of the motivation, all of them rely on the manifestation of a unique 
 
 ****
 
-1. [[#What is Your Quirk]]
+1. [What is Your Quirk](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero/Unlocking%20Your%20Quirk.md#what%20is%20your%20quirk)
 2. [[#The Three Quirk Types]]
 	- [[#Emitter Quirks]]
 	- [[#Transformation Quirks]]

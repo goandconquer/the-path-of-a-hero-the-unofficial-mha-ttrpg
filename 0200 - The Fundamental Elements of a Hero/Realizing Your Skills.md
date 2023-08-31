@@ -1,4 +1,4 @@
-Category: [[0200 - The Fundamental Elements of a Hero]]
+Category: [0200 - The Fundamental Elements of a Hero](200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero/0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero.md)
 Tags: #fundamental-elements-of-a-hero #skills
 Last Modified: 08-31-2023
 
