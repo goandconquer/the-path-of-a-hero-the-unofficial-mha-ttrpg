@@ -1,3 +1,10 @@
+---
+categories: "[[0000 - The Front Matter]]"
+tags:
+  - front-matter
+  - map-of-content
+last-modified: 2023-09-02T11:34
+---
 Category: [0000 - The Front Matter](0000%20-%20The%20Front%20Matter.md)
 Tags: #front-matter #map-of-content 
 Last Modified: 08-31-2023
