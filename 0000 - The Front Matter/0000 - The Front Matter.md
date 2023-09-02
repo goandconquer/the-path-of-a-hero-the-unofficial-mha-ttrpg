@@ -1,5 +1,5 @@
 ---
-categories: "[[0000 - The Front Matter]]"
+categories: "[0000 - The Front Matter](0000%20-%20The%20Front%20Matter.md)"
 tags:
   - front-matter
   - map-of-content
