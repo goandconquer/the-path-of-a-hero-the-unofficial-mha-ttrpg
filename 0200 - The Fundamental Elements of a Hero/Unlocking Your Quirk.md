@@ -1,6 +1,6 @@
-Category: [0200 - The Fundamental Elements of a Hero](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero.md)
-Tags: #fundamental-elements-of-a-hero #quirks
-Last Modified: 08-31-2023
+Category: [0200 - The Fundamental Elements of a Hero](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero.md)  
+Tags: #fundamental-elements-of-a-hero #quirks  
+Last Modified: 08-31-2023  
 # Unlocking Your Quirk
 
 Heroes come in all shapes and sizes, and that's not an exaggeration. With so many superhumans scattered throughout society, figuring out what it means to be a human has become quite the challenge.

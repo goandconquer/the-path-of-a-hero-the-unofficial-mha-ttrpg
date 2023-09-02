@@ -1,7 +1,6 @@
-Category: [0500 - The Appendices](0500%20-%20The%20Appendices.md)
-Tags: #appendices 
-Last Updated: 08-31-2023
-
+Category: [0500 - The Appendices](0500%20-%20The%20Appendices.md)  
+Tags: #appendices   
+Last Updated: 08-31-2023  
 # LP-Notes
 
 Limit Points are a crucial resource for any character in the My Hero Academia universe, representing the amount of energy that can be spent on the activation and maintenance of Quirk-based abilities. Each character has a maximum number of Limit Points that they can spend (referred to as a character's Limit Pool), which is determined by their Control Rank. The following table shows the base Limit Pool value that corresponds to a character's Control Rank. This value is supplemented by a character's Stamina modifier.

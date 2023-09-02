@@ -1,6 +1,6 @@
-Category: [0000 - The Front Matter](0000%20-%20The%20Front%20Matter.md)
-Tags: #front-matter #authors-note 
-Last Modified: 08-31-2023
+Category: [0000 - The Front Matter](0000%20-%20The%20Front%20Matter.md)  
+Tags: #front-matter #authors-note   
+Last Modified: 08-31-2023  
 # Author's Note
 
 ****

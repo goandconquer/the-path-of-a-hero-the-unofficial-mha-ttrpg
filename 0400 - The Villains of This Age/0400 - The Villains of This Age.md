@@ -1,7 +1,6 @@
-Category: [0000 - The Front Matter](../0000%20-%20The%20Front%20Matter/0000%20-%20The%20Front%20Matter.md)
-Tags: #villains-of-this-age #map-of-content 
-Last Modified: 08-31-2023
-
+Category: [0000 - The Front Matter](../0000%20-%20The%20Front%20Matter/0000%20-%20The%20Front%20Matter.md)  
+Tags: #villains-of-this-age #map-of-content   
+Last Modified: 08-31-2023  
 # 0400 - The Villains of This Age
 
 ****

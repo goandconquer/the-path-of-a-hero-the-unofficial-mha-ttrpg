@@ -1,7 +1,6 @@
-Category: [0000 - The Front Matter](../0000%20-%20The%20Front%20Matter/0000%20-%20The%20Front%20Matter.md)
-Tags: #fundamental-elements-of-a-hero #map-of-content 
-Last Modified: 08-31-2023
-
+Category: [0000 - The Front Matter](../0000%20-%20The%20Front%20Matter/0000%20-%20The%20Front%20Matter.md)  
+Tags: #fundamental-elements-of-a-hero #map-of-content   
+Last Modified: 08-31-2023  
 # 0200 - The Fundamental Elements of a Hero
 
 ****

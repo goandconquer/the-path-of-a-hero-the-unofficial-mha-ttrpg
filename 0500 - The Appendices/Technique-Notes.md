@@ -1,7 +1,6 @@
-Category: [0500 - The Appendices](0500%20-%20The%20Appendices.md)
-Tags: #rules-of-engagement #techniques
-Last Updated: 08-31-2023
-
+Category: [0500 - The Appendices](0500%20-%20The%20Appendices.md)  
+Tags: #rules-of-engagement #techniques  
+Last Updated: 08-31-2023  
 # Technique-Notes
 
 ## Transformation Techniques

@@ -1,7 +1,6 @@
-Category: [0000 - The Front Matter](../0000%20-%20The%20Front%20Matter/0000%20-%20The%20Front%20Matter.md)
-Tags: #world-of-the-powers-and-the-powerless #map-of-content 
-Last Modified: 06-12-2023
-
+Category: [0000 - The Front Matter](../0000%20-%20The%20Front%20Matter/0000%20-%20The%20Front%20Matter.md)  
+Tags: #world-of-the-powers-and-the-powerless #map-of-content   
+Last Modified: 06-12-2023  
 # 0100 - The World of the Powers and the Powerless
 
 ****

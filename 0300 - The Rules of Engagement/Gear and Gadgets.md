@@ -1,7 +1,6 @@
-Category: [0300 - The Rules of Engagement](0300%20-%20The%20Rules%20of%20Engagement.md)
-Tags: #rules-of-engagement #gear-and-gadgets
-Last Modified: 08-31-2023
-
+Category: [0300 - The Rules of Engagement](0300%20-%20The%20Rules%20of%20Engagement.md)  
+Tags: #rules-of-engagement #gear-and-gadgets  
+Last Modified: 08-31-2023  
 # Gear and Gadgets
 
 ****

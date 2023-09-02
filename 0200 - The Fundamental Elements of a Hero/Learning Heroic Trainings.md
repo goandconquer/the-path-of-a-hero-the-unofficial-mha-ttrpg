@@ -1,7 +1,6 @@
-Category: [0200 - The Fundamental Elements of a Hero](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero.md)
-Tags: #fundamental-elements-of-a-hero #heroic-trainings
-Last Modified: 08-31-2023
-
+Category: [0200 - The Fundamental Elements of a Hero](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero.md)  
+Tags: #fundamental-elements-of-a-hero #heroic-trainings  
+Last Modified: 08-31-2023  
 # Learning Heroic Trainings
 
 ****

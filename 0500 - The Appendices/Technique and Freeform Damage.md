@@ -1,7 +1,6 @@
-Category: [0500 - The Appendices](0500%20-%20The%20Appendices.md)
-Tags: #appendices #tables 
-Last Modified: 08-31-2023
-
+Category: [0500 - The Appendices](0500%20-%20The%20Appendices.md)  
+Tags: #appendices #tables   
+Last Modified: 08-31-2023  
 # Technique and Freeform Damage
 
 | Technique Rank | Technique Damage | Physical Techniques      | Freeforms          | 
