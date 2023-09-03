@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0200 - The Fundamental Elements of a Hero/Learning Heroic Trainings.md",
+                "file": "0500 - The Appendices/Gadget and Weapon Damage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07ebdd882ec6cf8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0300 - The Rules of Engagement/Mastering Combat.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0200 - The Fundamental Elements of a Hero/Learning Heroic Trainings.md",
+                "file": "0500 - The Appendices/Gadget and Weapon Damage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0200 - The Fundamental Elements of a Hero/Learning Heroic Trainings.md",
+                "file": "0500 - The Appendices/Gadget and Weapon Damage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0200 - The Fundamental Elements of a Hero/Learning Heroic Trainings.md"
+                "file": "0500 - The Appendices/Gadget and Weapon Damage.md"
               }
             }
           }
@@ -148,11 +160,15 @@
   },
   "active": "2e27816734ba003d",
   "lastOpenFiles": [
-    "0300 - The Rules of Engagement/0300 - The Rules of Engagement.md",
-    "0200 - The Fundamental Elements of a Hero/Learning Heroic Trainings.md",
+    "0500 - The Appendices/Developmental Tasks.md",
     "0300 - The Rules of Engagement/Mastering Combat.md",
-    "0200 - The Fundamental Elements of a Hero/Realizing Your Skills.md",
     "0300 - The Rules of Engagement/Crafting Techniques.md",
+    "0200 - The Fundamental Elements of a Hero/Realizing Your Skills.md",
+    "0500 - The Appendices/Gadget and Weapon Damage.md",
+    "0200 - The Fundamental Elements of a Hero/Unlocking Your Quirk.md",
+    "0100 - The World of the Powers and the Powerless/Origin of the Quirk.md",
+    "0200 - The Fundamental Elements of a Hero/Learning Heroic Trainings.md",
+    "0300 - The Rules of Engagement/0300 - The Rules of Engagement.md",
     "0500 - The Appendices/Glossary.md",
     "README.md",
     "0500 - The Appendices/Technique-Notes.md",
@@ -160,8 +176,6 @@
     "0500 - The Appendices/Rally Together.md",
     "0500 - The Appendices/LP-Notes.md",
     "0500 - The Appendices/Henchmen.md",
-    "0500 - The Appendices/Gadget and Weapon Damage.md",
-    "0500 - The Appendices/Developmental Tasks.md",
     "0500 - The Appendices/0500 - The Appendices.md",
     "0400 - The Villains of This Age/The Overwhelming Cost of Murder.md",
     "0400 - The Villains of This Age/The Composition of Evil.md",
@@ -169,10 +183,8 @@
     "0400 - The Villains of This Age/0400 - The Villains of This Age.md",
     "0300 - The Rules of Engagement/Harnessing the Limit Pool.md",
     "0300 - The Rules of Engagement/Gear and Gadgets.md",
-    "0200 - The Fundamental Elements of a Hero/Unlocking Your Quirk.md",
     "0200 - The Fundamental Elements of a Hero/0200 - The Fundamental Elements of a Hero.md",
     "0200 - The Fundamental Elements of a Hero/Inventing Your Persona.md",
-    "0100 - The World of the Powers and the Powerless/Origin of the Quirk.md",
     "0100 - The World of the Powers and the Powerless/Threat of the Quirk Singularity.md"
   ]
 }

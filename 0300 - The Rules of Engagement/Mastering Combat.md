@@ -25,6 +25,12 @@ Last Modified: 09-02-2023
 6. [Downtime](Mastering%20Combat.md#downtime)
 
 ****
+
+%% #todos: How long is a Round of combat? %%
+%% #todos: Set base Melee Range to 2 Meters. %%
+
+****
+
 ## Skill Checks
 
 The basis for all acts of heroism or villainy in the world of *My Hero Academia* lies in how a person's talents and trainings contribute to the success or failures of the actions that they carry out throughout their careers. As your character experiences the living, breathing world, they will often have to prove themselves through their actions.

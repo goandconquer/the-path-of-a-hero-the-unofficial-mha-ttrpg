@@ -24,6 +24,12 @@ Last Modified: 08-31-2023
 18. [Transformation Techniques](Crafting%20Techniques.md#transformation-techniques)
 19. [Trump Cards](Crafting%20Techniques.md#trump-cards)
 20. [Weapon Techniques](Crafting%20Techniques.md#weapon-techniques)
+
+****
+
+%% #todos: Trained Physical Techniques can only have a range of Melee (2 meters), regardless of the Technique Rank. %%
+
+****
 ## Area of Effect Techniques
 
 ## Barrier Techniques

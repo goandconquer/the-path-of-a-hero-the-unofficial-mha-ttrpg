@@ -9,19 +9,15 @@ Last Modified: 08-31-2023
 
 **Q: What is there a canonical year for when Campaign 1 takes place?**
 
-**We should Trained Physical Techniques can only have a range of Melee, regardless of the Technique Rank.**
-
-**1. Change base Melee range to 2 meters.**
-
 Fury Counters can be expended to supplement the damage caused by any source.
 
 ****
 
-- [ ] @QUESTION(): How long does a Round of Combat last?
-
-- [ ] @TODO(): Revise Terms for Quirk Tier Bonus and Quirk Die to reference their respective Quirk type (Mutation Bonus and Emitter Die). 
-
-(1) Non-experience-based modifier improvements cannot affect your health or limit point maximums, however Spirit buffs can increase Limit Refresh Rate.
+- [ ] @TODO: How long does a Round of Combat last?
+- [ ] @TODO: Revise Terms for Quirk Tier Bonus and Quirk Die to reference their respective Quirk type (Mutation Bonus and Emitter Die).
+- [ ] @TODO: Gain clarity on the Pseudomorphous ability as written by Canon.
+- [ ] @TODO: Trained Physical Techniques can only have a range of Melee (2 meters), regardless of the Technique Rank.
+- [ ] @TODO: Set base Melee Range to 2 Meters.
 
 ****
 

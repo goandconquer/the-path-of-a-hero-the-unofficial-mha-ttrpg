@@ -26,6 +26,10 @@ Last Modified: 08-31-2023
 
 ****
 
+%% #todos: Non-experience-based modifier improvements cannot affect your health or limit point maximums, however Spirit buffs can increase Limit Refresh Rates. %%
+
+****
+
 ## Skill Attributes
 
 ## Experience

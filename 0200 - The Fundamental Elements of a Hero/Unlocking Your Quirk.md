@@ -22,6 +22,9 @@ Regardless of the motivation, all of them rely on the manifestation of a unique 
 
 ****
 
+%% #todos: Revise Terms for Quirk Tier Bonus and Quirk Die to reference their respective Quirk type (Mutation Bonus and Emitter Die). %%
+
+****
 ## What is Your Quirk
 
 The manifestation of a Quirk can encompass an infinite range of characteristics and functions, however everyone possess three key traits.
