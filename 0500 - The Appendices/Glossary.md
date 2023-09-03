@@ -17,6 +17,8 @@ Last Modified: 08-31-2023
 **Real Bullets**
 **Rubber Bullets**
 
+**Offensive Maneuver**
+
 ****
 
 (next: [Henchmen](Henchmen.md))

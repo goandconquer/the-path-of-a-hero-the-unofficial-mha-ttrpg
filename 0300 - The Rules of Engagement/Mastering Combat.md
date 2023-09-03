@@ -86,16 +86,27 @@ The clash between heroes and villains feel like an inconceivable and chaotic bra
 
 Combat within the *Path of a Hero* system is carried out in **Rounds**, wherein players take **Turns** that encompass their actions within the world. A Round is complete when all players have each taken their Turn to completion. In between the end of one Round and the start of another, the Gamemaster may deem it necessary to switch the focus from Combat to a non-combat situation (especially if other players are not involved in the Combat) or generally provide further exposition for the scene depending on its thematic nature.
 
-A **Turn** is comprised of any combination of actions, reactions, techniques, movements, and specials that a player has at their disposal. A Player is allotted three (3) Actions (sometime referred to as Action Points) and one (1) Reaction at the start of their Turn. There are special rules that might afford a player more Actions or Reactions (such as the Action Exchange rule). Any number of Action Points may be spent on Movement Trained Techniques, or Interactions with objects, or non-Quirk-based melee or ranged offensive maneuvers. However, only a single Action Point may be spent performing a Freeform Quirk-based Technique. 
-### Instinct Order
-
-Instinct Order is the relative hierarchy of speed and intuition determined by the presence of Heroes and Villains at the start of a Combat instance. At the Gamemaster's announcement, each player makes an Aptitude (or other appropriate Skill Attribute determined by special rules) roll to determine the order in which play will commence throughout a Round. This order holds for the entirety of a Combat instance unless otherwise prompted by the Gamemaster.
+A **Turn** is comprised of any combination of actions, reactions, techniques, movements, and specials that a player has at their disposal. A Player is allotted three (3) **Actions** and one (1) **Reaction** at the start of their Turn. In rare cases, a player might afford themselves more Actions or Reactions based on the rules associated with that mechanics.
 ### Actions
+
+**Actions** (sometimes referred to as **Action Points**) serve as the narrative and mechanical foundation for what a hero (or villain) can do during their Turn in the Instinct Order, acting as the currency that players to manifest their intentions into the game world. Just as heroes (and villain) in *My Hero Academia* must decide whether to engage in combat, help (or harm) a bystander, or focus on a tactical advantage, players must determine how to best utilize their Actions to align with their goals and strategies.
+
+At the start of their Turn, a player has three (3) Actions to use. These may be spent to carry out any standard Actions available to any character, regardless of whether or not they possess a Quirk, such as making a freeform melee attack (unarmed, or with a weapon), a freeform ranged attack (with an appropriate weapon), using an item, interacting with objects, or moving. A player may suggest an alternative to constitute the use of their Action at the DM's discretion. In addition, players that possess a character with the means to do so may expend Actions to active and utilize the power of their Quirks through the use of **Techniques**.
 ### Techniques
+
+**Techniques** are the specialized, high-octane, Quirk-powered abilities that allow players to harness the innate powers in astounding ways. Just as All Might's "United States of Smash" resonates as a symbol of indomitable justice, and Todoroki's "Heaven-Piercing Ice Wall" exemplifies his dual nature, your Techniques are more than just powerful moves—they are the signature expressions of your character's spirit, skill, and aspirations.
+
+@TODO: Finish **Techniques** section content.
 
 **Trained Techniques**
 
 **Freeform Techniques**
+### Reactions
+
+A player may opt to perform an **Action Exchange** in which the player exchanges one of their Action Points to gain an additional Reaction to use after their Turn has ended. A player may only perform this exchange once on their Turn. If the exchanged Reaction is not used before the start of their Turn, then it is lost.
+### Instinct Order
+
+Instinct Order is the relative hierarchy of speed and intuition determined by the presence of Heroes and Villains at the start of a Combat instance. At the Gamemaster's announcement, each player makes an Aptitude (or other appropriate Skill Attribute determined by special rules) roll to determine the order in which play will commence throughout a Round. This order holds for the entirety of a Combat instance unless otherwise prompted by the Gamemaster.
 ### Defensive Actions
 
 **Dodging**
@@ -105,9 +116,6 @@ Inflicting a Critical while taking the Dodge Defensive Action yields the player 
 **Tanking**
 
 Inflicting a Critical while taking the Tank Defensive Action yields the player a result of all incoming damage that the offensive maneuver made against them would otherwise inflict being negated.
-### Reactions
-
-On their turn, a player may opt to expend an Action Point to reserve an additional Reaction that they may evoke after their turn has ended. A player may not gain more than the single additional Reaction in this way.
 ### Movement
 
 | Speed Rank | Combat Speed | Cinematic Speed  |

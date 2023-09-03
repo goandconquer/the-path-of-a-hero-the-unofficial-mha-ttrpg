@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "0300 - The Rules of Engagement/Mastering Combat.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "grave",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "0300 - The Rules of Engagement/Mastering Combat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "0300 - The Rules of Engagement/Mastering Combat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "0300 - The Rules of Engagement/Mastering Combat.md"
               }
             }
           }
@@ -146,14 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e27816734ba003d",
+  "active": "3e3504d798ace383",
   "lastOpenFiles": [
+    "0200 - The Fundamental Elements of a Hero/Realizing Your Skills.md",
+    "0300 - The Rules of Engagement/Crafting Techniques.md",
+    "0500 - The Appendices/Glossary.md",
+    "0300 - The Rules of Engagement/Mastering Combat.md",
+    "README.md",
     "0500 - The Appendices/Technique-Notes.md",
     "0500 - The Appendices/Technique and Freeform Damage.md",
     "0500 - The Appendices/Rally Together.md",
     "0500 - The Appendices/LP-Notes.md",
     "0500 - The Appendices/Henchmen.md",
-    "0500 - The Appendices/Glossary.md",
     "0500 - The Appendices/Gadget and Weapon Damage.md",
     "0500 - The Appendices/Developmental Tasks.md",
     "0500 - The Appendices/0500 - The Appendices.md",
@@ -161,18 +166,14 @@
     "0400 - The Villains of This Age/The Composition of Evil.md",
     "0400 - The Villains of This Age/Prosecution to the Fullest Extent.md",
     "0400 - The Villains of This Age/0400 - The Villains of This Age.md",
-    "0300 - The Rules of Engagement/Mastering Combat.md",
     "0300 - The Rules of Engagement/Harnessing the Limit Pool.md",
     "0300 - The Rules of Engagement/Gear and Gadgets.md",
-    "0300 - The Rules of Engagement/Crafting Techniques.md",
     "0300 - The Rules of Engagement/0300 - The Rules of Engagement.md",
     "0200 - The Fundamental Elements of a Hero/Unlocking Your Quirk.md",
     "0200 - The Fundamental Elements of a Hero/0200 - The Fundamental Elements of a Hero.md",
     "0200 - The Fundamental Elements of a Hero/Inventing Your Persona.md",
     "0200 - The Fundamental Elements of a Hero/Learning Heroic Trainings.md",
-    "0200 - The Fundamental Elements of a Hero/Realizing Your Skills.md",
     "0100 - The World of the Powers and the Powerless/Origin of the Quirk.md",
-    "0100 - The World of the Powers and the Powerless/Threat of the Quirk Singularity.md",
-    "0100 - The World of the Powers and the Powerless/Lineage of Heroes.md"
+    "0100 - The World of the Powers and the Powerless/Threat of the Quirk Singularity.md"
   ]
 }
