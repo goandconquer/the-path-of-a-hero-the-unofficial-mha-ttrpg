@@ -15,14 +15,14 @@ Last Modified: 08-31-2023
 	- [Grave Counters](Mastering%20Combat.md#grave-counters)
 3. [Status Effects](Mastering%20Combat.md#status-effects)
 4. [Action Economy](Mastering%20Combat.md#action-economy)
-	- [Instinct Order](Mastering%20Combat.md#instinct-order)
 	- [Actions](Mastering%20Combat.md#actions)
 	- [Techniques](Mastering%20Combat.md#techniques)
-	- [Defensive Actions](Mastering%20Combat.md#defensive-actions)
 	- [Reactions](Mastering%20Combat.md#reactions)
+	- [Instinct Order](Mastering%20Combat.md#instinct-order)
+	- [Defensive Actions](Mastering%20Combat.md#defensive-actions)
 	- [Movement](Mastering%20Combat.md#movement)
 	- [Interactions](Mastering%20Combat.md#interactions)
-5. [Downtime](Mastering%20Combat.md#downtime)
+6. [Downtime](Mastering%20Combat.md#downtime)
 
 ****
 ## Skill Checks
