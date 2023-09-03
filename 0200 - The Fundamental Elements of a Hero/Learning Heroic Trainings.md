@@ -1,6 +1,6 @@
 Category: [0200 - The Fundamental Elements of a Hero](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero.md)  
 Tags: #fundamental-elements-of-a-hero #heroic-trainings  
-Last Modified: 08-31-2023  
+Last Modified: 09-02-2023  
 # Learning Heroic Trainings
 
 ****
@@ -43,9 +43,9 @@ Last Modified: 08-31-2023
 
 # The Heroic Trainings
 
-%% @TODO: Provide introductory flavor text for Tinkerer. %%
-
 ## Tinkerer
+
+%% @TODO: Provide introductory flavor text for Tinkerer. %%
 
 **\[1 EP\] Apprenticeship**
 Whether from countless hours poured into it as a hobby or from having a mentor in the business to show you all the ins and outs of the trade, your understanding of invention and technology has really grown into something profound but you still lack the authority to create items without the proper supervision. When working under the watchful eye of a licensed professional, you may make items from materials as high as B-rank.
@@ -55,9 +55,9 @@ Your time under supervision has given you insight to more of the spontaneous and
 
 **\[3 EP\] Tinkerer's License**
 You have now since transcended the limits of what any licensed professional could instruct you on, having demonstrated your proficiency in resourcefulness and attention to detail through your craft. You now have a profession license of your own, which enables you to create any piece of conceivable equipment without supervision as well as use up to five gadgets at a time in public. When creating items inside of a industry-standard workshop, you are able to create items using S-ranked materials. Outside of workshops, you are limited to using C-ranked materials for your item creation. You are able to bypass the requirement of _Gadget Handler_ in the _Gadget License_ collection and you receive a 1 EP discount when picking up _My Armory_ and _Power Fluent_ from the _Gadget License_ collection.
+## Medical
 
 %% TODO: Provide introductory flavor text for Medical. %%
-## Medical
 
 **\[1 EP\] First Aid**
 If you possess a healing-based Quirk, you no longer require consumable medical kits to perform substantive healing. Additionally, Your Medical Techniques now heal according to the maximum obtainable value of the scaling dice table found under the "Healing Techniques" section of "Understanding Techniques" plus your Aptitude. The Rank of the Medical Technique in question determines the dice used. Additionally, you are now able to revive fallen allies and subsequently heal them a number of Hit Points equal to the Rank of the Medical Technique being used plus your Aptitude as seen under the same section.
@@ -71,17 +71,12 @@ You have conditioned yourself to tune out the chaos and noise of an active battl
 
 **\[3 EP\] Dr. Who?**
 You have earned access to a static D-ranked Practiced Technique that does not cost you a technique point to learn. When you use this technique, you may approach an ally and touch them in order to establish a continuous medical connection that enables you to heal them without being physically close to them. On each turn after its use, you may choose to spend a number of Limit Points equal to the full activation cost plus half that same cost in order to heal them 1d4 Health Points equal. In addition, at the beginning of each consecutive turn that this technique is active, you must roll a Stamina check in order to maintain concentration. You receive a +3 bonus to this check. If you fail this check, the medical connection is broken and the technique ends.
-
-%% TODO: Provide introductory flavor text for Speed Demon. %%
 ## Speed Demon (Emitters)
 
-****
+%% TODO: Provide introductory flavor text for Speed Demon. %%
 
 **Speed Forced**
 You may choose to apply your Quirk dice to either the to-hit or the damage of your physical techniques.
-
-
-****
 
 **\[1 EP\] Act Now, Think Later**
 You may use Speed when rolling to determine your position in the Instinct Order.
@@ -235,6 +230,22 @@ You hold to the traditions of the warrior, forgoing any sense of self-preservati
 ## Stealth
 
 ## Inception
+
+## Pseudomorph
+
+The art of deception is an unsung branch of the blossoming modern Hero society, though there are some that believe espionage and flash identities are not without their uses in supporting the grander efforts of Heroes to preserve justice. Learning to hone their acting and observational skills to best utilize their quirks, these heroes are masters of disguise and are nearly indistinguishable from the real people they impersonate.
+
+**\[1 EP\] Polymorphed**
+
+When impersonating a target you have spent at least a minute observing, gain a bonus to Spirit and Accuracy checks equal to your Aptitude modifier when convincing others for the first time that you are the target. This bonus does not apply to any attempts made after, nor does it apply to groups where an individual that you previously attempted to convince is present. Once successfully convinced of your ruse, an individual need not make a roll against your deception again unless information contradictory to your persona is presented to them. The individual then performs a roll with advantage with Aptitude or Accuracy against your original roll to deceive them. If they fail, they remain deceived until the next time that new information is presented to them, at which point they realize they have been tricked. While convinced of your ruse, you have advantage on Spirit checks made to persuade or deceive individuals to carry out actions on your behalf.
+
+**\[2 EP\] Chameleon**
+
+Espionage is a volatile endeavor where everything can change at the drop of a hat, and you must be prepared for any situation, especially when your identity is compromised. After an individual succeeds their check against your deception, you have advantage on Speed checks as they relate to your escape, and you are able to double the distance you cover when spending an Action on Movement once. Additionally, Spirit checks made to convince new individuals of your impersonation do not have disadvantage.
+
+**\[3 EP\] Pseudomorphous**
+
+%% @TODO: Gain clarity on the Pseudomorphous ability as written by Canon.
 
 ****
 
