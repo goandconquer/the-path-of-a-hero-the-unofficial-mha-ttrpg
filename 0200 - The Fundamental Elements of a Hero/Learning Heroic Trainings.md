@@ -40,6 +40,10 @@ Last Modified: 09-02-2023
 	- [Pseudomorph](Learning%20Heroic%20Trainings.md#pseudomorph)
 
 ****
+
+%% #todos: Fury Counters can be expended to supplement the damage caused by any source. %%
+
+****
 # The General Enhancements
 
 # The Heroic Trainings
