@@ -55,13 +55,15 @@ Unlike other Quirks, an Emitter Quirk possesses an inherent enhancing aspect tha
 
 ### Transformation Quirks
 
-Often, the manifestation of a person's quirk is so deeply tied to their biological or physiological state that they cannot be decoupled. This often enables a person with a Transformation Quirk to temporarily embody alterations that usually enhance existing features, remove features, or adding new features.
+Quirks that manifest with the potential to fundamentally alter biological and physiological states of their hosts seemingly in real time are known as Transformation Quirks. A character that possesses this Quirk will find themselves inseparably coupled with its pulsing energies, enabling them to temporarily assume enhancements to their bodily structure—usually in the form of gaining features that grant the character abilities of an otherwise supernatural quality, shedding features that otherwise restrict the character, or enhancing features that the character already possesses.
 
-These Quirks often carry with them a number of physical buffs as they relate to the theme of a character's Transformation Quirk. These buffs help better define the conceptual characteristics of their active transformation state, although they typically last only a short period time before the character inevitably experiences a Quirk Exhaust.
+The state that results from a character assuming these changes is known as their **active transformation state**. The active transformation state is defined by a Transformation Technique that is cosmetically and mechanically unique to the character that possesses it
 
-Transformation Quirks do not utilize the regular Quirk Tier system. Instead, you gain a bonus modifier to a number of skills based on your Quirk Tier as shown in the table below. It is an uncontestable requirement that one of these chosen skills be your character's Quirk Focus. If Stamina is raised this way, the character gains HP while concentrating on their active transformation state.
+It is typically a costly state for a character to maintain over long periods—Quirk Exhaustion, accelerated physical wear-and-tear, and prolonged mental strain can plague a character that exceeds their tolerance if they expend the entirety of their Limit Pool while assuming it. Additionally, the active transformation state requires **concentration**. While damage dealt by physical attacks typically do not disrupt the persistence of the active transformation state, certain Status Effects and other damage types have the potential to interrupt it.
 
-| Tier Rank | # of "True Rank" Stats    |
+Transformation Quirks do not utilize the regular Quirk Tier system. Instead, characters gain a bonus modifier to a certain number of skills based on their Quirk Tier as shown in the table below.
+
+| Tier Rank | # of "True Rank" Skills   |
 | --------- |---------------------------|
 | Tier 4    | 1                         |
 | Tier 3    | 2                         |
@@ -69,13 +71,17 @@ Transformation Quirks do not utilize the regular Quirk Tier system. Instead, you
 | Tier 1    | 4                         |
 | Tier 0    | 5                         |
 
+At least one of the selected skills must be the character's Quirk Focus. In cases where one of the selected skills is Stamina, the character gains Hit Points from the resulting increase only while in their active transformation state.
+
+
+
+Transformation Quirks do not require the Characters that possess a Transformation Quirk do not spend Enhancement Points in order to True Rank above the Human Limit like other Quirk 
+
 Characters with a Transformation Quirk do not have to spend Enhancement Points to raise their True Rank above the Human Limit like other Quirk types. The trade-off is that their Limit Rank cannot ever raise past a C+ (or the Human Limit) via this process.
 
 For starting characters, it is likely that their True Rank will be lower than their Limit Rank of C+. In these situations, when the character concentrates on their active transformation state, their True Rank modifiers will be temporarily replaced by the Limit Rank modifiers because they are higher. This exchange is only true while the character is concentrating on their active transformation state.
 
 When a character is able to inevitably raise their True Rank above the Human Limit, a permanent conceptual exchange takes place. Their True Rank modifiers now only apply while they are concentrating on their active transformation state and their Limit Rank apply otherwise.
-
-The alterations gained from concentrating on a character's Transformation Quirk last only as long as they have the energy (or Limit Points) and do not suffer some physical, mental, or spiritual Status Effects that would otherwise interrupt their concentration. While a character concentrates on their active transformation state, they must spend a number of Limit Points equal to the modifier determined by their Control Rank or be forced to release their concentration.
 
 ### Mutation Quirks
 

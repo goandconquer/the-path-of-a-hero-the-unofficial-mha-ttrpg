@@ -19,6 +19,9 @@ Last Modified: 08-31-2023
 
 **Offensive Maneuver**
 
+**active transformation state**
+**concentration**
+
 ****
 
 (next: [Henchmen](Henchmen.md))

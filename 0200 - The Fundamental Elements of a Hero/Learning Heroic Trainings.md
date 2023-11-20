@@ -32,7 +32,7 @@ Last Modified: 09-02-2023
 	- [Yandere](Learning%20Heroic%20Trainings.md#yandere)
 	- [Recon](Learning%20Heroic%20Trainings.md#recon)
 	- [Chem Tech](Learning%20Heroic%20Trainings.md#chem-tech)
-	- [#Flying](Learning%20Heroic%20Trainings.md#flying)
+	- [Flying](Learning%20Heroic%20Trainings.md#flying)
 	- [Mental Combat](Learning%20Heroic%20Trainings.md#mental-combat)
 	- [Protectorate](Learning%20Heroic%20Trainings.md#protectorate)
 	- [Stealth](Learning%20Heroic%20Trainings.md#stealth)
@@ -48,6 +48,9 @@ Last Modified: 09-02-2023
 
 # The Heroic Trainings
 
+
+
+****
 ## Tinkerer
 
 **\[1 EP\] Apprenticeship**
@@ -58,6 +61,8 @@ Your time under supervision has given you insight to more of the spontaneous and
 
 **\[3 EP\] Tinkerer's License**
 You have now since transcended the limits of what any licensed professional could instruct you on, having demonstrated your proficiency in resourcefulness and attention to detail through your craft. You now have a profession license of your own, which enables you to create any piece of conceivable equipment without supervision as well as use up to five gadgets at a time in public. When creating items inside of a industry-standard workshop, you are able to create items using S-ranked materials. Outside of workshops, you are limited to using C-ranked materials for your item creation. You are able to bypass the requirement of _Gadget Handler_ in the _Gadget License_ collection and you receive a 1 EP discount when picking up _My Armory_ and _Power Fluent_ from the _Gadget License_ collection.
+
+****
 ## Medical
 
 **\[1 EP\] First Aid**
@@ -72,6 +77,8 @@ You have conditioned yourself to tune out the chaos and noise of an active battl
 
 **\[3 EP\] Dr. Who?**
 You have earned access to a static D-ranked Practiced Technique that does not cost you a technique point to learn. When you use this technique, you may approach an ally and touch them in order to establish a continuous medical connection that enables you to heal them without being physically close to them. On each turn after its use, you may choose to spend a number of Limit Points equal to the full activation cost plus half that same cost in order to heal them 1d4 Health Points equal. In addition, at the beginning of each consecutive turn that this technique is active, you must roll a Stamina check in order to maintain concentration. You receive a +3 bonus to this check. If you fail this check, the medical connection is broken and the technique ends.
+
+****
 ## Speed Demon (Emitters)
 
 **Speed Forced**
@@ -86,6 +93,7 @@ For physical attacks, you may use Speed when determining whether the attack hits
 **\[3 EP\] Road Runner**
 You can use the AOE table 1 rank below your Movement Technique Rank to deal damage that you wouldn't otherwise make using the technique normally. 
 
+****
 ## Fatgum
 
 \[**1 EP\] Healing Factor**
@@ -105,7 +113,9 @@ For this attack, you spend the number of Limit Points equal to half your Control
 
 Any unspent Action Points reserved for this Reaction Technique are lost.
 
+****
 ## Rescue
+
 Rescue Training is all about how to navigate the uncertain and ever-changing environments that arise when disaster strike. These scenes are often full of smoldering fires, crumbling scenes and structures, and architectural insecurities that make them difficult and dangerous to navigation for even experienced heroes.
 
 Specifically, heroes with Rescue Training are proficient in heading into these environments and bringing the unfortunate innocent out safely, as well as being better at preventing such scenes from becoming a reality. Such heroes are often selfless, quick-to-action, and have solid instincts to guide them through the uncertainty of disaster sites.
@@ -119,6 +129,7 @@ There are few that have the heroic endurance necessary to carry themselves throu
 **\[3 EP\] I Am Here**
 The tumultuous environment of an active disaster scene can render even strong spirits weak, as they find themselves unable to swallow the horrific sights of death and destruction. It takes stouthearted leaders to keep them on task and prevent more from being added to the scene. When you are on the field during or after a disaster, any allies within a 50-meter radius of you (including yourself) gains a +5 bonus to Stamina and Spirit until all civilians are rescued.
 
+****
 ## Crime Fighter
 
 **\[1 EP\] Friendly Neighborhood Vigilante**
@@ -131,6 +142,7 @@ Some heroes rely solely on their physical strength in combat. When using a Physi
 **\[3 EP\] Thug Slugger**
 A high-quality hero is worth its weight in villains. When in combat, if you (and your team) are outnumbered, you gain an additional damage die that scales according to the number of opponents you are outnumbered. For 1 opponent, you gain a d4. For 2, gain a d6. For 3, gain a d8. For 4, gain a d10. For 5, gain a d12. For 6 or more, gain a d20. This bonus is applied to all attacks you make.
 
+****
 ## Private Investigator
 
 **\[1 EP\] Spinning the Web**
@@ -142,6 +154,7 @@ You've trained your mind to better keep the whole picture available at a moment'
 **\[3 EP\] Discombobulate**
 Embracing knowledge as power has heighened your offensive capabilities. During combat, you may spend clues up to the number you have recorded to deal additional damage. For each clue spent, add an additional d4 to the damage of your attack.
 
+****
 ## True Detective
 
 **\[1 EP\] Regular Ole' Sleuth**
@@ -156,6 +169,7 @@ Your intuition and attention to detail has reached a superhuman level, allowing 
 
 You no longer susceptible to the whims and fancies of a charasmatic speaker, only digesting the raw intentionality of their words. Determining the undeniable truth of the matter has become a child's charade. You may now spend a Deduction Point to immediately see through any lie told to you by a target, regardless of their roll. Additionally, you may spend a Deduction Point to immediately convince a target of a lie, regardless of what they roll in response. 
 
+****
 ## Oblivion
 
 **\[1 EP\]**
@@ -164,8 +178,10 @@ You no longer susceptible to the whims and fancies of a charasmatic speaker, onl
 
 **\[3 EP\]**
 
+****
 ## People Pleaser
 
+****
 ## Silver Tongue
 
 **\[1 EP\] Yes, And!**
@@ -180,38 +196,55 @@ The art of the silver-tongued is to make the deceived feel as if they've been in
 
 The most incredible lies are the ones carried on by the insipid masses. As you successfully convince more and more targets of your grand deceptions, it becomes harder for those not yet convinced to resist the mentality of the mob. For every 2 sucessfully deceived targets, up to twice your Spirit modifier, gain an additional d4 that may be added to the roll made to convince subsequent targets.
 
+****
 ## Team Player
 
+****
 ## Wilderness
 
+****
 ## Leet Haxor
 
+****
 ## Infiltrator
 
+****
 ## Arsenal
 
+****
 ## Blade
 
+****
 ## Ordinance
 
+****
 ## Villainous
 
+****
 ## Henchman
 
+****
 ## Battle Analysis
 
+****
 ## Hot-Head
 
+****
 ## Yandere
 
+****
 ## Recon
 
+****
 ## Chem Tech
 
+****
 ## Flying
 
+****
 ## Mental Combat
 
+****
 ## Protectorate
 
 **\[1 EP\] Human Shield**
@@ -226,10 +259,13 @@ There is no sight worse than an ally in pain, so you have reconditioned yourself
 
 You hold to the traditions of the warrior, forgoing any sense of self-preservation and When an ally within your range of movement achievable by a single action goes down, you may sacrifice half of your remaining Limit Points to stabilize them and bring them back up to a single Hit Point. You may do this once per day. 
 
+****
 ## Stealth
 
+****
 ## Inception
 
+****
 ## Pseudomorph
 
 The art of deception is an unsung branch of the blossoming modern Hero society, though there are some that believe espionage and flash identities are not without their uses in supporting the grander efforts of Heroes to preserve justice. Learning to hone their acting and observational skills to best utilize their quirks, these heroes are masters of disguise and are nearly indistinguishable from the real people they impersonate.

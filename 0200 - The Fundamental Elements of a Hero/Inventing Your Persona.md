@@ -58,6 +58,7 @@ You have become a ward of the state due to the actions of one or more of your pa
 
 A character with the Villainous Heritage background receives 50 starting Quin.
 
+****
 # Personas
 
 ## Lineage

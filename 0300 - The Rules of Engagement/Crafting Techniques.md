@@ -107,6 +107,12 @@ Reflected status effects take an action to dismiss.
 
 ## Transformation Techniques
 
+Transformation Techniques are special techniques only learnable by characters that possess a corresponding Transformation Quirk. These techniques specifically define how these character moving between their "active" and "inactive" transformation states.
+
+When moving into their "active" transformation state, the Activation Cost of the technique is equal to the number of Limit Points as normally determined by the Control Rank of the technique. For each subsequent turn that the character remains in their "active" transformation state, the Maintenance Cost of the technique is 100% of the character's Limit Refresh Rate. A player may collaborate with the gamemaster to determine alternative ways to recover Limit Points while their character is in their "active" transformation state. There is no cost associated with a character moving into their "inactive" transformation state.
+
+This technique does not count against your total number of Technique Points.
+
 ## Trump Cards
 
 ## Weapon Techniques
