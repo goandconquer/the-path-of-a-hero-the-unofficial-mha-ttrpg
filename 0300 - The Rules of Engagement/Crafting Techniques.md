@@ -28,22 +28,31 @@ Last Modified: 08-31-2023
 ****
 
 %% #todos: Trained Physical Techniques can only have a range of Melee (2 meters), regardless of the Technique Rank. %%
+%% #todos: Confirm combination of Buffs and Debuffs into Status Techniques. %%
 
 ****
 ## Area of Effect Techniques
 
 ## Barrier Techniques
 
-## Buff and Debuff Techniques
+## Status Techniques
 
-| Rank | Buff                | Debuff             |
-|------|---------------------|--------------------|
-| E    | +1 STAT, +1 DMG     | -1 STAT, -1 DMG    |
-| D    | +2 STAT, +1d4 DMG   | -2 STAT, -1d4 DMG  |
-| C    | +3 STAT, +1d6 DMG   | -3 STAT, -1d6 DMG  |
-| B    | +5 STAT, +1d8 DMG   | -5 STAT, -1d8 DMG  |
-| A    | +7 STAT, +1d10 DMG  | -7 STAT, -1d10 DMG |
-| S    | +10 STAT, +1d12 DMG | -10 STAT, 1d12 DMG |
+Status Techniques are techniques that bestows a beneficial or detrimental effect upon one or more targets for a short period of time. While many aspects of a target can be affected by such techniques, the most common applications are increasing or reducing a target's modifier when they attempt to use the selected Skill, or increasing and reducing a target's Damage Output. The table below shows the appropriate values to be added or subtracted from the target based on the Control Rank of the technique.
+
+| Rank | Skills    | Damage Output |
+|------|-----------|---------------|
+| E    | ±1 SKILL  | ±1 DMG        |
+| D    | ±2 SKILL  | ±1d4 DMG      |
+| C    | ±3 SKILL  | ±1d6 DMG      |
+| B    | ±5 SKILL  | ±1d8 DMG      |
+| A    | ±7 SKILL  | ±1d10 DMG     |
+| S    | ±10 SKILL | ±1d12 DMG     |
+
+Status Techniques must be created with either a beneficial or detrimental effect in mind. A single technique may not bestow both, but multiple Status Techniques can be defined for a single character given that the necessary Technique Points are available to do so. A player may collaborate with the gamemaster to define the extent of the effect on other aspects of a target.
+
+The Activation Cost is determined normally by the Control Rank of the technique.
+
+The Maintenance Cost of the technique is equal to half the Activation Cost. At the start of their turn, a player may opt to release the technique. If they do, the targets are no longer 
 ## Charge Techniques
 
 ## Draining Techniques
@@ -107,11 +116,13 @@ Reflected status effects take an action to dismiss.
 
 ## Transformation Techniques
 
-Transformation Techniques are special techniques only learnable by characters that possess a corresponding Transformation Quirk. These techniques specifically define how these character moving between their "active" and "inactive" transformation states.
+Transformation Techniques are special techniques only learnable by characters that possess a [Transformation Quirk](../0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero/Unlocking%20Your%20Quirk.md#Transformation%20Quirks) and specifically define the mechanics behind how a character assume and release their active transformation state. A character may only ever have one Transformation Technique defined unless in special circumstances where it makes thematic sense to have varying transformations. 
 
-When moving into their "active" transformation state, the Activation Cost of the technique is equal to the number of Limit Points as normally determined by the Control Rank of the technique. For each subsequent turn that the character remains in their "active" transformation state, the Maintenance Cost of the technique is 100% of the character's Limit Refresh Rate. A player may collaborate with the gamemaster to determine alternative ways to recover Limit Points while their character is in their "active" transformation state. There is no cost associated with a character moving into their "inactive" transformation state.
+The Activation Cost is determined normally by the Control Rank of the technique, and the cost is only rendered when a character is assuming their active transformation state. There is no cost associated with releasing their active transformation state.
 
-This technique does not count against your total number of Technique Points.
+The Maintenance Cost is equal by the number of Limit Points that a character's Limit Refresh Rate would normally provide at the start of their turn, essentially setting their Limit Refresh Rate to zero (0) as long as the character is assuming their active transformation state; however, a player may collaborate with the gamemaster to determine thematically appropriate ways to recover Limit Points while their character is assuming their active transformation state.
+
+These techniques does not count against a character's total number of Technique Points.
 
 ## Trump Cards
 

@@ -14,7 +14,7 @@ Regardless of the motivation, all of them rely on the manifestation of a unique 
 1. [What is Your Quirk](Unlocking%20Your%20Quirk.md#what-is-your-quirk)
 2. [The Three Quirk Types](Unlocking%20Your%20Quirk.md#the-three-quirk-types)
 	- [Emitter Quirks](Unlocking%20Your%20Quirk.md#emitter-quirks)
-	- [Transformation Quirks](Unlocking%20Your%20Quirk.md#transformation-quirks)
+	- [Transformation Quirks](Unlocking%20Your%20Quirk.md#Transformation%20Quirks)
 	- [Mutation Quirks](Unlocking%20Your%20Quirk.md#mutation-quirks)
 3. [Possessing Multiple Quirks](Unlocking%20Your%20Quirk.md#possessing-multiple-quirks)
 4. [The Quirk Tiers](Unlocking%20Your%20Quirk.md#the-quirk-tiers)
@@ -55,9 +55,9 @@ Unlike other Quirks, an Emitter Quirk possesses an inherent enhancing aspect tha
 
 ### Transformation Quirks
 
-Quirks that manifest with the potential to fundamentally alter biological and physiological states of their hosts seemingly in real time are known as Transformation Quirks. A character that possesses this Quirk will find themselves inseparably coupled with its pulsing energies, enabling them to temporarily assume enhancements to their bodily structure—usually in the form of gaining features that grant the character abilities of an otherwise supernatural quality, shedding features that otherwise restrict the character, or enhancing features that the character already possesses.
+Quirks that manifest with the potential to fundamentally alter biological, physiological, and chemical states of their hosts seemingly in real time are known as **Transformation Quirks**. A character that possesses a Transformation Quirk will find themselves inseparably coupled with its pulsing energies, enabling them to temporarily assume enhancements to their bodily structure—usually in the form of gaining features that grant the character abilities of an otherwise supernatural quality, shedding features that otherwise restrict the character, or enhancing features that the character already possesses.
 
-The state that results from a character assuming these changes is known as their **active transformation state**. The active transformation state is defined by a Transformation Technique that is cosmetically and mechanically unique to the character that possesses it
+The state that results from a character assuming these changes is known as their **active transformation state**. The active transformation state is defined by a **Transformation Technique** that is cosmetically and mechanically unique to the character that possesses it.
 
 It is typically a costly state for a character to maintain over long periods—Quirk Exhaustion, accelerated physical wear-and-tear, and prolonged mental strain can plague a character that exceeds their tolerance if they expend the entirety of their Limit Pool while assuming it. Additionally, the active transformation state requires **concentration**. While damage dealt by physical attacks typically do not disrupt the persistence of the active transformation state, certain Status Effects and other damage types have the potential to interrupt it.
 
@@ -136,6 +136,8 @@ Characters are able to advance to higher tiers through dedication, persistance, 
 | Tier 3-2             | 10 PUPs               |
 | Tier 2-1             | 15 PUPs               |
 | Tier 1-0             | 20 PUPs               |
+
+%% #todos: Can Quirk Awakening take place during training for twice the PUPs, as stated in the original rulebook? %% 
 
 ****
 
