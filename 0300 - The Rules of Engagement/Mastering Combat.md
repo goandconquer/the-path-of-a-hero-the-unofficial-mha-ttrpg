@@ -17,6 +17,9 @@ Last Modified: 09-02-2023
 4. [Action Economy](Mastering%20Combat.md#action-economy)
 	- [Actions](Mastering%20Combat.md#actions)
 	- [Techniques](Mastering%20Combat.md#techniques)
+		- [Trained Techniques](Mastering%20Combat.md#Trained%20Techniques)
+		- [Freeform Techniques](Mastering%20Combat.md#Freeform%20Techniques)
+		- [Concentration](Mastering%20Combat.md#Trained%20Techniques)
 	- [Reactions](Mastering%20Combat.md#reactions)
 	- [Instinct Order](Mastering%20Combat.md#instinct-order)
 	- [Defensive Actions](Mastering%20Combat.md#defensive-actions)
@@ -26,7 +29,6 @@ Last Modified: 09-02-2023
 
 ****
 
-%% #todos: How long is a Round of combat? %%
 %% #todos: Set base Melee Range to 2 Meters. %%
 
 ****
@@ -101,9 +103,15 @@ At the start of their Turn, a player has three (3) Actions to use. These may be 
 
 %% @TODO: Finish Techniques section content. %%
 
-**Trained Techniques**
+#### Trained Techniques
 
-**Freeform Techniques**
+#### Freeform Techniques
+
+#### Concentration
+
+%% #todos: Define Concentration. %%
+
+Concentration 
 ### Reactions
 
 A player may opt to perform an **Action Exchange** in which the player exchanges one of their Action Points to gain an additional Reaction to use after their Turn has ended. A player may only perform this exchange once on their Turn. If the exchanged Reaction is not used before the start of their Turn, then it is lost.

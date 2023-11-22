@@ -276,11 +276,11 @@ When impersonating a target you have spent at least a minute observing, gain a b
 
 **\[2 EP\] Chameleon**
 
-Espionage is a volatile endeavor where everything can change at the drop of a hat, and you must be prepared for any situation, especially when your identity is compromised. After an individual succeeds their check against your deception, you have advantage on Speed checks as they relate to your escape, and you are able to double the distance you cover when spending an Action on Movement once. Additionally, Spirit checks made to convince new individuals of your impersonation do not have disadvantage.
+Espionage is a volatile endeavor where everything can change at the drop of a hat, and you must be prepared for any situation, especially when your identity is compromised. After an individual succeeds their check against your deception, you have advantage on Speed checks when being stealthy, and you are able to double the distance you cover when spending an Action on Movement once. Additionally, Spirit checks made to convince individuals of a new impersonation do not have disadvantage, including previously encountered individuals who have not yet seen your new impersonation.
 
 **\[3 EP\] Pseudomorphous**
 
-%% #todos: Gain clarity on the Pseudomorphous ability as written by Canon. %%
+Your method of embodying your target has transcended mere charms and confidence. You may now mimic the techniques of the target you are impersonating. If you already possess a Quirk or technique that allows you to replicate or impersonate an aspect of a target, you may assume and use one of the target's Quirk Techniques, if they have any, at the Rank defined if it is lower than your Control Rank or up to one Rank higher than your Control Rank. You may use this technique once a turn without suffering any negative effects. If you do not already have a Quirk or technique that allows you to replicate or impersonate an aspect of a target, you may instead assume and use one of their Physical Techniques, if they have any, rolling on the Quirk Damage Table.
 
 ****
 

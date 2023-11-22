@@ -3,18 +3,12 @@ Tags: #fundamental-elements-of-a-hero #quirks
 Last Modified: 08-31-2023  
 # Unlocking Your Quirk
 
-Heroes come in all shapes and sizes, and that's not an exaggeration. With so many superhumans scattered throughout society, figuring out what it means to be a human has become quite the challenge.
-
-Many have strived to use their newfound abilities to protect those who cannot protect themselves, aspiring for society and their peers to recognize them as heroes. Others have opted to exploit their superiority over those who see them as freaks and give into their own selfish desires, becoming villains.
-
-Regardless of the motivation, all of them rely on the manifestation of a unique source of supernatural power—the Quirk.
-
 ****
 
 1. [What is Your Quirk](Unlocking%20Your%20Quirk.md#what-is-your-quirk)
 2. [The Three Quirk Types](Unlocking%20Your%20Quirk.md#the-three-quirk-types)
 	- [Emitter Quirks](Unlocking%20Your%20Quirk.md#emitter-quirks)
-	- [Transformation Quirks](Unlocking%20Your%20Quirk.md#Transformation%20Quirks)
+	- [Transformation Quirks](Unlocking%20Your%20Quirk.md#transformation-quirks)
 	- [Mutation Quirks](Unlocking%20Your%20Quirk.md#mutation-quirks)
 3. [Possessing Multiple Quirks](Unlocking%20Your%20Quirk.md#possessing-multiple-quirks)
 4. [The Quirk Tiers](Unlocking%20Your%20Quirk.md#the-quirk-tiers)
@@ -22,23 +16,24 @@ Regardless of the motivation, all of them rely on the manifestation of a unique 
 
 ****
 
-%% #todos: Revise Terms for Quirk Tier Bonus and Quirk Die to reference their respective Quirk type (Mutation Bonus and Emitter Die). %%
+Heroes come in all shapes and sizes, and that's not an exaggeration. With so many superhumans scattered throughout society, figuring out what it means to be a human has become quite the challenge.
 
-****
+Many have strived to use their newfound abilities to protect those who cannot protect themselves, aspiring for society and their peers to recognize them as heroes. Others have opted to exploit their superiority over those who see them as freaks and give into their own selfish desires, becoming villains.
+
+Regardless of the motivation, all of them rely on the manifestation of a unique source of supernatural power—the Quirk.
 ## What is Your Quirk
 
 The manifestation of a Quirk can encompass an infinite range of characteristics and functions, however everyone possess three key traits.
 
 - The characteristics and functions of the Quirk has some reasonable basis, given suspension of disbelief, in scientific knowledge.
 - The Quirk possesses certain drawbacks that impact the physical, emotional, or intellectual health of its user.
-- The manifestation of the Quirk should be distinctive and signicantly separate from other Quirks. That is to say, the core theme of the Quirk may be the same as another, but their specific characteristics and functions must differ.
+- The manifestation of the Quirk should be distinctive and significantly separate from other Quirks. That is to say, the core theme of the Quirk may be the same as another, but their specific characteristics and functions must differ.
 
 ## The Three Quirk Types
 
-Since the discovery of the first manifested Quirk, significant efforts have been made to analyze and catagorize the common characteristics and functions of superhuman abilities. However, the range of potential manifestions is near infinite and thus the effort to understand and group them is never-ending and the system constantly adapts to new Quirks.
+Since the discovery of the first manifested Quirk, significant efforts have been made to analyze and categorize the common characteristics and functions of superhuman abilities. However, the range of potential manifestations is near infinite and thus the effort to understand and group them is never-ending and the system constantly adapts to new Quirks.
 
-Although most Quirks could be reasonably grouped into multiple catagories, most Quirks will primarily fall into one of three broad types based on their function. These types are labeled as _Emiter_, _Mutation_, and _Transformation_.
-
+Although most Quirks could be reasonably grouped into multiple categories, most Quirks will primarily fall into one of three broad types based on their function. These types are _Emitter_, _Mutation_, and _Transformation_.
 ### Emitter Quirks
 
 Emitter Quirks are denoted by their ability to release certain substances or emit a certain aura. They often require a conscious effort to activate and sometimes require large amounts of concentration for them to remain active. They are accompanied by a subtle physical mutation or deformity.
@@ -52,7 +47,6 @@ Unlike other Quirks, an Emitter Quirk possesses an inherent enhancing aspect tha
 | Tier 2     | +d6         |
 | Tier 1     | +d8         | 
 | Tier 0     | +d10        |
-
 ### Transformation Quirks
 
 Quirks that manifest with the potential to fundamentally alter biological, physiological, and chemical states of their hosts seemingly in real time are known as **Transformation Quirks**. A character that possesses a Transformation Quirk will find themselves inseparably coupled with its pulsing energies, enabling them to temporarily assume enhancements to their bodily structure—usually in the form of gaining features that grant the character abilities of an otherwise supernatural quality, shedding features that otherwise restrict the character, or enhancing features that the character already possesses.
@@ -82,10 +76,9 @@ Characters with a Transformation Quirk do not have to spend Enhancement Points t
 For starting characters, it is likely that their True Rank will be lower than their Limit Rank of C+. In these situations, when the character concentrates on their active transformation state, their True Rank modifiers will be temporarily replaced by the Limit Rank modifiers because they are higher. This exchange is only true while the character is concentrating on their active transformation state.
 
 When a character is able to inevitably raise their True Rank above the Human Limit, a permanent conceptual exchange takes place. Their True Rank modifiers now only apply while they are concentrating on their active transformation state and their Limit Rank apply otherwise.
-
 ### Mutation Quirks
 
-Quirks of this type dramatically alter the underlying architecture of a person, however their existance still manifests in the form of a noticable external feature. Mutation Quirks are active all the time due to their significant integration into a person's physiology. They are also seen as a minority in the social hierarchy of superhumans and are often discriminated against. These alterations can also singificantly impact how these characters live day-to-day. They often require custom equipment to accomodate external features or special materials to cope with sensitivities.
+Quirks of this type dramatically alter the underlying architecture of a person, however their existence still manifests in the form of a noticeable external feature. Mutation Quirks are active all the time due to their significant integration into a person's physiology. They are also seen as a minority in the social hierarchy of superhumans and are often discriminated against. These alterations can also significantly impact how these characters live day-to-day. They often require custom equipment to accommodate external features or special materials to cope with sensitivities.
 
 Mutation Quirks gain an array of flat bonuses that can be assigned to a character's stats based on their Quirk Tier, according to the following table:
 
@@ -128,7 +121,7 @@ Once a hero's Quirk Tier has been set in this way, the only way to advance it is
 
 The process of moving between tiers is known as Quirk Awakening and offers superhumans the ability to add to their array of abilities and increase the potency of their Quirk.
 
-Characters are able to advance to higher tiers through dedication, persistance, and sacrifice—however, the moment at which evolution occurs is when the character is at their most exhausted. In order to achieve the conditions needed for a successful Quirk Awakening, a character must experience a Limit Burst while under 5 HP and spend a number of Plus Ultra Points according to the Quirk Tier they are transitioning to, according to the following table:
+Characters are able to advance to higher tiers through dedication, persistence, and sacrifice—however, the moment at which evolution occurs is when the character is at their most exhausted. In order to achieve the conditions needed for a successful Quirk Awakening, a character must experience a Limit Burst while under 5 HP and spend a number of Plus Ultra Points according to the Quirk Tier they are transitioning to, according to the following table:
 
 | Tier Rank Transition | Plus Ultra Point Cost |
 |----------------------|-----------------------|
@@ -137,7 +130,7 @@ Characters are able to advance to higher tiers through dedication, persistance, 
 | Tier 2-1             | 15 PUPs               |
 | Tier 1-0             | 20 PUPs               |
 
-%% #todos: Can Quirk Awakening take place during training for twice the PUPs, as stated in the original rulebook? %% 
+%% #todos: Revise Terms for Quirk Tier Bonus and Quirk Die to reference their respective Quirk type (Mutation Bonus and Emitter Die). %%
 
 ****
 

@@ -28,7 +28,6 @@ Last Modified: 08-31-2023
 ****
 
 %% #todos: Trained Physical Techniques can only have a range of Melee (2 meters), regardless of the Technique Rank. %%
-%% #todos: Confirm combination of Buffs and Debuffs into Status Techniques. %%
 
 ****
 ## Area of Effect Techniques
@@ -37,7 +36,7 @@ Last Modified: 08-31-2023
 
 ## Status Techniques
 
-Status Techniques are techniques that bestows a beneficial or detrimental effect upon one or more targets for a short period of time. While many aspects of a target can be affected by such techniques, the most common applications are increasing or reducing a target's modifier when they attempt to use the selected Skill, or increasing and reducing a target's Damage Output. The table below shows the appropriate values to be added or subtracted from the target based on the Control Rank of the technique.
+Status Techniques are techniques that bestow a beneficial or detrimental effect upon a target for a short period of time. While many aspects of a target can be affected by such techniques, the most common applications are increasing or reducing a target's modifier when they attempt to use a Skill designated by the technique, or by either increasing or reducing a target's Damage Output when they make attacks. The table below shows the appropriate values to be added or subtracted from the target based on the Control Rank of the technique.
 
 | Rank | Skills    | Damage Output |
 |------|-----------|---------------|
@@ -48,11 +47,23 @@ Status Techniques are techniques that bestows a beneficial or detrimental effect
 | A    | ±7 SKILL  | ±1d10 DMG     |
 | S    | ±10 SKILL | ±1d12 DMG     |
 
-Status Techniques must be created with either a beneficial or detrimental effect in mind. A single technique may not bestow both, but multiple Status Techniques can be defined for a single character given that the necessary Technique Points are available to do so. A player may collaborate with the gamemaster to define the extent of the effect on other aspects of a target.
+Status Techniques must be created with either a beneficial or detrimental effect in mind. A single technique may not bestow more than one effect, but multiple Status Techniques can be defined for a single character given that the necessary Technique Points are available to do so. A player may collaborate with the gamemaster to define the extent of the effect on other aspects of a target.
+
+%% #todos: You may only have one Technique that has a Maintenance Cost active at any time. Transformation Quirks are the exception, as they can have their Transformation Technique on top of that one Technique. %%
+
+If the technique is created with a detrimental effect in mind, then the selected target may make a Saving Roll against the technique user's Spirit to avoid being affected by the technique. If use of the technique relies on the technique user's Quirk to feasible work, then the technique user instead rolls using their Quirk Focus. If use of the technique relies on the sheer non-Quirk martial capabilities of the technique user's Quirk, then the technique user rolls using either Accuracy or Aptitude.
 
 The Activation Cost is determined normally by the Control Rank of the technique.
 
-The Maintenance Cost of the technique is equal to half the Activation Cost. At the start of their turn, a player may opt to release the technique. If they do, the targets are no longer 
+The Maintenance Cost of the technique is equal to half the Activation Cost. At the start of their turn, a player may opt to release the technique before the cost is deducted from their Limit Pool. If the technique is released, the defined effects are no longer bestowed upon the target and the player must pay the Activation Cost again to replicate the effects.
+
+Status Techniques use [concentration](Mastering%20Combat.md#Concentration) while they are maintained.
+## Stance Techniques
+
+%% Copy version of Fighting Styles and Stances as they are presented in book--the damage %% 
+
+Stance Techniques are similar to [Status Techniques](Crafting%20Techniques.md#status-techniques) in that their use renders an increase to some aspect of a character, but at the cost of enabling or intensifying weaknesses which creep into the tactical picture. This thematically translates into certain characters having postures, preferences, and states of mind, or
+
 ## Charge Techniques
 
 ## Draining Techniques
@@ -83,6 +94,10 @@ The Maintenance Cost of the technique is equal to half the Activation Cost. At t
 
 **Fighting Styles**
 ## Quirk Techniques
+
+A Quirk Technique is any technique whose use only makes sense when considered in the context of the technique user's Quirk. It is by design that this kind of technique is left to the interpretation of the player (and, by extension, the gamemaster), as a Quirk should made powerful by the creative energies of the player that controls the technique user.
+
+At the moment, the only Quirk Techniques defined by the rulebook are the [Transformation Techniques](Crafting%20Techniques.md#transformation-techniques), due to the specificity of their function.
 
 ## Reaction Techniques
 

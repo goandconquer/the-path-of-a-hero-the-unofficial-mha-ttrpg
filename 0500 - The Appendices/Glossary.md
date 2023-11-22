@@ -4,18 +4,40 @@ Last Modified: 08-31-2023
 # Glossary
 
 **A**
+activation cost
 active transformation state
 
-**Gamemaster**
+**C**
+concentration
+
+**D**
+damage output
+
+**F**
+firearm
+focus skill
+
+**G**
+gamemaster
+
+**M**
+maintenance cost
+
+**P**
+physical technique
+
+**T**
+technique user
+technique rank
+transformation technique
+
+**Q**
+quirk focus
+quirk technique
+
 **Skill**
 **Technique**
-**Buff**
-**Debuff**
-**Activation Cost**
-**Maintence Cost**
-**Damage Output**
 
-**Firearm**
 **Material Rank**
 **Real Bullets**
 **Rubber Bullets**
