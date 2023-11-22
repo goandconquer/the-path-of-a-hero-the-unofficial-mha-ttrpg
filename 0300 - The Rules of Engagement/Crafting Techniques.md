@@ -92,7 +92,9 @@ Stance Techniques are similar to [Status Techniques](Crafting%20Techniques.md#st
 **Digging Techniques**
 ## Physical Techniques
 
-**Fighting Styles**
+Physical Techniques are any technique that relies on the use of the technique user's body, and therefore operate as the umbrella technique for other physical-based techniques listed in this section.
+
+A Physical Technique which is defined to deal damage to a target uses the table located at [Technique and Freeform Damage](../0500%20-%20The%20Appendices/Technique%20and%20Freeform%20Damage.md) under the "Physical Techniques" column. These techniques may only have an associated Range of Melee, which is two (2) meters.
 ## Quirk Techniques
 
 A Quirk Technique is any technique whose use only makes sense when considered in the context of the technique user's Quirk. It is by design that this kind of technique is left to the interpretation of the player (and, by extension, the gamemaster), as a Quirk should made powerful by the creative energies of the player that controls the technique user.
