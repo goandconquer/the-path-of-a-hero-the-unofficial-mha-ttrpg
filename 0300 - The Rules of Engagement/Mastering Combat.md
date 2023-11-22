@@ -14,8 +14,8 @@ Last Modified: 09-02-2023
 	- [Critical Damage](Mastering%20Combat.md#critical-damage)
 	- [Grave Counters](Mastering%20Combat.md#grave-counters)
 3. [Status Effects](Mastering%20Combat.md#status-effects)
-	- [[Concentration]] 
-	- [Preparation State](Mastering%20Combat.md#preparation-state)
+	- [Concentration](Mastering%20Combat.md#concentration) 
+	- [Preparation](Mastering%20Combat.md#preparation)
 5. [Action Economy](Mastering%20Combat.md#action-economy)
 	- [Actions](Mastering%20Combat.md#actions)
 	- [Techniques](Mastering%20Combat.md#techniques)
@@ -88,16 +88,16 @@ In situations where one or more characters are making Skill Checks against a sta
 Concentration refers to the attention required to maintain a certain action or technique, and is easily maintained even in the heat of battle. Any technique that has an associated Maintenance Cost is assumed to require concentration on the part of the technique user. Whether any given action requires concentration on the character is up to the gamemaster in that individual situation; therefore, a gamemaster's ruling in one circumstance may not necessarily persist to another.
 
 Concentration may only be broken when the concentrating character is successfully targeted by a Mental Technique or if the concentrating character has an insufficient number of Limit Points needed to maintain their concentration.
-### Preparation State
+### Preparation
 
-A character enters a **preparation state** when they use a technique or other mechanical function which requires them to spend actions or turns prior to the effects of that mechanical function taking place. This state is thematically encapsulated in moments where characters must muster some internal resource in order to perform an otherwise costly feat of heroism.
+A character enters **preparation** when they use a technique or other mechanical function which requires them to spend actions or turns prior to the effects of that mechanical function taking place. This state is thematically encapsulated in moments where characters must muster some internal resource in order to perform an otherwise costly feat of heroism.
 
 Each mechanical function will define the extent of the preparation state and the threshold for its interruption in its specific text.
 ## Action Economy
 
 The clash between heroes and villains feel like an inconceivable and chaotic brawl between titans to the naked eyes of the civilians around them, but the most prominent and experienced fighters know that combat is instead a delicate dance between adversaries, where a single mistake can result in fatal consequences. In the heat of battle, the ebb and flow is sacred.
 
-Combat within the *Path of a Hero* system is carried out in **Rounds**, wherein players take **Turns** that encompass their actions within the world. A Round is complete when all players have each taken their Turn to completion. In between the end of one Round and the start of another, the Gamemaster may deem it necessary to switch the focus from Combat to a non-combat situation (especially if other players are not involved in the Combat) or generally provide further exposition for the scene depending on its thematic nature.
+Combat within the *Path of a Hero* system is carried out in **Rounds**, each lasting ten (10) in-game seconds, wherein players take **Turns** that encompass their actions within the world. A Round is complete when all players have each taken their Turn to completion. In between the end of one Round and the start of another, the Gamemaster may deem it necessary to switch the focus from Combat to a non-combat situation (especially if other players are not involved in the Combat) or generally provide further exposition for the scene depending on its thematic nature.
 
 A **Turn** is comprised of any combination of actions, reactions, techniques, movements, and specials that a player has at their disposal. A Player is allotted three (3) **Actions** and one (1) **Reaction** at the start of their Turn. In rare cases, a player might afford themselves more Actions or Reactions based on the rules associated with that mechanics.
 ### Actions

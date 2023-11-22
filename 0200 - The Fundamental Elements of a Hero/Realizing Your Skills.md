@@ -1,11 +1,11 @@
 Category: [0200 - The Fundamental Elements of a Hero](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero.md)  
 Tags: #fundamental-elements-of-a-hero #skills  
-Last Modified: 08-31-2023  
+Last Modified: 11-22-2023
 # Realizing Your Skills
 
 ****
 
-1. [Skill Attributes](Realizing%20Your%20Skills.md#skill-attributes)
+1. [Skills](Realizing%20Your%20Skills.md#skills)
 2. [Experience](Realizing%20Your%20Skills.md#experience)
 	- [Letter Ranks](Realizing%20Your%20Skills.md#letter-ranks)
 	- [The Human Limit](Realizing%20Your%20Skills.md#the-human-limit)
@@ -30,7 +30,9 @@ Last Modified: 08-31-2023
 
 ****
 
-## Skill Attributes
+## Skills
+
+Skills represent the metrics by which characters are able to manifest their influence upon their world. 
 
 ## Experience
 

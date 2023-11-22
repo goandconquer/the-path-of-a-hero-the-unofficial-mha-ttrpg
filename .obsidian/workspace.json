@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0300 - The Rules of Engagement/Mastering Combat.md",
+                "file": "0200 - The Fundamental Elements of a Hero/Realizing Your Skills.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "2fd836e8cc9d95da",
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0300 - The Rules of Engagement/Mastering Combat.md",
+                "file": "0200 - The Fundamental Elements of a Hero/Realizing Your Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0300 - The Rules of Engagement/Mastering Combat.md",
+                "file": "0200 - The Fundamental Elements of a Hero/Realizing Your Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0300 - The Rules of Engagement/Mastering Combat.md"
+                "file": "0200 - The Fundamental Elements of a Hero/Realizing Your Skills.md"
               }
             }
           },
@@ -212,33 +212,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02679e4317cf3d1d",
+  "active": "2db0486b675ea8d2",
   "lastOpenFiles": [
+    "0200 - The Fundamental Elements of a Hero/Learning Heroic Trainings.md",
+    "0200 - The Fundamental Elements of a Hero/Unlocking Your Quirk.md",
+    "0200 - The Fundamental Elements of a Hero/Realizing Your Skills.md",
+    "0200 - The Fundamental Elements of a Hero/Inventing Your Persona.md",
+    "0300 - The Rules of Engagement/Gear and Gadgets.md",
+    "0500 - The Appendices/Glossary.md",
+    "0200 - The Fundamental Elements of a Hero/0200 - The Fundamental Elements of a Hero.md",
+    "0100 - The World of the Powers and the Powerless/Threat of the Quirk Singularity.md",
+    "0100 - The World of the Powers and the Powerless/Lineage of Heroes.md",
+    "0100 - The World of the Powers and the Powerless/Origin of the Quirk.md",
+    "0100 - The World of the Powers and the Powerless/History of the World.md",
+    "0100 - The World of the Powers and the Powerless/0100 - The World of the Powers and the Powerless.md",
+    "0000 - The Front Matter/Author's Note.md",
+    "0000 - The Front Matter/0000 - The Front Matter.md",
+    "0300 - The Rules of Engagement/Mastering Combat.md",
     "0300 - The Rules of Engagement/Crafting Techniques.md",
     "0500 - The Appendices/Technique and Freeform Damage.md",
-    "0300 - The Rules of Engagement/Mastering Combat.md",
-    "0500 - The Appendices/Glossary.md",
-    "0200 - The Fundamental Elements of a Hero/Unlocking Your Quirk.md",
     "0500 - The Appendices/Technique-Notes.md",
-    "0200 - The Fundamental Elements of a Hero/Learning Heroic Trainings.md",
-    "0200 - The Fundamental Elements of a Hero/Realizing Your Skills.md",
     "0500 - The Appendices/Revision Log.md",
     "0500 - The Appendices/Rally Together.md",
     "0500 - The Appendices/LP-Notes.md",
     "0500 - The Appendices/Gadget and Weapon Damage.md",
     "0300 - The Rules of Engagement/0300 - The Rules of Engagement.md",
-    "0100 - The World of the Powers and the Powerless/Threat of the Quirk Singularity.md",
-    "0100 - The World of the Powers and the Powerless/Origin of the Quirk.md",
-    "0100 - The World of the Powers and the Powerless/0100 - The World of the Powers and the Powerless.md",
-    "0000 - The Front Matter/Author's Note.md",
-    "0200 - The Fundamental Elements of a Hero/0200 - The Fundamental Elements of a Hero.md",
-    "0200 - The Fundamental Elements of a Hero/Inventing Your Persona.md",
-    "0100 - The World of the Powers and the Powerless/Lineage of Heroes.md",
-    "0100 - The World of the Powers and the Powerless/History of the World.md",
-    "0000 - The Front Matter/0000 - The Front Matter.md",
     "0500 - The Appendices/Developmental Tasks.md",
     "0300 - The Rules of Engagement/Harnessing the Limit Pool.md",
-    "0500 - The Appendices/0500 - The Appendices.md",
-    "0400 - The Villains of This Age/The Overwhelming Cost of Murder.md"
+    "0500 - The Appendices/0500 - The Appendices.md"
   ]
 }

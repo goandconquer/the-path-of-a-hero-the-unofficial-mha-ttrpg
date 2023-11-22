@@ -8,6 +8,9 @@ actions
 activation cost
 active transformation state
 
+**B**
+backgrounds
+
 **C**
 concentration
 
@@ -25,8 +28,9 @@ gamemaster
 maintenance cost
 
 **P**
+personas
 physical technique
-preparation state
+preparation
 
 **T**
 technique user
@@ -35,6 +39,8 @@ transformation technique
 turns
 
 **Q**
+quin
+quirks
 quirk focus
 quirk technique
 
