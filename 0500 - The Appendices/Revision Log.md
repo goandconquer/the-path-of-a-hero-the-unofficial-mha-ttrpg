@@ -7,3 +7,4 @@ Date Modified: 11-21-2023
 
 11-21-2023 @ 11:00 PM | Quirk Awakening through Training is no longer an applicable rule.
 11-21-2023 @ 11:04 PM | A Round of Combat is 10 seconds long.
+11-22-2023 @ 12:06 AM | Technique Range defined.

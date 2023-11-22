@@ -140,6 +140,18 @@ Inflicting a Critical while taking the Tank Defensive Action yields the player a
 ### Interactions
 ## Downtime
 
+## Range
+
+| Rank  | Meters    |
+|-------|-----------|
+| Melee | 2 Meters  |
+| E     | 5 Meters  |
+| D     | 12 Meters |
+| C     | 20 Meters |
+| B     | 30 Meters |
+| A     | 45 Meters |
+| S     | 70 Meters |
+
 ****
 
 (next: [Crafting Techniques](Crafting%20Techniques.md))
