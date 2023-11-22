@@ -4,6 +4,7 @@ Last Modified: 08-31-2023
 # Glossary
 
 **A**
+actions
 activation cost
 active transformation state
 
@@ -25,11 +26,13 @@ maintenance cost
 
 **P**
 physical technique
+preparation state
 
 **T**
 technique user
 technique rank
 transformation technique
+turns
 
 **Q**
 quirk focus
@@ -43,8 +46,6 @@ quirk technique
 **Rubber Bullets**
 
 **Offensive Maneuver**
-
-**concentration**
 
 ****
 

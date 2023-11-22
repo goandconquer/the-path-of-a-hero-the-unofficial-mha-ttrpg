@@ -14,7 +14,8 @@ Last Modified: 09-02-2023
 	- [Critical Damage](Mastering%20Combat.md#critical-damage)
 	- [Grave Counters](Mastering%20Combat.md#grave-counters)
 3. [Status Effects](Mastering%20Combat.md#status-effects)
-4. [Action Economy](Mastering%20Combat.md#action-economy)
+	- [Preparation State]
+1. [Action Economy](Mastering%20Combat.md#action-economy)
 	- [Actions](Mastering%20Combat.md#actions)
 	- [Techniques](Mastering%20Combat.md#techniques)
 		- [Trained Techniques](Mastering%20Combat.md#Trained%20Techniques)
@@ -25,11 +26,7 @@ Last Modified: 09-02-2023
 	- [Defensive Actions](Mastering%20Combat.md#defensive-actions)
 	- [Movement](Mastering%20Combat.md#movement)
 	- [Interactions](Mastering%20Combat.md#interactions)
-6. [Downtime](Mastering%20Combat.md#downtime)
-
-****
-
-%% #todos: Set base Melee Range to 2 Meters. %%
+2. [Downtime](Mastering%20Combat.md#downtime)
 
 ****
 
@@ -85,6 +82,9 @@ In situations where one or more characters are making Skill Checks against a sta
 
 ## Status Effects
 
+### Preparation State
+
+A character enters a **preparation state** when they use a technique or other mechanical function which requires them to spend actions or turns prior to the effects of that mechanical function taking place. This state is thematically encapsulated in moments where characters must muster some internal resource in order to perform an otherwise costly feat of heroism. Each mechanical function will define the extent of the preparation state in its specific text.
 ## Action Economy
 
 The clash between heroes and villains feel like an inconceivable and chaotic brawl between titans to the naked eyes of the civilians around them, but the most prominent and experienced fighters know that combat is instead a delicate dance between adversaries, where a single mistake can result in fatal consequences. In the heat of battle, the ebb and flow is sacred.
