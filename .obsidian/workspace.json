@@ -14,19 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0300 - The Rules of Engagement/Mastering Combat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88c8f5bc811d675f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0500 - The Appendices/Technique and Freeform Damage.md",
+                "file": "0300 - The Rules of Engagement/Crafting Techniques.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "2fd836e8cc9d95da",
@@ -134,8 +122,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,15 +214,15 @@
   },
   "active": "02679e4317cf3d1d",
   "lastOpenFiles": [
-    "0500 - The Appendices/Glossary.md",
+    "0300 - The Rules of Engagement/Crafting Techniques.md",
+    "0500 - The Appendices/Technique and Freeform Damage.md",
     "0300 - The Rules of Engagement/Mastering Combat.md",
+    "0500 - The Appendices/Glossary.md",
     "0200 - The Fundamental Elements of a Hero/Unlocking Your Quirk.md",
     "0500 - The Appendices/Technique-Notes.md",
     "0200 - The Fundamental Elements of a Hero/Learning Heroic Trainings.md",
-    "0500 - The Appendices/Technique and Freeform Damage.md",
     "0200 - The Fundamental Elements of a Hero/Realizing Your Skills.md",
     "0500 - The Appendices/Revision Log.md",
-    "0300 - The Rules of Engagement/Crafting Techniques.md",
     "0500 - The Appendices/Rally Together.md",
     "0500 - The Appendices/LP-Notes.md",
     "0500 - The Appendices/Gadget and Weapon Damage.md",

@@ -62,6 +62,8 @@ Stance Techniques are similar to [Status Techniques](Crafting%20Techniques.md#st
 
 ## Charge Techniques
 
+%% Use Preparation State language in Charge Technique definition. %%
+
 ## Draining Techniques
 
 ## Gadget Techniques

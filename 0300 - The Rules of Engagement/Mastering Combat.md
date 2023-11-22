@@ -14,8 +14,9 @@ Last Modified: 09-02-2023
 	- [Critical Damage](Mastering%20Combat.md#critical-damage)
 	- [Grave Counters](Mastering%20Combat.md#grave-counters)
 3. [Status Effects](Mastering%20Combat.md#status-effects)
-	- [Preparation State]
-1. [Action Economy](Mastering%20Combat.md#action-economy)
+	- [[Concentration]] 
+	- [Preparation State](Mastering%20Combat.md#preparation-state)
+5. [Action Economy](Mastering%20Combat.md#action-economy)
 	- [Actions](Mastering%20Combat.md#actions)
 	- [Techniques](Mastering%20Combat.md#techniques)
 		- [Trained Techniques](Mastering%20Combat.md#Trained%20Techniques)
@@ -26,7 +27,7 @@ Last Modified: 09-02-2023
 	- [Defensive Actions](Mastering%20Combat.md#defensive-actions)
 	- [Movement](Mastering%20Combat.md#movement)
 	- [Interactions](Mastering%20Combat.md#interactions)
-2. [Downtime](Mastering%20Combat.md#downtime)
+6. [Downtime](Mastering%20Combat.md#downtime)
 
 ****
 
@@ -82,9 +83,16 @@ In situations where one or more characters are making Skill Checks against a sta
 
 ## Status Effects
 
+### Concentration
+
+Concentration refers to the attention required to maintain a certain action or technique, and is easily maintained even in the heat of battle. Any technique that has an associated Maintenance Cost is assumed to require concentration on the part of the technique user. Whether any given action requires concentration on the character is up to the gamemaster in that individual situation; therefore, a gamemaster's ruling in one circumstance may not necessarily persist to another.
+
+Concentration may only be broken when the concentrating character is successfully targeted by a Mental Technique or if the concentrating character has an insufficient number of Limit Points needed to maintain their concentration.
 ### Preparation State
 
-A character enters a **preparation state** when they use a technique or other mechanical function which requires them to spend actions or turns prior to the effects of that mechanical function taking place. This state is thematically encapsulated in moments where characters must muster some internal resource in order to perform an otherwise costly feat of heroism. Each mechanical function will define the extent of the preparation state in its specific text.
+A character enters a **preparation state** when they use a technique or other mechanical function which requires them to spend actions or turns prior to the effects of that mechanical function taking place. This state is thematically encapsulated in moments where characters must muster some internal resource in order to perform an otherwise costly feat of heroism.
+
+Each mechanical function will define the extent of the preparation state and the threshold for its interruption in its specific text.
 ## Action Economy
 
 The clash between heroes and villains feel like an inconceivable and chaotic brawl between titans to the naked eyes of the civilians around them, but the most prominent and experienced fighters know that combat is instead a delicate dance between adversaries, where a single mistake can result in fatal consequences. In the heat of battle, the ebb and flow is sacred.
@@ -106,12 +114,6 @@ At the start of their Turn, a player has three (3) Actions to use. These may be 
 #### Trained Techniques
 
 #### Freeform Techniques
-
-#### Concentration
-
-%% #todos: Define Concentration. %%
-
-Concentration 
 ### Reactions
 
 A player may opt to perform an **Action Exchange** in which the player exchanges one of their Action Points to gain an additional Reaction to use after their Turn has ended. A player may only perform this exchange once on their Turn. If the exchanged Reaction is not used before the start of their Turn, then it is lost.
