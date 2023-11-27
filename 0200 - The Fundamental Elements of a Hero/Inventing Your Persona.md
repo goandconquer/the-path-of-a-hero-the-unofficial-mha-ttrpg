@@ -22,11 +22,19 @@ Last Modified: 08-31-2023
 
 ## Backgrounds
 
-Quirks are the defining feature of My Hero Academia, granting individuals powers that can drastically alter their lives. These abilities can lead them down paths they never could have imagined, for better or for worse. Some may find themselves thrust into a world of danger and adventure, while others may struggle to control their newfound powers.
+> "If you feel yourself hitting up against your limit, remember for what cause you clench your fists.... Remember why you started down this path, and let that memory carry you beyond your limit. "
+> 
+> All Might, *My Hero Academia*
 
-As a player, your character's background is crucial in shaping their journey. It sets the foundation for their personality, motivations, and goals. The choices you make during character creation will have a significant impact on your character's story and how they interact with the world around them.
+While the powers and responsibilities granted by the Quirks are the defining focus in My Hero Academia, there is no greater indicator that a Quirk wielder can change their world than their relationship with their past. Some may find themselves soaring into the world of danger and adventure, while others may struggle to reconcile with their newfound powers. 
 
-It's important to remember that your character's background is just the beginning. They should have room to grow and develop beyond their origins, but their upbringing and experiences will always be a part of who they are. With this in mind, choose wisely when crafting your character's backstory. Consider their family, environment, and personal history, and think about how these factors have shaped them into the hero or villain they are today.
+As a player, the first major decision that you can make for your character is his or her background. Backgrounds lay the foundation for how their personality, motivations, morality, and goals align with the momentum of the ever-changing world they reside in. Does the harshness of your character's childhood lead to them seeing their powers as a means to exact revenge on a society that saw them as expendable? Does a thoughtful upbringing lead your character to seek to uphold the virtues of the heroic culture, even when it's inconvenient?
+
+It's important to remember that the Background of your character is just the beginning. A good Background should enable your character to have room to grow and develop beyond their origins, but their upbringing and early experiences should always be a part of who they are.
+
+With this in mind, choose wisely when determining your character's backstory. Consider how their lineage, environments, and philosophies could contribute to their future ambitions and actions. Backgrounds that provide enough malleable creative material that is both challenging and inspiring are often the strongest, as they can continually enhance a hero's (or villain's) journey throughout the lifetime of the campaign.
+
+The following Backgrounds serve as starting points for your brainstorming. They are not intended to be followed strictly as they are written, rather you should be adding and removing as much as you see fit as you design the character you want to play.
 
 ### Ex-Delinquent
 
@@ -60,6 +68,8 @@ A character with the Villainous Heritage background receives 50 starting Quin.
 
 ****
 ## Personas
+
+Your character's Persona describes how he or she translates their knowledge, emotions, and desires into lasting tangible contributions to the world around them. 
 
 ### Lineage
 
