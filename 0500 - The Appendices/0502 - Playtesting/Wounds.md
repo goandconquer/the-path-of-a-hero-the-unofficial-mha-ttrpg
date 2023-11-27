@@ -1,0 +1,1 @@
+impose stat detriment up to half the character's modifier for the stat, or zero, whichever would be higher (e.g. if character has negative modifier, wounds would have no effect)

@@ -31,6 +31,7 @@ maintenance cost
 personas
 physical technique
 preparation
+psyches
 
 **T**
 technique user
@@ -43,6 +44,7 @@ quin
 quirks
 quirk focus
 quirk technique
+quirk wielder
 
 **Skill**
 **Technique**

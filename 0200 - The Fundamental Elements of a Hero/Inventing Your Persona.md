@@ -3,22 +3,16 @@ Tags: #fundamental-elements-of-a-hero #personas
 Last Modified: 08-31-2023  
 # Inventing Your Persona
 
-****
-
 1. [Backgrounds](Inventing%20Your%20Persona.md#backgrounds)
 	- [Ex-Delinquent](Inventing%20Your%20Persona.md#ex-delinquent)
 	- [Projects Kid](Inventing%20Your%20Persona.md#projects-kid)
 	- [Heroic Parents](Inventing%20Your%20Persona.md#heroic-parents)
 	- [Legendary Heroic Lineage](Inventing%20Your%20Persona.md#legendary-heroic-lineage)
 	- [Villainous Heritage](Inventing%20Your%20Persona.md#villainous-heritage)
-2. [Personas](Inventing%20Your%20Persona.md#personas)
-	- [Lineage](Inventing%20Your%20Persona.md#lineage)
-	- [Personality](Inventing%20Your%20Persona.md#personality)
+2. [Psyches](Inventing%20Your%20Persona.md#psyches)
 	- [Aspirations](Inventing%20Your%20Persona.md#aspirations)
 	- [Flaws and Fears](Inventing%20Your%20Persona.md#flaws%20and%20fears)
-	- [History](Inventing%20Your%20Persona.md#history)
-
-****
+	- [Likes and Dislikes](Inventing%20Your%20Persona.md#likes-and-dislikes)
 
 ## Backgrounds
 
@@ -65,21 +59,40 @@ A character with the Legendary Hero Lineage background receives 5d4 * 80 startin
 You have become a ward of the state due to the actions of one or more of your parents or ancestors. The government has done their best to hide this background to allow you a normal life. Despite their best efforts, a combination of Quirk inheritance, as well as information leaks, makes it difficult for you to remain out of the public eye. You plan to overcome this by proving to everyone that you can be a better hero than anyone.
 
 A character with the Villainous Heritage background receives 50 starting Quin.
+## Psyches
 
-****
-## Personas
+Psyches refer to the profile of enduring characteristics and behavior that guides your character as they are influenced by and respond to the conceptual and narrative elements of the world they live in, especially through their thoughts, words, and actions. Your character's Psyche can be defined as simply as the primary emotions that your character defaults to when faced with opposition, or as thoroughly as the tenants of morality that your character abides by, the extent to which they expect the world to honor those tenants, and what it would take for them to break those tenants.
 
-Your character's Persona describes how he or she translates their knowledge, emotions, and desires into lasting tangible contributions to the world around them. 
+Psyches are the most abstract element of the character creation process, as the decisions may seemingly come across as impulsive or without a clear reason why a particular notion of the character's personality is right or wrong.
 
-### Lineage
+For a player that requires more guidance in understanding the Psyche of their character,  the "Big Five" model can offer some more insight. Each trait is described below.
 
-### Personality
+**Openness**
 
+Openness describes how imaginative and insightful a character might be, how likely they are to develop interest in more than one subject or activity, how curious they are about the world, and how eager they are to partake in activities that grant them more knowledge or new experiences. Those who are lower in openness may experience anxiety when deviating from what they are familiar with and purposefully avoid situations with more ambiguity to maintain their sense of control.
+
+**Conscientiousness**
+
+Conscientiousness refers to the thoughtfulness, willpower, and ambition of a character. Highly conscientious characters will be more organized, attentive to details, and often are strategists and leaders. Characters with lower conscientiousness often do not have as many guiding systems and are more easily led astray by outside influences.
+
+**Extraversion**
+
+Extraversion deals with how excitable and outgoing a character is, as well as how expressive they are with their emotions. Highly extraverted characters are often more likely to contend with other characters, perhaps even regardless of their appearance, beliefs, alignment, or regardless of the danger they pose. Characters lower in extraversion might rely on others to do the talking and may have a harder time finding their place in large gatherings.
+
+**Agreeableness**
+
+Agreeableness relates how trusting, altruistic, diplomatic, or affectionate a character may be when interacting with others. Highly agreeable characters often become fierce supporters of the party as well as heralds of morale. Those character that are lower in agreeableness may exhibit more competitive or manipulative tendencies.
+
+**Neuroticism**
+
+Neuroticism is the degree to which a character experiences negative emotions and general instability in their response to the world around them. Highly neurotic characters struggle with anxiety, sadness, irritability, or distancing. Those characters low in neuroticism are more stable and emotionally resilient.
 ### Aspirations
 
 ### Flaws and Fears
 
-### History
+### Likes and Dislikes
+
+## Personas
 
 ****
 
