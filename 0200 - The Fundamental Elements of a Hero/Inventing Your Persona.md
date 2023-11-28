@@ -16,7 +16,7 @@ Last Modified: 08-31-2023
 
 ## Backgrounds
 
-> "If you feel yourself hitting up against your limit, remember for what cause you clench your fists.... Remember why you started down this path, and let that memory carry you beyond your limit. "
+> "If you feel yourself hitting up against your limit, remember for what cause you clench your fists. Remember why you started down this path, and let that memory carry you beyond your limit. "
 > 
 > All Might, *My Hero Academia*
 
@@ -63,9 +63,9 @@ A character with the Villainous Heritage background receives 50 starting Quin.
 
 Psyches refer to the profile of enduring characteristics and behavior that guides your character as they are influenced by and respond to the conceptual and narrative elements of the world they live in, especially through their thoughts, words, and actions. Your character's Psyche can be defined as simply as the primary emotions that your character defaults to when faced with opposition, or as thoroughly as the tenants of morality that your character abides by, the extent to which they expect the world to honor those tenants, and what it would take for them to break those tenants.
 
-Psyches are the most abstract element of the character creation process, as the decisions may seemingly come across as impulsive or without a clear reason why a particular notion of the character's personality is right or wrong.
+Psyches are the most abstract element of the character creation process, as the decisions may seemingly come across as impulsive or without a clear reason why a particular notion of the character's personality is right or wrong. However, their conception can provide insight into the other major choices associated with the character creation process, especially in regards to the kind of Quirk that manifests within them (if they have one).
 
-For a player that requires more guidance in understanding the Psyche of their character,  the "Big Five" model can offer some more insight. Each trait is described below.
+In defining the Psyche of a character, the "Big Five" model can offer significant insight. Each trait associated with the model is described below.
 
 **Openness**
 
