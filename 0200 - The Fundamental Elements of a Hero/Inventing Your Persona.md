@@ -13,6 +13,10 @@ Last Modified: 08-31-2023
 	- [Aspirations](Inventing%20Your%20Persona.md#aspirations)
 	- [Flaws and Fears](Inventing%20Your%20Persona.md#flaws%20and%20fears)
 	- [Likes and Dislikes](Inventing%20Your%20Persona.md#likes-and-dislikes)
+3. [Personas](Inventing%20Your%20Persona.md#personas)
+	- [Causes](Inventing%20Your%20Persona.md#causes)
+	- [Branding](Inventing%20Your%20Persona.md#branding)
+	- [Outfitting](Inventing%20Your%20Persona.md#outfitting)
 
 ## Backgrounds
 
@@ -26,34 +30,29 @@ As a player, the first major decision that you can make for your character is hi
 
 It's important to remember that the Background of your character is just the beginning. A good Background should enable your character to have room to grow and develop beyond their origins, but their upbringing and early experiences should always be a part of who they are.
 
-With this in mind, choose wisely when determining your character's backstory. Consider how their lineage, environments, and philosophies could contribute to their future ambitions and actions. Backgrounds that provide enough malleable creative material that is both challenging and inspiring are often the strongest, as they can continually enhance a hero's (or villain's) journey throughout the lifetime of the campaign.
+Consider how their lineage, environments, and philosophies could contribute to their future ambitions and actions. Backgrounds that provide enough malleable creative material that is both challenging and inspiring are often the strongest, as they can continually enhance a hero's (or villain's) journey throughout the lifetime of the campaign.
 
 The following Backgrounds serve as starting points for your brainstorming. They are not intended to be followed strictly as they are written, rather you should be adding and removing as much as you see fit as you design the character you want to play.
-
 ### Ex-Delinquent
 
 You have been in and out of trouble with the law throughout your life. You have a certain amount of "street cred" and may or may not have a few contacts in the underworld. You are more of an anti-hero and looked down upon by the hero community, but you get some dirtier jobs done that others cannot.
 
 A character with the Ex-Delinquent background receives 3d4 * 30 starting Quin.
-
 ### Projects Kid
 
 You come from a lesser income family and have lived with less all your life. You understand the worth of money and know where some villains are coming from, having a similar background to many low-level thugs. Despite your lack of affluence, hard work, and hard work, and perseverance has gotten you closer to your dreams and the money you always lacked as a child.
 
 A character with the Project Kid background receives 3d4 * 40 starting Quin.
-
 ### Heroic Parents
 
 You come from parents who either make more money than average or have parents who are active heroes in the community and have an above average income due to that. With this type of lifestyle, you will have more responsibility put onto your shoulders. You see becoming a hero and beginning a legacy as the best way to honor your family.
 
 A character with the Heroic Parents background receives 5d4 * 60 starting Quin.
-
 ### Legendary Heroic Lineage
 
 You are simply the newest member in a long line of heroes, members of your family are extremely high-ranking heroes or very wealthy. This puts an extremely heavy burden on you to become every bit as impressive as those before you. The way that you have decided to do this is through heroism.
 
 A character with the Legendary Hero Lineage background receives 5d4 * 80 starting Quin.
-
 ### Villainous Heritage
 
 You have become a ward of the state due to the actions of one or more of your parents or ancestors. The government has done their best to hide this background to allow you a normal life. Despite their best efforts, a combination of Quirk inheritance, as well as information leaks, makes it difficult for you to remain out of the public eye. You plan to overcome this by proving to everyone that you can be a better hero than anyone.
@@ -65,34 +64,27 @@ Psyches refer to the profile of enduring characteristics and behavior that guide
 
 Psyches are the most abstract element of the character creation process, as the decisions may seemingly come across as impulsive or without a clear reason why a particular notion of the character's personality is right or wrong. However, their conception can provide insight into the other major choices associated with the character creation process, especially in regards to the kind of Quirk that manifests within them (if they have one).
 
-In defining the Psyche of a character, the "Big Five" model can offer significant insight. Each trait associated with the model is described below.
+When determining the Psyche of your character, you should consider what virtues are represented most strongly by your character. Is your character more imaginative or insightful? Is your character multi-faceted, naturally gifted, or a slow learner? How curious are they? How fearful are they? Do they value knowledge over experiences? Do they value control? Are they patient and thoughtful, able to sense out the hidden dangers around them, or are they ambitious to a fault? Are they fiercely independent, or are they easily led astray? Are they socialites or loners? Are they enduring in trust and kindness, or are they paranoid of being betrayed? Are they blossoming allies or bitter rivals? Are they self-sacrificing or manipulative? Are they resilient or easily overwhelmed?
 
-**Openness**
-
-Openness describes how imaginative and insightful a character might be, how likely they are to develop interest in more than one subject or activity, how curious they are about the world, and how eager they are to partake in activities that grant them more knowledge or new experiences. Those who are lower in openness may experience anxiety when deviating from what they are familiar with and purposefully avoid situations with more ambiguity to maintain their sense of control.
-
-**Conscientiousness**
-
-Conscientiousness refers to the thoughtfulness, willpower, and ambition of a character. Highly conscientious characters will be more organized, attentive to details, and often are strategists and leaders. Characters with lower conscientiousness often do not have as many guiding systems and are more easily led astray by outside influences.
-
-**Extraversion**
-
-Extraversion deals with how excitable and outgoing a character is, as well as how expressive they are with their emotions. Highly extraverted characters are often more likely to contend with other characters, perhaps even regardless of their appearance, beliefs, alignment, or regardless of the danger they pose. Characters lower in extraversion might rely on others to do the talking and may have a harder time finding their place in large gatherings.
-
-**Agreeableness**
-
-Agreeableness relates how trusting, altruistic, diplomatic, or affectionate a character may be when interacting with others. Highly agreeable characters often become fierce supporters of the party as well as heralds of morale. Those character that are lower in agreeableness may exhibit more competitive or manipulative tendencies.
-
-**Neuroticism**
-
-Neuroticism is the degree to which a character experiences negative emotions and general instability in their response to the world around them. Highly neurotic characters struggle with anxiety, sadness, irritability, or distancing. Those characters low in neuroticism are more stable and emotionally resilient.
+All these questions impact how your character will face the world and how the world will face them.
 ### Aspirations
 
+A character with no goals have no reason to be a character. In a setting writhe with competition and uncertainty, your character will want to define certain targets that generally motivate them to faces the dangers of today.
+
+An Aspiration is any articulated desire that can only be obtained through the diligent action of the character who desires it. Aspirations may be quite personal to the character, or rather be a larger public ambition that requires the collective efforts of other people or even other organizations. Aspirations may be secretive and jeopardize either the safety or the acceptance of the character, or be issues that should see the light of public scrutiny. In any case, the character's Aspirations should intrinsically possess obstacles not yet able to be overcome, whether due to a lack of experience, authority, or resources. It is not necessary that these all be long term goals, although a good Aspiration is one that can evolve and color moments throughout an entire narrative arc.
+
+As you determine who your character is as a person, you should consider how your Aspirations might unite or divide others around you. You should consider what sacrifices might be required of your character, and whether they are yet in a place to fully realize the extent of them. Aspirations that drive a character forward throughout their journey while remaining an open question about commitment can create rewarding drama to explore throughout roleplay.
 ### Flaws and Fears
 
 ### Likes and Dislikes
 
 ## Personas
+
+### Causes
+
+### Branding
+
+### Outfitting
 
 ****
 
