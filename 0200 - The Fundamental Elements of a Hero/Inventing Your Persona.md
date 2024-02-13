@@ -20,7 +20,7 @@ Last Modified: 08-31-2023
 
 ## Backgrounds
 
-> "If you feel yourself hitting up against your limit, remember for what cause you clench your fists. Remember why you started down this path, and let that memory carry you beyond your limit. "
+> "If you feel yourself hitting up against your limit, remember for what cause you clench your fists. Remember why you started down this path, and let that memory carry you beyond your limit."
 > 
 > All Might, *My Hero Academia*
 

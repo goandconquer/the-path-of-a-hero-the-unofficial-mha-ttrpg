@@ -8,6 +8,7 @@ actions
 activation cost
 active transformation state
 aspirations
+attacker
 
 **B**
 backgrounds
@@ -19,6 +20,12 @@ concentration
 
 **D**
 damage output
+defender
+defensive action
+dodge
+
+**E**
+experience
 
 **F**
 fears
@@ -31,8 +38,11 @@ gamemaster
 
 **M**
 maintenance cost
+mental technique
+modifiers
 
 **O**
+offensive maneuvers
 outfitting
 
 **P**
@@ -41,9 +51,15 @@ physical technique
 preparation
 psyches
 
+**S**
+skill check
+
 **T**
+tank
+technique
 technique user
 technique rank
+tie
 transformation technique
 turns
 
@@ -60,8 +76,6 @@ quirk wielder
 **Material Rank**
 **Real Bullets**
 **Rubber Bullets**
-
-**Offensive Maneuver**
 
 ****
 

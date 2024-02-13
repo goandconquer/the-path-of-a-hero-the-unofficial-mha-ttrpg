@@ -2,5 +2,7 @@
   "accentColor": "",
   "interfaceFontFamily": "Noto Serif",
   "textFontFamily": "Noto Serif",
-  "monospaceFontFamily": "Cascadia Mono"
+  "monospaceFontFamily": "Cascadia Mono",
+  "theme": "obsidian",
+  "cssTheme": ""
 }
