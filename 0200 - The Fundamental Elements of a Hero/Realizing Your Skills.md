@@ -52,53 +52,83 @@ Every Quirk has a corresponding Skill that serves as the anchor for the abilitie
 A Quirk Focus has special rules and use cases that provide active benefits to the character depending on the nature of their Quirk. More generally, a Quirk Focus becomes the default Skill to be used in most instances throughout the system, especially in performing Skill Checks (described later in ["Mastering Combat"](../0300%20-%20The%20Rules%20of%20Engagement/Mastering%20Combat.md)) or activating Techniques (described later in ["Crafting Techniques"](../0300%20-%20The%20Rules%20of%20Engagement/Crafting%20Techniques.md)).  
 ## Experience
 
-As your character engages and integrates themselves with the world around them, they will gain a greater understanding of themselves and their abilities through their knowledge gained during their time as a student, and the experience provided to them through their mentor and later adventures as a professional hero (or villain). This growth is quantified by a numerical value called **Experience**.
+They say that experience is the greatest teacher, and this is no more true than for the lucky (or, perhaps, unlucky) minority who find themselves thrust into the terrific world of quirks. As your character engages with the world around them, they will gain a greater understanding of themselves, their capabilities, and the world around them. This growth is quantified in the system as **Experience**.
 
-Experience is typically awarded in small increments to your character on a session-by-session basis at the discretion of the Gamemaster. The cumulative sum of these increments comprise the total amount of experience that a character has accumulated, which determines your character's Control Rank described later in this chapter.
+Experience is a special resource awarded to characters throughout the lifetime of the campaign which can be allocated to their skills in order to raise their overall power. The Gamemaster determines the amount of experience awarded as well as the frequency at which it is awarded, though it is typically given out on a session-by-session basis.
 
-Any portion of the total Experience accumulated by your character can be distributed between the Skills to amplify their proficiencies in actions related to that skill, but the sum of the Experience invested into each Skill cannot exceed your total accumulated Experience.
+The act of allocating any amount of your character's accumulated Experience into a particular skill is known as **investing in a skill**. You may decide on how to distribute your accumulated Experience, but the sum of the investments made into each of your character's skills cannot exceed the amount of Experience they have accumulated over the lifetime of the campaign.
 ### Letter Ranks
 
-**Letter Ranks** are alphabetical designations assigned to each of your character's Skills to describes your character's mastery with that skill. Each designation can be further suffixed with a minus to represent a lower proficiency in that Rank or with a plus sign to describe higher proficiency.
+**Letter Ranks** are alphabetical designations used to describe your character's current mastery in a particular skill. Each letter rank is comprised of three divisions which further specify the level of proficiency, denoted by the base letter rank being suffixed by a minus or a plus.
 
-As you invest earned Experience into each of your character's Skills, your mastery in that Skill increases as you cross over thresholds of growth, as determined by the following table.
+**Letter Ranks** are alphabetical designations used to indicate the potency or quality of a multitude of things throughout the system, although their most common use is in representing your character's mastery with each of their skills. Each letter rank is comprised of three divisions, denoted by the base letter being suffixed by a minus or plus.
 
-| Minus | Letter Rank | Plus |
-| ---- | ---- | ---- |
-| E- \| 10 to 19 \| -4 | E \| 20 to 34 \| -3 | E+ \| 35 to 54 \| -2 |
-| D- \| 55 to 84 \| -1 | D \| 85 to 124 \| +0 | D+ \| 125 to 174 \| +1 |
-| C- \| 175 to 239 \| +2 | C \| 240 to 309 \| +3 | C+ \| 310 to 389 \| +4 |
-| B- \| 390 to 489  \| +5 | B \| 490 to 609 \| +6 | B+ \| 610 to 749 \| +7 |
-| A- \| 750 to 919 \| +8 | A \| 920 to 1,109 \| +9 | A+ \| 1,110 to 1,329 \| +10 |
-| S- \| 1,330 to 1,599 \| +11 | S \| 1,600 to 1,999 \| +12 | S+ \| 2,000+ \| +13 |
-The numerical value at the end of each entry is the table is the **Modifier** that is applied to appropriate Skill Checks and other applicable rolls.
+As you invest your character's accumulated Experience into each of your character's skills, they cross thresholds of growth as determined by the following table.  
+
+| Rank | - | = | + |
+| ---- | ---- | ---- | ---- |
+| E | 10 - 19 => -4 | 20 - 34 => -3 | 35 - 54 => -2  |
+| D | 55 - 84 => -1 | 85 - 124 => +0 | 125 - 174 => +1 |
+| C | 175 - 239 => +2 | 240 - 309 => +3 | 310 - 389 => +4 |
+| B | 390 - 489  => +5 | 490 - 609 => +6 | 610 - 749 => +7 |
+| A | 750 - 919 => +8 | 920 - 1,109 => +9 | 1,110 - 1,329 => +10 |
+| S | 1,330 - 1,599 => +11 | 1,600 - 1,999 => +12 | 2,000+ => +13 |
+The letter rank of a skill determines the **Modifier** which is added to rolls made using skills.
 ### The Human Limit
+
+Quirks carry a payload of overwhelming power and influence that easily lend themselves to the aesthetic of superhero culture, but those who wield them are still only human. New wielders often discover that they lack the physical resilience needed to match the taxing potency of their newfound abilities. While dedicated training and a precise lifestyle help bridge the gap between their physique and the demands of their quirk, a new problem soon emerges—they reach the limit of growth their bodies can handle and begin to stagnate.
+
+The **Human Limit** refers to the conceptual ceiling that all characters are subject to as a manifestation of the physical constraints they experience as human beings, represented by a letter rank of C+.
+
+This letter rank indicates the upper limit of your character's skills. Once a skill has been brought up to this limit, any further investment of experience does not result in an increase of the skill's modifier. This means that each skill can be represented by two separate letter ranks.
+### Limit Rank
+
 
 ### True Rank
 
-### Limit Rank
+The **True Rank** of a skill describes the what the letter rank of the skill would be if your character was not subject to the limitations of their physical form. This rank can always be raised by investing in it, but it is not the rank that determines the modifier applied to rolls.
 
-### Control Rank
 
-You determine the Control Rank of a character by dividing the sum of all of the Experience that your character has accumulated by 5 and comparing the result against the table of Letter Ranks above. 
-## Plus Ultra Points
-
-**Plus Ultra Points** are a special resource available to valiant heroes or nefarious villains, earned exclusively by award from the Gamemaster for intriguing, compelling, creative, or exciting behavior during play or as a result of rolling a Natural when the value is 20.
-
-These represent the pinnacle of a hero or villain's resolve to carry out their ambitions in the world, often fueled by their intimate relationship with their Quirk. At key moments, these characters may align with or manifest their true potential in the world, and are empowered to do even more because of it.
-## Technique Points
-
+if the resulting letter rank is higher than the corresponding limit rank of the skill. Instead, each time that the true rank of a skill is raised by a full letter rank (i.e. E => D), your character gains an **Enhancement Point**.
 ## Enhancement Points
+
+**Enhancement Points** refer to your character's ability to raise the threshold of benefit they receive from their mastery in certain skills, or to specialize in interests and domains that further augments your character's roles in the field and in academia which yields them knowledge, tolerances, or abilities not otherwise learned.
+
+Enhancement Points are earned through the raising of a skill's letter rank to the next whole letter (i.e. E to D, D to C, etc.). Each time this occurs, you are awarded a single enhancement point to spend on either **Skill Amplification**, or on milestones in **Heroic Trainings** (described in detail in the next section).
 
 It is not an immediate requirement for a character who has earned an enhancement point through the leveling of a skill's letter ran to spend it on *Skill Amplification*.
 ### Skill Amplification
 
 ### Skill Switching
 
+### Control Rank
+
+
+The true ranks of your character's skills act as the basis for calculating your character's Control Rank.
+
+You determine the Control Rank of a character by dividing the sum of all of the Experience that your character has accumulated by 5 and comparing the result against the table of Letter Ranks above.
 ## Health Points
+
+**Health Points** represents the amount of fatigue and injury that your character can endure before succumbing to them and falling unconscious. It is calculated as the sum of the modifiers of all your character's skills except Stamina, plus the amount of additional hit points as determined by the rank of your character's Stamina modifier according to the following table:
+
+| Rank | - | = | + |
+| ---- | ---- | ---- | ---- |
+| E | 9 | 10 | 11 |
+| D | 14 | 17 | 20 |
+| C | 25 | 30 | 35 |
+| B | 42 | 49 | 56 |
+| A | 67 | 78 | 99 |
+| S | 111 | 123 | 135 |
+Your character's total hit points can be further increased through the use of the armors, items, and techniques, (discussed in detail in the third chapter, [The Rules of Engagement](../0300%20-%20The%20Rules%20of%20Engagement/0300%20-%20The%20Rules%20of%20Engagement.md)).
+## Technique Points
 
 ## Limit Points
 
+## Plus Ultra Points
+
+**Plus Ultra Points** are a special resource available to valiant heroes or nefarious villains, earned exclusively by award from the Gamemaster for intriguing, compelling, creative, or exciting behavior during play or as a result of rolling a Natural when the value is 20.
+
+These represent the pinnacle of a hero or villain's resolve to carry out their ambitions in the world, often fueled by their intimate relationship with their Quirk. At key moments, these characters may align with or manifest their true potential in the world, and are empowered to do even more because of it.
 ## Quin
 
 ### Scholarships

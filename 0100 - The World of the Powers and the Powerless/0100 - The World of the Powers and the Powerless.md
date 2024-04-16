@@ -8,7 +8,7 @@ Last Modified: 06-12-2023
 1. [History of the World](History%20of%20the%20World.md)
 2. [Origin of the Quirk](Origin%20of%20the%20Quirk.md)
 3. [Lineage of Heroes](Lineage%20of%20Heroes.md)
-4. [Threat of the Quirk Singularity](Threat%20of%20the%20Quirk%20Singularity.md)
+4. [Threats to the World and its Innocents](Threats%20to%20the%20World%20and%20its%20Innocents.md)
 
 ****
 

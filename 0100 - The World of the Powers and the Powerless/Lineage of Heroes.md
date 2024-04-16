@@ -5,4 +5,4 @@ Last Modified: 08-31-2023
 
 ****
 
-(next: [Threat of the Quirk Singularity](Threat%20of%20the%20Quirk%20Singularity.md))
+(next: [Threats to the World and its Innocents](Threats%20to%20the%20World%20and%20its%20Innocents.md))

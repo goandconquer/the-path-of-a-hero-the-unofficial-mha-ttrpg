@@ -10,6 +10,7 @@ Last Modified: 09-03-2023
 - [ ] @TODO: Trained Physical Techniques can only have a range of Melee (2 meters), regardless of the Technique Rank.
 - [ ] @TODO: Fury Counters can be expended to supplement the damage caused by any source.
 - [ ] @TODO: Discuss Milestone System for Experience.
+- [ ] @TODO: Create a Custom Enhancement for Ikeda Kuwahara that enables her abilities to use any electrical device that she has connected to as the point of origin for her techniques.
 
 ****
 

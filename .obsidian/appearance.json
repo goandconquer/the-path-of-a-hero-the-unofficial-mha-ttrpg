@@ -4,5 +4,6 @@
   "textFontFamily": "Noto Serif",
   "monospaceFontFamily": "Cascadia Mono",
   "theme": "obsidian",
-  "cssTheme": ""
+  "cssTheme": "",
+  "baseFontSize": 17
 }

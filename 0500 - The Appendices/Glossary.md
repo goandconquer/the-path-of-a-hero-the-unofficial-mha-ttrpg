@@ -17,6 +17,7 @@ branding
 **C**
 causes
 concentration
+control rank
 
 **D**
 damage output
@@ -25,6 +26,7 @@ defensive action
 dodge
 
 **E**
+enhancement points
 experience
 
 **F**
@@ -35,6 +37,16 @@ focus skill
 
 **G**
 gamemaster
+
+**H**
+human limit
+
+**I**
+investing
+
+**L**
+letter rank
+limit points
 
 **M**
 maintenance cost
@@ -48,11 +60,16 @@ outfitting
 **P**
 personas
 physical technique
+plus ultra points
 preparation
 psyches
 
 **S**
+scholarships
+skill amplification
 skill check
+skill switching
+skills
 
 **T**
 tank
@@ -61,12 +78,14 @@ technique user
 technique rank
 tie
 transformation technique
+true rank
 turns
 
 **Q**
 quin
 quirks
 quirk focus
+quirk singularity
 quirk technique
 quirk wielder
 
