@@ -124,7 +124,7 @@ Your character's total hit points can be further increased through the use of th
 
 **Technique Points (TPs)** are representative of your character's ability to discover and master techniques throughout their career. Every technique that your character learns costs a certain number of technique points depending on the technique's rank and type.
 
-When you create a technique for your character, following the rules and guidelines listed in [Crafting Techniques](../Crafting%20Techniques.md), you allocate the number of technique points for that technique as specified by the following table. Unless otherwise stated in the technique type's description, all techniques follow this table. 
+When you create a technique for your character, following the rules and guidelines listed in [Crafting Techniques](../0300%20-%20The%20Rules%20of%20Engagement/Crafting%20Techniques.md), you allocate the number of technique points for that technique as specified by the following table. Unless otherwise stated in the technique type's description, all techniques follow this table. 
 
 | Technique Rank | Technique Cost (in TPs) |
 | -------------- | ----------------------- |
@@ -147,7 +147,21 @@ The number of technique points that your character has available to spend is det
 You may not create new techniques or increase the rank of existing techniques if you do not have the sufficient technique points to do so.
 ## Limit Points
 
+**Limit Points (LPs)** are representative of the physical, mental, and emotional toll that your character must bear in order to activate and utilize techniques that they have learned.
 
+This subject is discussed in more detail in the [Harnessing the Limit Pool](../0300%20-%20The%20Rules%20of%20Engagement/Harnessing%20the%20Limit%20Pool.md) section of the [0300 - Rules of Engagement](../0300%20-%20The%20Rules%20of%20Engagement/0300%20-%20The%20Rules%20of%20Engagement.md) chapter, specifically regarding topics such as the Limit Refresh Rate, the Limit Point cost of activating techniques, and concepts such as Limit Bursting and Quirk Exhaustion.
+
+For the purposes of character creation, the most relevant information is in relation to the size of your character's **Limit Pool**. 
+
+The Limit Pool refers to the number of Limit Points available to your character when they are at their most rested. The size of your character's Limit Pool is also determined by your character's Control Rank, according to the following table.
+
+| Control Rank | Limit Pool |
+| ------------ | ---------- |
+| D            | 6          |
+| C            | 9          |
+| B            | 13         |
+| A            | 18         |
+| S            | 24         |
 
 ## Plus Ultra Points
 
