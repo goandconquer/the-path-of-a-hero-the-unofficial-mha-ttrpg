@@ -1,7 +1,15 @@
 Category: [0300 - The Rules of Engagement](0300%20-%20The%20Rules%20of%20Engagement.md)  
 Tags: #rules-of-engagement #techniques   
-Last Modified: 08-31-2023  
+Last Modified: 06-12-2024  
 # Crafting Techniques
+
+You are allowed to craft a technique of any rank or type for your character as long as you have the technique points available to do so. However, if the resulting rank of the technique that you have created is greater than your character's Control Rank, then your character will suffer negative effects as a result of activating that technique, according to the following scenarios:
+
+- (1) If the technique is of a type that deals damage to a target, then half of the resulting damage is dealt back to your character.
+
+- (2) If the technique is of a type that inflicts a status effect upon a target, then that same status effect is inflicted upon your character as well.
+
+For all outstanding technique types not qualified by these scenarios, the exact specification of the negative effect is rendered upon your character at your Sensei's discretion.
 
 ****
 

@@ -122,7 +122,32 @@ You determine the Control Rank of a character by dividing the sum of all of the 
 Your character's total hit points can be further increased through the use of the armors, items, and techniques, (discussed in detail in the third chapter, [The Rules of Engagement](../0300%20-%20The%20Rules%20of%20Engagement/0300%20-%20The%20Rules%20of%20Engagement.md)).
 ## Technique Points
 
+**Technique Points (TPs)** are representative of your character's ability to discover and master techniques throughout their career. Every technique that your character learns costs a certain number of technique points depending on the technique's rank and type.
+
+When you create a technique for your character, following the rules and guidelines listed in [Crafting Techniques](../Crafting%20Techniques.md), you allocate the number of technique points for that technique as specified by the following table. Unless otherwise stated in the technique type's description, all techniques follow this table. 
+
+| Technique Rank | Technique Cost (in TPs) |
+| -------------- | ----------------------- |
+| D              | 1                       |
+| C              | 2                       |
+| B              | 3                       |
+| A              | 4                       |
+| S              | 5                       |
+
+The number of technique points that your character has available to spend is determined by their Control Rank, as shown in the following table.
+
+| Control Rank | Technique Points |
+| ------------ | ---------------- |
+| D            | 5                |
+| C            | 8                |
+| B            | 12               |
+| A            | 17               |
+| S            | 23               |
+
+You may not create new techniques or increase the rank of existing techniques if you do not have the sufficient technique points to do so.
 ## Limit Points
+
+
 
 ## Plus Ultra Points
 

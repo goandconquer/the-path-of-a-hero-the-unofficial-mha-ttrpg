@@ -1,9 +1,9 @@
 {
   "accentColor": "",
-  "interfaceFontFamily": "Noto Serif",
-  "textFontFamily": "Noto Serif",
-  "monospaceFontFamily": "Cascadia Mono",
+  "interfaceFontFamily": "Kreon",
+  "textFontFamily": "Kreon",
+  "monospaceFontFamily": "Kreon",
   "theme": "obsidian",
   "cssTheme": "",
-  "baseFontSize": 17
+  "baseFontSize": 24
 }
