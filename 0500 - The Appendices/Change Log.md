@@ -13,4 +13,4 @@ Date Modified: 06-12-2024
 - Added draft content to the introduction of the "Harnessing the Limit Pool" page in the "Rules of Engagement" chapter.
 
 **2024-06-013 (A)**
-- Updated Styling on the "Realizing Your Skills" page.
+- Updated Styling on the "Realizing Your Skills" page."

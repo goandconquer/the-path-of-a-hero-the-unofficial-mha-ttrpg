@@ -24,7 +24,7 @@ Last Modified: 06-17-2035
 	- [Defensive Actions](Mastering%20Combat.md#defensive-actions)
 	- [Movement](Mastering%20Combat.md#movement)
 	- [Interactions](Mastering%20Combat.md#interactions)
-5. [Grave Counters](Mastering%20Combat.md#grave-counters)
+5. [Grave Checks](Mastering%20Combat.md#grave-checks)
 6. [Downtime](Mastering%20Combat.md#downtime)
 
 ## Skill Checks
@@ -197,6 +197,8 @@ On their turn, another character may spend an Action Point to assist the unconsc
 ****
 
 ## Downtime
+
+
 
 ## Range
 

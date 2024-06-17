@@ -3,8 +3,7 @@ Tags: #fundamental-elements-of-a-hero #heroic-trainings
 Last Modified: 06-17-2024  
 # Learning Heroic Trainings
 
-1. [General Enhancements](Learning%20Heroic%20Trainings.md#general-enhancements)
-2. [Heroic Trainings](Learning%20Heroic%20Trainings.md#heroic-trainings)
+1. [Heroic Trainings](Learning%20Heroic%20Trainings.md#heroic-trainings)
 	- [Tinkerer](Learning%20Heroic%20Trainings.md#tinkerer)
 	- [Medical](Learning%20Heroic%20Trainings.md#medical)
 	- [Speed Demon (Emitters)](Learning%20Heroic%20Trainings.md#speed-demon-emitters)
@@ -36,6 +35,7 @@ Last Modified: 06-17-2024
 	- [Stealth](Learning%20Heroic%20Trainings.md#stealth)
 	- [Inception](Learning%20Heroic%20Trainings.md#inception)
 	- [Pseudomorph](Learning%20Heroic%20Trainings.md#pseudomorph)
+2. [General Enhancements](Learning%20Heroic%20Trainings.md#general-enhancements)
 
 ****
 
@@ -278,10 +278,61 @@ Your method of embodying your target has transcended mere charms and confidence.
 # General Enhancements
 
 **\[1 EP\] Comeback Kid**
+Whenever you are rendered unconscious, you now make your Grave Checks using a 1d12 instead of a d10.
 
-Use a 1d12 when uncon-
-scious instead of a 1d10
+**\[2 EP\] Airbender**
+You may now develop physical techniques which can be employed at range according to its rank without the need for ammunition.
 
+****
+#todos : Review Concept of "Airbender" with Cal.
+****
+
+**\[2 EP\] Clobbering Smash**
+Once per turn, choose 1 technique. That technique deals an extra +6 damage whenever it is employed this turn. However, you have disadvantage when employing defensive freeforms. 
+
+****
+#questions : What is a *defensive freeform*? Is this a freeform technique? 
+****
+
+**\[2 EP\] Man of Steel**
+You now have advantage on defensive rolls against attacks that rely on the use of a physical item or weapon. Additionally, whenever you take the Tank defensive action against a hit, and your roll exceeds the attacker's by 10 or more, and the rank of the item or weapon is lower than the rank of your Stamina, the item or weapon shatters on impact and is no longer usable.
+
+**\[2 EP\] My Power, My Strength**
+Whenever you deal damage to a target using a physical technique, you now use the Quirk Technique Damage table instead of the Physical Technique Damage table.
+
+**\[2 EP\] Rivalry**
+Whenever you are engaged in combat against a single target, any physical technique you employ deals an additional 2 damage for every letter rank that your Power is above an E rank.
+
+**\[2 EP\] Rubber Body**
+You now have advantage on defensive rolls against physical techniques and attacks that feature bludgeoning-based weapons or force. Additionally, whenever you take the Tank defensive action against a hit, and your roll exceeds the attacker's by 10 or more, then the attacker is dealt damage equal to your Spirit modifier. 
+
+**\[2 EP\] Second Wind**
+Whenever you would Quirk Exhaust as a result of Limit Bursting, you may evoke Second Wind to restore your Limit Pool to its maximum. You may not do this again until you have rested for at least 8 hours. 
+
+**\[2 EP\] Spidey Senses**
+While in an environment you have visited before, you can no longer be surprised. Additionally, you have advantage on defensive rolls against hidden enemies.
+
+**\[2 EP\] Table Turn**
+Once per combat, you may choose 1 hostile target that you can see (use your Control Rank to determine the range). That target's current health point total is revealed to you. If your currently have fewer health points than that target, you gain advantage on all defensive actions for the next 1d4 actions.
+
+****
+#questions: Should "Table Turn" say *turns* instead of *actions*?
+****
+
+**\[3 EP\] Akimbo**
+Whenever you employ a physical technique or make an attack while wielding weapons in each hand, you may add the second weapon's freeform damage to the total dealt.
+
+**\[3 EP\] Death Defying**
+Whenever you are reduced to 0 health points, but the total damage you took is less than half of your health point maximum, you may evoke Death Defying in order to remain conscious and restore your health points to the amount equal to your Stamina modifier. You may not do so again until you have rested for at least 8 hours.
+
+**\[3 EP\] Stone Gaze**
+You have honed your will so intensely that you are able to paralyze others with just a look. When you evoke Stone Gaze, choose a single target that you can see (use your Control Rank to determine the range). That target must make an opposing Spirit Check against your own. If they fail, they lose 3 Action Points at the start of their next turn. You may use Stone Gaze a number of times equal to half your Spirit modifier rounded down. Your uses are restored after you have rested for at least 8 hours.
+
+**\[3 EP\] Watch Out, Nerd!**
+Whenever you employ an offensive Area of Effect technique or evoke an offensive enhancement that specifies both allies and enemies as targets, you may attempt to exclude your allies from its effects by rolling an unmodified d20. If the resulting value is higher than 10 plus the number of allies you're excluding, then all allies are safe from the effects of the technique or enhancement. 
+
+****
+#todos : Determine Timing for conditional usage on abilities with Cal
 ****
 
 (next: [0300 - The Rules of Engagement](../0300%20-%20The%20Rules%20of%20Engagement/0300%20-%20The%20Rules%20of%20Engagement.md))
