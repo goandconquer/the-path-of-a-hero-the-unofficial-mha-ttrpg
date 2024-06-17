@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0200 - The Fundamental Elements of a Hero/Realizing Your Skills.md",
+                "file": "0300 - The Rules of Engagement/Mastering Combat.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0200 - The Fundamental Elements of a Hero/Realizing Your Skills.md",
+                "file": "0500 - The Appendices/Revision Log.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0500 - The Appendices/Change Log.md",
+                "file": "0300 - The Rules of Engagement/Mastering Combat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0500 - The Appendices/Change Log.md",
+                "file": "0300 - The Rules of Engagement/Mastering Combat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0500 - The Appendices/Change Log.md"
+                "file": "0300 - The Rules of Engagement/Mastering Combat.md"
               }
             }
           },
@@ -221,35 +221,34 @@
       "random-note:Open random note": false
     }
   },
-  "active": "6fdb08f925323257",
+  "active": "1e1769ba64e04f8d",
   "lastOpenFiles": [
+    "0500 - The Appendices/Developmental Tasks.md",
+    "0500 - The Appendices/Rally Together.md",
+    "0500 - The Appendices/Change Log.md",
+    "0300 - The Rules of Engagement/Mastering Combat.md",
     "0200 - The Fundamental Elements of a Hero/Realizing Your Skills.md",
     "0200 - The Fundamental Elements of a Hero/Learning Heroic Trainings.md",
-    "0300 - The Rules of Engagement/Mastering Combat.md",
+    "The Path of a Hero - Character Sheet (Vers. 3).pdf",
     "0300 - The Rules of Engagement/Harnessing the Limit Pool.md",
+    "0500 - The Appendices/Revision Log.md",
+    "0400 - The Villains of This Age/Prosecution to the Fullest Extent.md",
+    "0100 - The World of the Powers and the Powerless/History of the World.md",
     "0200 - The Fundamental Elements of a Hero/Unlocking Your Quirk.md",
     "0300 - The Rules of Engagement/0300 - The Rules of Engagement.md",
-    "0500 - The Appendices/Change Log.md",
-    "0500 - The Appendices/Developmental Tasks.md",
     "0300 - The Rules of Engagement/Crafting Techniques.md",
     "0500 - The Appendices/LP-Notes.md",
     "0500 - The Appendices/0502 - Playtesting/Wounds.md",
     "0500 - The Appendices/Gadget and Weapon Damage.md",
     "0500 - The Appendices/Glossary.md",
     "0500 - The Appendices/Henchmen.md",
-    "0500 - The Appendices/Rally Together.md",
     "0500 - The Appendices/Resources.md",
-    "0500 - The Appendices/Revision Log.md",
     "0500 - The Appendices/Technique and Freeform Damage.md",
     "0500 - The Appendices/Technique-Notes.md",
     "0000 - The Front Matter/0000 - The Front Matter.md",
     "0200 - The Fundamental Elements of a Hero/Inventing Your Persona.md",
     "0400 - The Villains of This Age/0400 - The Villains of This Age.md",
     "0400 - The Villains of This Age/The Overwhelming Cost of Murder.md",
-    "0300 - The Rules of Engagement/Gear and Gadgets.md",
-    "0400 - The Villains of This Age/Prosecution to the Fullest Extent.md",
-    "0500 - The Appendices/0502 - Playtesting/0502 - Playtesting.md",
-    "The Path of a Hero - Character Sheet (Vers. 3).pdf",
     "0500 - The Appendices/0502 - Playtesting",
     "0500 - The Appendices/0501 - House Rules"
   ]

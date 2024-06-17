@@ -1,9 +1,7 @@
 Category: [0200 - The Fundamental Elements of a Hero](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero.md)  
 Tags: #fundamental-elements-of-a-hero #skills  
-Last Modified: 11-22-2023
+Last Modified: 06-13-2024
 # Realizing Your Skills
-
-****
 
 1. [Skills](Realizing%20Your%20Skills.md#skills)
 2. [Experience](Realizing%20Your%20Skills.md#experience)
@@ -32,19 +30,20 @@ Last Modified: 11-22-2023
 
 ## Skills
 
-In *The Path of a Hero*, your character is defined by a set of core qualities that determine  how capable they are at manifesting their heroic or villainous intentions into the world around them. These qualities, referred to as their **Skills**, are essential in shaping your journey from a budding hero (or villain) by describing your strengths and areas of growth. 
+In *The Path of a Hero*, your character is defined by a set of core qualities that determine how capable they are at manifesting their heroic or villainous intentions into the world around them. These qualities, referred to as their **Skills**, are essential in shaping your journey from a budding hero (or villain) by describing your strengths and areas of growth. These Skills are Aptitude (APT), Spirit (SPR), Stamina (STA), Speed (SPD), Accuracy (ACC), and Power (PWR).
 
-- **Aptitude** represents your character's natural talent and intelligence. It's a measure of problem-solving ability, strategic thinking, and the capacity to learn and adapt to new information and experiences. High aptitude characters excel in devising plans, realizing the crucial nuances to high-stress and complex situations, and utilizing their Quirks in creative ways.
+**Aptitude** represents your character's natural talent and intelligence. It's a measure of problem-solving ability, strategic thinking, and the capacity to learn and adapt to new information and experiences. High aptitude characters excel in devising plans, realizing the crucial nuances to high-stress and complex situations, and utilizing their Quirks in creative ways.
 
-- **Spirit** reflects your character's determination, courage, and willpower. Tied deeply to the energies of your Quirk, it's driving force behind their ability to overcome fear, resist control, stand unwavering against intimidation, see through deceptions, and persevere through insurmountable challenges. Characters with a strong Spirit are more resistant to psychological attacks and more easily navigate the social complexities brought on by the actions of the people around them. Spirit is essential for those who lead or aspire to be the moral compass of their team.
+**Spirit** reflects your character's determination, courage, and willpower. Tied deeply to the energies of your Quirk, it's driving force behind their ability to overcome fear, resist control, stand unwavering against intimidation, see through deceptions, and persevere through insurmountable challenges. Characters with a strong Spirit are more resistant to psychological attacks and more easily navigate the social complexities brought on by the actions of the people around them. Spirit is essential for those who lead or aspire to be the moral compass of their team.
 
-- **Stamina** indicates your character's endurance, resilience, and overall health. It determines how much damage they can absorb before being overwhelmed, how long they can exert themselves, and their ability to recover from injuries or fatigue. High Stamina is vital for front-line fighters and those who serve as their as the shield for their fighters.
+**Stamina** indicates your character's endurance, resilience, and overall health. It determines how much damage they can absorb before being overwhelmed, how long they can exert themselves, and their ability to recover from injuries or fatigue. High Stamina is vital for front-line fighters and those who serve as their as the shield for their fighters.
 
-- **Speed** measures your character's agility, reflexes, and overall quickness. It affects their ability to dodge attacks, react to sudden changes, and take initiative in combat.
+**Speed** measures your character's agility, reflexes, and overall quickness. It affects their ability to dodge attacks, react to sudden changes, and take initiative in combat.
 
-- **Accuracy** reflects your character's precision, focus, and timing. It's critical for landing attacks from a distance or against an elusive target. High Accuracy ensures that characters can take advantage of weaknesses in an opponent's form.
+**Accuracy** reflects your character's precision, focus, and timing. It's critical for landing attacks from a distance or against an elusive target. High Accuracy ensures that characters can take advantage of weaknesses in an opponent's form.
 
-- **Power** denotes your character's raw physical strength and the intensity of their Quirk. It influences the damage they deal, the effectiveness of their physical and Quirk-based attacks, and their ability to overpower obstacles or enemies. Characters with immense Power are fearsome in direct confrontations.
+**Power** denotes your character's raw physical strength and the intensity of their Quirk. It influences the damage they deal, the effectiveness of their physical and Quirk-based attacks, and their ability to overpower obstacles or enemies. Characters with immense Power are fearsome in direct confrontations.
+
 ### Quirk Focus
 
 Every Quirk has a corresponding Skill that serves as the anchor for the abilities called a **Quirk Focus**. The nature of Quirk you created in ["Unlocking Your Quirk"](Unlocking%20Your%20Quirk.md) may naturally associate itself with a Skill, but you are allowed to make a case to the Gamemaster as to why any one of the Skills could be conceptually appropriate for your character's Quirk.
@@ -59,21 +58,23 @@ Experience is a special resource awarded to characters throughout the lifetime o
 The act of allocating any amount of your character's accumulated Experience into a particular skill is known as **investing in a skill**. You may decide on how to distribute your accumulated Experience, but the sum of the investments made into each of your character's skills cannot exceed the amount of Experience they have accumulated over the lifetime of the campaign.
 ### Letter Ranks
 
-**Letter Ranks** are alphabetical designations used to describe your character's current mastery in a particular skill. Each letter rank is comprised of three divisions which further specify the level of proficiency, denoted by the base letter rank being suffixed by a minus or a plus.
+**Letter Ranks** are alphabetical designations used to describe the potency of, quality of, or one's mastery over some thing within the world. Each base letter rank (A) can be suffixed with a minus (A-) or plus (A+) to further specify the degree of the property it is communicating.
 
-**Letter Ranks** are alphabetical designations used to indicate the potency or quality of a multitude of things throughout the system, although their most common use is in representing your character's mastery with each of their skills. Each letter rank is comprised of three divisions, denoted by the base letter being suffixed by a minus or plus.
+In terms of creating your character, letter ranks are representative of their proficiency with the Skills that they rely on to act in the world.  
 
-As you invest your character's accumulated Experience into each of your character's skills, they cross thresholds of growth as determined by the following table.  
+As you invest your character's accumulated Experience into each of your character's skills, they cross thresholds of growth as determined by the following table.
 
-| Rank | - | = | + |
-| ---- | ---- | ---- | ---- |
-| E | 10 - 19 => -4 | 20 - 34 => -3 | 35 - 54 => -2  |
-| D | 55 - 84 => -1 | 85 - 124 => +0 | 125 - 174 => +1 |
-| C | 175 - 239 => +2 | 240 - 309 => +3 | 310 - 389 => +4 |
-| B | 390 - 489  => +5 | 490 - 609 => +6 | 610 - 749 => +7 |
-| A | 750 - 919 => +8 | 920 - 1,109 => +9 | 1,110 - 1,329 => +10 |
-| S | 1,330 - 1,599 => +11 | 1,600 - 1,999 => +12 | 2,000+ => +13 |
+| Rank | -                 | =                 | +                 |
+| ---- | ----------------- | ----------------- | ----------------- |
+| E    | 10-19 (-4)        | 20-34 (-3)        | 35-54 (-2)        |
+| D    | 55-84 (-1)        | 85-124 (+0)       | 125-174 (+1)      |
+| C    | 175-239 (+2)      | 240-309 (+3)      | 310-389 (+4)      |
+| B    | 390-489 (+5)      | 490-609 (+6)      | 610-749 (+7)      |
+| A    | 750-919 (+8)      | 920-1,109 (+9)    | 1,110-1,329 (+10) |
+| S    | 1,330-1,599 (+11) | 1,600-1,999 (+12) | 2,000+ (+13)      |
+
 The letter rank of a skill determines the **Modifier** which is added to rolls made using skills.
+
 ### The Human Limit
 
 Quirks carry a payload of overwhelming power and influence that easily lend themselves to the aesthetic of superhero culture, but those who wield them are still only human. New wielders often discover that they lack the physical resilience needed to match the taxing potency of their newfound abilities. While dedicated training and a precise lifestyle help bridge the gap between their physique and the demands of their quirk, a new problem soon emerges—they reach the limit of growth their bodies can handle and begin to stagnate.
@@ -83,6 +84,9 @@ The **Human Limit** refers to the conceptual ceiling that all characters are sub
 This letter rank indicates the upper limit of your character's skills. Once a skill has been brought up to this limit, any further investment of experience does not result in an increase of the skill's modifier. This means that each skill can be represented by two separate letter ranks.
 ### Limit Rank
 
+The **Limit Rank** is an indication of how proficiently your character can utilize his or her Skills in keeping with their physical, emotional, and mental limitations.
+
+For most characters, the upper threshold for their Limit Rank is the Human Limit (C+), but this can be raised through the investment of an Enhancement Point.
 
 ### True Rank
 
@@ -111,14 +115,15 @@ You determine the Control Rank of a character by dividing the sum of all of the 
 
 **Health Points** represents the amount of fatigue and injury that your character can endure before succumbing to them and falling unconscious. It is calculated as the sum of the modifiers of all your character's skills except Stamina, plus the amount of additional hit points as determined by the rank of your character's Stamina modifier according to the following table:
 
-| Rank | - | = | + |
-| ---- | ---- | ---- | ---- |
-| E | 9 | 10 | 11 |
-| D | 14 | 17 | 20 |
-| C | 25 | 30 | 35 |
-| B | 42 | 49 | 56 |
-| A | 67 | 78 | 99 |
-| S | 111 | 123 | 135 |
+| Rank | -   | =   | +   |
+| ---- | --- | --- | --- |
+| E    | 9   | 10  | 11  |
+| D    | 14  | 17  | 20  |
+| C    | 25  | 30  | 35  |
+| B    | 42  | 49  | 56  |
+| A    | 67  | 78  | 99  |
+| S    | 111 | 123 | 135 |
+
 Your character's total hit points can be further increased through the use of the armors, items, and techniques, (discussed in detail in the third chapter, [The Rules of Engagement](../0300%20-%20The%20Rules%20of%20Engagement/0300%20-%20The%20Rules%20of%20Engagement.md)).
 ## Technique Points
 

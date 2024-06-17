@@ -1,12 +1,10 @@
 Category: [0200 - The Fundamental Elements of a Hero](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero.md)  
 Tags: #fundamental-elements-of-a-hero #heroic-trainings  
-Last Modified: 09-02-2023  
+Last Modified: 06-17-2024  
 # Learning Heroic Trainings
 
-****
-
-1. [The General Enhancements](Learning%20Heroic%20Trainings.md#the-general-enhancements)
-2. [The Heroic Trainings](Learning%20Heroic%20Trainings.md#the-heroic-trainings)
+1. [General Enhancements](Learning%20Heroic%20Trainings.md#general-enhancements)
+2. [Heroic Trainings](Learning%20Heroic%20Trainings.md#heroic-trainings)
 	- [Tinkerer](Learning%20Heroic%20Trainings.md#tinkerer)
 	- [Medical](Learning%20Heroic%20Trainings.md#medical)
 	- [Speed Demon (Emitters)](Learning%20Heroic%20Trainings.md#speed-demon-emitters)
@@ -44,13 +42,8 @@ Last Modified: 09-02-2023
 %% #todos: Fury Counters can be expended to supplement the damage caused by any source. %%
 
 ****
-# The General Enhancements
+# Heroic Trainings
 
-# The Heroic Trainings
-
-
-
-****
 ## Tinkerer
 
 **\[1 EP\] Apprenticeship**
@@ -281,6 +274,13 @@ Espionage is a volatile endeavor where everything can change at the drop of a ha
 **\[3 EP\] Pseudomorphous**
 
 Your method of embodying your target has transcended mere charms and confidence. You may now mimic the techniques of the target you are impersonating. If you already possess a Quirk or technique that allows you to replicate or impersonate an aspect of a target, you may assume and use one of the target's Quirk Techniques, if they have any, at the Rank defined if it is lower than your Control Rank or up to one Rank higher than your Control Rank. You may use this technique once a turn without suffering any negative effects. If you do not already have a Quirk or technique that allows you to replicate or impersonate an aspect of a target, you may instead assume and use one of their Physical Techniques, if they have any, rolling on the Quirk Damage Table.
+
+# General Enhancements
+
+**\[1 EP\] Comeback Kid**
+
+Use a 1d12 when uncon-
+scious instead of a 1d10
 
 ****
 
