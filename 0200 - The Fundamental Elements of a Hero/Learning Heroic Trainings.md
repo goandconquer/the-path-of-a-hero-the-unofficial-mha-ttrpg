@@ -74,17 +74,38 @@ You have earned access to a static D-ranked Practiced Technique that does not co
 ****
 ## Speed Demon (Emitters)
 
-**Speed Forced**
-You may choose to apply your Quirk dice to either the to-hit or the damage of your physical techniques.
+**\[1 EP] SPEED FORCED** 
+Speed quirks are some of the most varied in Hero Society. For you, your body naturally emits something that allows faster movement than a normal human body allows. You are able to generate great force without technique or power, using the force generated from your speed to augment your punches. You may add your Quirk Tier Die to the damage of Physical Techniques instead of adding it to your Roll to Hit.
 
-**\[1 EP\] Act Now, Think Later**
-You may use Speed when rolling to determine your position in the Instinct Order.
+**\[2 EP] ACT NOW, THINK LATER** 
+Quirks often speak to the nature of the individual who wields them. Having a quirk that accelerates you means you most likely don’t want to wait around for the bad guys to make the first move. Your impulsive nature and need for action lets you initiate combat faster than others can think. Instead of Aptitude, you may roll Speed for your Instinct roll. You may also add half of your Speed modifier to Physical Techniques for your Roll to Hit if you use your Quirk Tier Die for damage.
 
-**\[2 EP\] Fists Fast as Lightning**
-For physical attacks, you may use Speed when determining whether the attack hits and when you deal damage on a successful attack.
+**\[3 EP] FIST FAST AS LIGHTNING**
+After training your body, you have mastered your ability to move at incredible speeds. You may make a barrage of punches faster than the eye can see or your movement creates a sonic boom as you go. Anytime you use a Movement Technique, you may roll damage from the AoE table equal to one lower than your Movement Technique Rank plus your Quirk Tier Die. This counts as an AoE attack for the purposes of buffs and enhancements, and enemies may still roll defensive rolls.
 
-**\[3 EP\] Road Runner**
-You can use the AOE table 1 rank below your Movement Technique Rank to deal damage that you wouldn't otherwise make using the technique normally. 
+****
+## **SPEED DEMON (Mutation)**
+
+**\[1 EP] FAST ADAPTATION** 
+Many types of speed quirks are the results of adaptations of the body, granting superhuman agility and acceleration. You know what it takes to make your body move the way you want it, and your unique physiology allows you to do things other speedsters can’t. You may add your highest Quirk Tier Bonus to your Roll to Hit for Physical Techniques. (This does stack with the Quirk Tier Bonus added to Accuracy or Power for base play, or if you use an enhancement to change your Roll to Hit for Physical Techniques to Speed.)  Additionally, when you use a movement technique, you may spend your Reaction and additional LP equal to the technique used to move an additional distance equal to your movement speed. After you move in this way, you must spend an Action Point doing something other than movement.
+
+**\[2 EP] THE NATURE OF SPEED** 
+Speed is your natural element. Moving at incredible speeds is almost like muscle memory, allowing you to focus on all that is in front of you. You may roll Speed instead of Aptitude for Instinct Rolls. Additionally, you may add your Highest Quirk Tier Bonus to the damage of Physical Techniques.
+
+**\[3 EP] I AM LIGHTNING** 
+You have pushed your body more than you had previously thought possible. The force of your punches are unmatched, mixed with your ability to bob and weave out of combat. If you spent an Action Point or Reaction on movement, you may spend an additional 2 LP to add your Speed to the damage of a Physical Technique. Counters or Reflects made against that attack have disadvantage against you and you have advantage on the Defensive Action as long as it is the Dodge Defensive Action.
+
+***
+## Speed Demon (Transformation)
+
+**\[1 EP] FLASH STEP** 
+The rarest form of a speed quirk, a transformation is a temporary burst of speed that exceeds what your body is naturally capable of. When you use a Transformation Technique, you may use your reaction to move up to your Transformed Movement Speed immediately after transforming.
+
+**\[2 EP] GOTTA GO FAST** 
+Bursting into a sprint is a taxing endeavor for your body. Your quirk may require more focus and discipline than other speed quirks, but drawing out a battle is also to your detriment. You may roll Speed instead of Aptitude for Instinct rolls, and you may roll Speed instead of Accuracy or Power for the Roll to Hit of Physical Techniques. (You will still use Accuracy or Power for Damage.) When you roll using Speed for the Roll to Hit, you have disadvantage to the Dodge Defensive Roll action. (You do not take disadvantage if you spend the Enhancements to change your Roll to Hit for Physical Techniques)
+
+**\[3 EP] SUPER SONIC STEP**
+The human eye cannot keep up with your speed. Any enemy slower than you will always have a slight delay defending against you. Immediately after using Flash Step, you may leave behind an afterimage. After the end of your turn, you may choose whether you are currently in the spot you ended your turn on or are in the position you left your afterimage in. Any enemy wishing to hit you must roll an Accuracy check to know which is the real you. An enemy must designate which position they are attacking. If they successfully choose your position, the enemy has disadvantage to the Roll to Hit. Any sound you make is distorted and comes from both positions. The afterimage disappears if an enemy hits the afterimage, you do not spend an Action Point on Movement, or you end your Transformation. The afterimage automatically fails Defensive Actions. 
 
 ****
 ## Fatgum
@@ -288,7 +309,7 @@ You may now develop physical techniques which can be employed at range according
 ****
 
 **\[2 EP\] Clobbering Smash**
-Once per turn, choose 1 technique. That technique deals an extra +6 damage whenever it is employed this turn. However, you have disadvantage when employing defensive freeforms. 
+Once per turn, choose 1 technique. That technique deals an extra +6 damage whenever it is employed this turn. However, you have disadvantage when employing defensive actions. 
 
 ****
 #questions : What is a *defensive freeform*? Is this a freeform technique? 
