@@ -5,19 +5,19 @@ Last Modified: 08-31-2023
 
 ****
 
-1. [Licenses](Gear%20and%20Gadgets.md#licenses)
-2. [Weapons](Gear%20and%20Gadgets.md#weapons)
-3. [Firearms](Gear%20and%20Gadgets.md#firearms)
-4. [Gadgets](Gear%20and%20Gadgets.md#gadgets)
-	- [Enhancements](Gear%20and%20Gadgets.md#enhancements)
-	- [Offensive](Gear%20and%20Gadgets.md#offensive)
-	- [Utility](Gear%20and%20Gadgets.md#utility)
-	- [Armaments](Gear%20and%20Gadgets.md#armaments)
-5. [Armor](Gear%20and%20Gadgets.md#armor)
-	- [Durability](Gear%20and%20Gadgets.md#durability)
-6. [Costumes](Gear%20and%20Gadgets.md#costumes)
-	- [Body Augmentation](Gear%20and%20Gadgets.md#body-augmentation)
-7. [Consumables](Gear%20and%20Gadgets.md#consumables)
+1. [Licenses](0340%20Gear%20and%20Gadgets.md#licenses)
+2. [Weapons](0340%20Gear%20and%20Gadgets.md#weapons)
+3. [Firearms](0340%20Gear%20and%20Gadgets.md#firearms)
+4. [Gadgets](0340%20Gear%20and%20Gadgets.md#gadgets)
+	- [Enhancements](0340%20Gear%20and%20Gadgets.md#enhancements)
+	- [Offensive](0340%20Gear%20and%20Gadgets.md#offensive)
+	- [Utility](0340%20Gear%20and%20Gadgets.md#utility)
+	- [Armaments](0340%20Gear%20and%20Gadgets.md#armaments)
+5. [Armor](0340%20Gear%20and%20Gadgets.md#armor)
+	- [Durability](0340%20Gear%20and%20Gadgets.md#durability)
+6. [Costumes](0340%20Gear%20and%20Gadgets.md#costumes)
+	- [Body Augmentation](0340%20Gear%20and%20Gadgets.md#body-augmentation)
+7. [Consumables](0340%20Gear%20and%20Gadgets.md#consumables)
 
 ****
 ## Licenses
@@ -51,14 +51,14 @@ All firearms may fire a "fake" rubber bullet that deal an unchanging 3d8. Rubber
 
 A firearm that discharges "real" bullets must do so via an activated Trained Weapon Technique whose Technique Rank whose rank is equal to or greater than the material rank of the bullet and the material rank of the firearm. The rank of a Trained Weapon Technique determines the range at which the bullet fired can reach, based on the following table:
 
-| Rank      | Range       |
-|-----------|-------------|
-| E         | 2           |
-| D         | 5           |
-| C         | 10          |
-| B         | 25          |
-| A         | 50          |
-| S         | 100         |
+| Rank | Range |
+| ---- | ----- |
+| E    | 2     |
+| D    | 5     |
+| C    | 10    |
+| B    | 25    |
+| A    | 50    |
+| S    | 100   |
 
 **Reloading**
 

@@ -5,11 +5,11 @@ Last Modified: 08-31-2023
 
 ****
 
-1. [Mastering Combat](Mastering%20Combat.md)
-2. [Crafting Techniques](Crafting%20Techniques.md)
-3. [Harnessing the Limit Pool](Harnessing%20the%20Limit%20Pool.md)
+1. [0310 Mastering Combat](0310%20Mastering%20Combat.md)
+2. [0320 Creating Techniques](0320%20Creating%20Techniques.md)
+3. [0330 Harnessing the Limit Pool](0330%20Harnessing%20the%20Limit%20Pool.md)
 4. [Gear and Gadgets](Gear%20and%20Gadget.md)
 
 ****
 
-(next: [Mastering Combat](Mastering%20Combat.md))
+(next: [0310 Mastering Combat](0310%20Mastering%20Combat.md))

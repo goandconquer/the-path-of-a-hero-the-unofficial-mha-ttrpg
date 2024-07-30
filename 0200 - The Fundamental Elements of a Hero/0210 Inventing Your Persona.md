@@ -3,20 +3,20 @@ Tags: #fundamental-elements-of-a-hero #personas
 Last Modified: 08-31-2023  
 # Inventing Your Persona
 
-1. [Backgrounds](Inventing%20Your%20Persona.md#backgrounds)
-	- [Ex-Delinquent](Inventing%20Your%20Persona.md#ex-delinquent)
-	- [Projects Kid](Inventing%20Your%20Persona.md#projects-kid)
-	- [Heroic Parents](Inventing%20Your%20Persona.md#heroic-parents)
-	- [Legendary Heroic Lineage](Inventing%20Your%20Persona.md#legendary-heroic-lineage)
-	- [Villainous Heritage](Inventing%20Your%20Persona.md#villainous-heritage)
-2. [Psyches](Inventing%20Your%20Persona.md#psyches)
-	- [Aspirations](Inventing%20Your%20Persona.md#aspirations)
-	- [Flaws and Fears](Inventing%20Your%20Persona.md#flaws%20and%20fears)
-	- [Likes and Dislikes](Inventing%20Your%20Persona.md#likes-and-dislikes)
-3. [Personas](Inventing%20Your%20Persona.md#personas)
-	- [Causes](Inventing%20Your%20Persona.md#causes)
-	- [Branding](Inventing%20Your%20Persona.md#branding)
-	- [Outfitting](Inventing%20Your%20Persona.md#outfitting)
+1. [Backgrounds](0210%20Inventing%20Your%20Persona.md#backgrounds)
+	- [Ex-Delinquent](0210%20Inventing%20Your%20Persona.md#ex-delinquent)
+	- [Projects Kid](0210%20Inventing%20Your%20Persona.md#projects-kid)
+	- [Heroic Parents](0210%20Inventing%20Your%20Persona.md#heroic-parents)
+	- [Legendary Heroic Lineage](0210%20Inventing%20Your%20Persona.md#legendary-heroic-lineage)
+	- [Villainous Heritage](0210%20Inventing%20Your%20Persona.md#villainous-heritage)
+2. [Psyches](0210%20Inventing%20Your%20Persona.md#psyches)
+	- [Aspirations](0210%20Inventing%20Your%20Persona.md#aspirations)
+	- [Flaws and Fears](0210%20Inventing%20Your%20Persona.md#flaws%20and%20fears)
+	- [Likes and Dislikes](0210%20Inventing%20Your%20Persona.md#likes-and-dislikes)
+3. [Personas](0210%20Inventing%20Your%20Persona.md#personas)
+	- [Causes](0210%20Inventing%20Your%20Persona.md#causes)
+	- [Branding](0210%20Inventing%20Your%20Persona.md#branding)
+	- [Outfitting](0210%20Inventing%20Your%20Persona.md#outfitting)
 
 ## Backgrounds
 
@@ -88,4 +88,4 @@ As you determine who your character is as a person, you should consider how your
 
 ****
 
-(next: [Unlocking Your Quirk](Unlocking%20Your%20Quirk.md))
+(next: [0220 Unlocking Your Quirk](0220%20Unlocking%20Your%20Quirk.md))
