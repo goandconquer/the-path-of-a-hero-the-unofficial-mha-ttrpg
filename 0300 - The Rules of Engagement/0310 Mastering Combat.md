@@ -3,29 +3,29 @@ Tags: #rules-of-engagement #combat
 Last Modified: 06-17-2035  
 # Mastering Combat
 
-1. [Skill Checks](Mastering%20Combat.md#skill-checks)
-	- [Criticals](Mastering%20Combat.md#criticals)
-	- [Naturals](Mastering%20Combat.md#naturals)
-	- [Ties](Mastering%20Combat.md#ties)
-2. [Damage](Mastering%20Combat.md#damage)
-	- [Damage Dice](Mastering%20Combat.md#damage-dice)
-	- [Critical Damage](Mastering%20Combat.md#critical-damage)
-3. [Status Effects](Mastering%20Combat.md#status-effects)
-	- [Concentration](Mastering%20Combat.md#concentration) 
-	- [Preparation](Mastering%20Combat.md#preparation)
-4. [Action Economy](Mastering%20Combat.md#action-economy)
-	- [Actions](Mastering%20Combat.md#actions)
-	- [Techniques](Mastering%20Combat.md#techniques)
-		- [Trained Techniques](Mastering%20Combat.md#Trained%20Techniques)
-		- [Freeform Techniques](Mastering%20Combat.md#Freeform%20Techniques)
-		- [Concentration](Mastering%20Combat.md#Trained%20Techniques)
-	- [Reactions](Mastering%20Combat.md#reactions)
-	- [Instinct Order](Mastering%20Combat.md#instinct-order)
-	- [Defensive Actions](Mastering%20Combat.md#defensive-actions)
-	- [Movement](Mastering%20Combat.md#movement)
-	- [Interactions](Mastering%20Combat.md#interactions)
-5. [Grave Checks](Mastering%20Combat.md#grave-checks)
-6. [Downtime](Mastering%20Combat.md#downtime)
+1. [Skill Checks](0310%20Mastering%20Combat.md#skill-checks)
+	- [Criticals](0310%20Mastering%20Combat.md#criticals)
+	- [Naturals](0310%20Mastering%20Combat.md#naturals)
+	- [Ties](0310%20Mastering%20Combat.md#ties)
+2. [Damage](0310%20Mastering%20Combat.md#damage)
+	- [Damage Dice](0310%20Mastering%20Combat.md#damage-dice)
+	- [Critical Damage](0310%20Mastering%20Combat.md#critical-damage)
+3. [Status Effects](0310%20Mastering%20Combat.md#status-effects)
+	- [Concentration](0310%20Mastering%20Combat.md#concentration) 
+	- [Preparation](0310%20Mastering%20Combat.md#preparation)
+4. [Action Economy](0310%20Mastering%20Combat.md#action-economy)
+	- [Actions](0310%20Mastering%20Combat.md#actions)
+	- [Techniques](0310%20Mastering%20Combat.md#techniques)
+		- [Trained Techniques](0310%20Mastering%20Combat.md#Trained%20Techniques)
+		- [Freeform Techniques](0310%20Mastering%20Combat.md#Freeform%20Techniques)
+		- [Concentration](0310%20Mastering%20Combat.md#Trained%20Techniques)
+	- [Reactions](0310%20Mastering%20Combat.md#reactions)
+	- [Instinct Order](0310%20Mastering%20Combat.md#instinct-order)
+	- [Defensive Actions](0310%20Mastering%20Combat.md#defensive-actions)
+	- [Movement](0310%20Mastering%20Combat.md#movement)
+	- [Interactions](0310%20Mastering%20Combat.md#interactions)
+5. [Grave Checks](0310%20Mastering%20Combat.md#grave-checks)
+6. [Downtime](0310%20Mastering%20Combat.md#downtime)
 
 ## Skill Checks
 
@@ -77,7 +77,7 @@ In situations where one or more characters are making Skill Checks against a sta
 
 ### Damage Dice
 
-
+Check [Technique and Freeform Damage](Technique%20and%20Freeform%20Damage.md) 
 
 ### Critical Damage
 
@@ -106,11 +106,13 @@ The clash between heroes and villains feel like an inconceivable and chaotic bra
 Combat within the *Path of a Hero* system is carried out in **Rounds**, each lasting ten (10) in-game seconds, wherein players take **Turns** that encompass their actions within the world. A Round is complete when all players have each taken their Turn to completion. In between the end of one Round and the start of another, the Gamemaster may deem it necessary to switch the focus from Combat to a non-combat situation (especially if other players are not involved in the Combat) or generally provide further exposition for the scene depending on its thematic nature.
 
 A **Turn** is comprised of any combination of actions, reactions, techniques, movements, and specials that a player has at their disposal. A Player is allotted three (3) **Actions** and one (1) **Reaction** at the start of their Turn. In rare cases, a player might afford themselves more Actions or Reactions based on the rules associated with that mechanics.
+
 ### Actions
 
 **Actions** (sometimes referred to as **Action Points**) serve as the narrative and mechanical foundation for what a hero (or villain) can do during their Turn in the Instinct Order, acting as the currency that players to manifest their intentions into the game world. Just as heroes (and villain) in *My Hero Academia* must decide whether to engage in combat, help (or harm) a bystander, or focus on a tactical advantage, players must determine how to best utilize their Actions to align with their goals and strategies.
 
-At the start of their Turn, a player has three (3) Actions to use. These may be spent to carry out any standard Actions available to any character, regardless of whether or not they possess a Quirk, such as making a freeform melee attack (unarmed, or with a weapon), a freeform ranged attack (with an appropriate weapon), using an item, interacting with objects, or moving. A player may suggest an alternative to constitute the use of their Action at the DM's discretion. In addition, players that possess a character with the means to do so may expend Actions to active and utilize the power of their Quirks through the use of **Techniques**.
+At the start of their Turn, a player has three (3) Actions to use and (1) Reaction. The Actions may be spent to carry out any standard Actions available to any character, regardless of whether or not they possess a Quirk, such as making a freeform melee attack (unarmed, or with a weapon), a freeform ranged attack (with an appropriate weapon), using an item, interacting with objects, or moving. A player may suggest an alternative to constitute the use of their Action at the DM's discretion. In addition, players that possess a character with the means to do so may expend Actions to active and utilize the power of their Quirks through the use of **Techniques**.
+
 ### Techniques
 
 **Techniques** are the specialized, high-octane, Quirk-powered abilities that allow players to harness the innate powers in astounding ways. Just as All Might's "United States of Smash" resonates as a symbol of indomitable justice, and Todoroki's "Heaven-Piercing Ice Wall" exemplifies his dual nature, your Techniques are more than just powerful moves—they are the signature expressions of your character's spirit, skill, and aspirations.
@@ -119,13 +121,20 @@ At the start of their Turn, a player has three (3) Actions to use. These may be 
 
 #### Trained Techniques
 
+
+
 #### Freeform Techniques
+
+Freeform Techniques are actions that do not require Limit Cost to activate. A player may only use ONE freeform technique per round of combat. 
+
 ### Reactions
 
-A player may opt to perform an **Action Exchange** in which the player exchanges one of their Action Points to gain an additional Reaction to use after their Turn has ended. A player may only perform this exchange once on their Turn. If the exchanged Reaction is not used before the start of their Turn, then it is lost.
+A Player may use their one (1) Reaction in place of their normal Defensive Action. A Reaction must be a **Trained Technique** and the types of Reaction Techniques will be detailed in [0320 Creating Techniques](0320%20Creating%20Techniques.md). 
+
 ### Instinct Order
 
 Instinct Order is the relative hierarchy of speed and intuition determined by the presence of Heroes and Villains at the start of a Combat instance. At the Gamemaster's announcement, each player makes an Aptitude (or other appropriate Skill Attribute determined by special rules) roll to determine the order in which play will commence throughout a Round. This order holds for the entirety of a Combat instance unless otherwise prompted by the Gamemaster.
+
 ### Defensive Actions
 
 **Dodging**
@@ -135,6 +144,7 @@ Inflicting a Critical while taking the Dodge Defensive Action yields the player 
 **Tanking**
 
 Inflicting a Critical while taking the Tank Defensive Action yields the player a result of all incoming damage that the offensive maneuver made against them would otherwise inflict being negated.
+
 ### Movement
 
 | Speed Rank | Combat Speed | Cinematic Speed  |
@@ -214,4 +224,4 @@ On their turn, another character may spend an Action Point to assist the unconsc
 
 ****
 
-(next: [Crafting Techniques](Crafting%20Techniques.md))
+(next: [0320 Creating Techniques](0320%20Creating%20Techniques.md))

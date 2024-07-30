@@ -5,14 +5,14 @@ Last Modified: 08-31-2023
 
 ****
 
-1. [What is Your Quirk](Unlocking%20Your%20Quirk.md#what-is-your-quirk)
-2. [The Three Quirk Types](Unlocking%20Your%20Quirk.md#the-three-quirk-types)
-	- [Emitter Quirks](Unlocking%20Your%20Quirk.md#emitter-quirks)
-	- [Transformation Quirks](Unlocking%20Your%20Quirk.md#transformation-quirks)
-	- [Mutation Quirks](Unlocking%20Your%20Quirk.md#mutation-quirks)
-3. [Possessing Multiple Quirks](Unlocking%20Your%20Quirk.md#possessing-multiple-quirks)
-4. [The Quirk Tiers](Unlocking%20Your%20Quirk.md#the-quirk-tiers)
-5. [Quirk Awakening](Unlocking%20Your%20Quirk.md#quirk-awakening)
+1. [What is Your Quirk](0220%20Unlocking%20Your%20Quirk.md#what-is-your-quirk)
+2. [The Three Quirk Types](0220%20Unlocking%20Your%20Quirk.md#the-three-quirk-types)
+	- [Emitter Quirks](0220%20Unlocking%20Your%20Quirk.md#emitter-quirks)
+	- [Transformation Quirks](0220%20Unlocking%20Your%20Quirk.md#transformation-quirks)
+	- [Mutation Quirks](0220%20Unlocking%20Your%20Quirk.md#mutation-quirks)
+3. [Possessing Multiple Quirks](0220%20Unlocking%20Your%20Quirk.md#possessing-multiple-quirks)
+4. [The Quirk Tiers](0220%20Unlocking%20Your%20Quirk.md#the-quirk-tiers)
+5. [Quirk Awakening](0220%20Unlocking%20Your%20Quirk.md#quirk-awakening)
 
 ****
 
@@ -134,4 +134,4 @@ Characters are able to advance to higher tiers through dedication, persistence, 
 
 ****
 
-(next: [Realizing Your Skills](Realizing%20Your%20Skills.md))
+(next: [0230 Realizing Your Skills](0230%20Realizing%20Your%20Skills.md))
