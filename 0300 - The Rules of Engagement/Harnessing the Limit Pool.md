@@ -16,6 +16,8 @@ While your character's endurance is likely beyond that of the average innocent, 
 
 ## Limit Pool
 
+Your character must 
+
 ## Limit Refresh Rate
 
 ## Limit Bursting
