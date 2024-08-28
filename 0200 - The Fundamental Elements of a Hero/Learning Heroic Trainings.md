@@ -186,11 +186,28 @@ You no longer susceptible to the whims and fancies of a charasmatic speaker, onl
 ****
 ## Oblivion
 
-**\[1 EP\]**
+**\[1 EP\] Don't Know, Don't Care!**
+Whenever an attacker attempts to carry out a mental or non-physical technique as part of an offensive maneuver against you, they must do so with disadvantage if your last action did not involve them as a target.
 
-**\[2 EP\]**
+**\[2 EP\] Fool Me Once, Shame On Who?**
+Whenever you successfully carry out an offensive maneuver against a target, they have advantage on the next mental technique they attempt to carry out as part of their offensive maneuver as long as you are the target. If they are unsuccessful, then all future offensive maneuvers that involve mental techniques automatically fail against you for the remainder of the combat encounter. 
 
-**\[3 EP\]**
+**\[3 EP\] Oblivion Orb**
+Whenever you are in combat, everyone that is within a 10 meter radius suffers a penalty of -3 to their APT but gains a bonus +3 to their SPR. Additionally, as long as they are in this range, they have disadvantage on Skill Checks using ACC whenever the cause or the target of the check is outside of the radius.
+
+Finally, you may add the technique listed below.
+
+**\[TECHNIQUE\] I'll Show You Stupid!**
+(TYPE: DEBUFF, RANK: EQUALS SPR, TARGETS: ANY WITHIN HEARING RANGE (180 METERS), LP COST (ACTIVATE): SEE RANK)
+
+Before anyone has rolled Instinct at the start of a combat encounter, you may activate this technique and taunt your enemies by shouting something so intolerably stupid that they are left stupefied by your stupidity.
+
+When you do this, add your SPR and APT modifiers to your Instinct roll. For the first round of combat, any enemy that is before you in turn order must immediately spend 2 Action Points to recover from their stupor.
+
+Enemies that come after you in turn order are not stupefied, but will gain advantage on offensive maneuvers they attempt to make against you and will suffer disadvantage on offensive maneuvers made against your allies.
+
+****
+
 
 ****
 ## People Pleaser
