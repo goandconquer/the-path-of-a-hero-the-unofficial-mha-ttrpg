@@ -3,6 +3,8 @@ Tags: #fundamental-elements-of-a-hero #map-of-content
 Last Modified: 08-31-2023  
 # 0200 - The Fundamental Elements of a Hero
 
+This chapter will cover the basic concepts and mechanics you need to know in order for creating your character in the world of My Hero Academia. It intentionally leaves out advanced concepts and mechanics that are only relevant to in-session play with a created character.
+
 ****
 
 1. [Inventing Your Persona](Inventing%20Your%20Persona.md)

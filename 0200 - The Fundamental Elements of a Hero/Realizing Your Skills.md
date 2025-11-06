@@ -1,23 +1,23 @@
 Category: [0200 - The Fundamental Elements of a Hero](0200%20-%20The%20Fundamental%20Elements%20of%20a%20Hero.md)  
 Tags: #fundamental-elements-of-a-hero #skills  
-Last Modified: 06-13-2024
+Last Modified: 11-05-2025
 # Realizing Your Skills
 
 1. [Skills](Realizing%20Your%20Skills.md#skills)
-1. [Experience](Realizing%20Your%20Skills.md#experience)
+2. [Experience](Realizing%20Your%20Skills.md#experience)
 	- [Letter Ranks](Realizing%20Your%20Skills.md#letter-ranks)
 	- [The Human Limit](Realizing%20Your%20Skills.md#the-human-limit)
 	- [True Rank](Realizing%20Your%20Skills.md#true-rank)
 	- [Limit Rank](Realizing%20Your%20Skills.md#limit-rank)
 	- [Control Rank](Realizing%20Your%20Skills.md#control-rank)
-2. [Plus Ultra Points](Realizing%20Your%20Skills.md#plus-ultra-points)
-3. [Technique Points](Realizing%20Your%20Skills.md#technique-points)
-4. [Enhancement Points](Realizing%20Your%20Skills.md#enhancement-points)
+3. [Plus Ultra Points](Realizing%20Your%20Skills.md#plus-ultra-points)
+4. [Technique Points](Realizing%20Your%20Skills.md#technique-points)
+5. [Enhancement Points](Realizing%20Your%20Skills.md#enhancement-points)
 	- [Skill Amplification](Realizing%20Your%20Skills.md#skill-amplification)
 	- [Skill Switching](Realizing%20Your%20Skills.md#skill-switching)
-5. [Health Points](Realizing%20Your%20Skills.md#health-points)
-6. [Limit Points](Realizing%20Your%20Skills.md#limit-points)
-7. [Quin](Realizing%20Your%20Skills.md#quin)
+6. [Health Points](Realizing%20Your%20Skills.md#health-points)
+7. [Limit Points](Realizing%20Your%20Skills.md#limit-points)
+8. [Quin](Realizing%20Your%20Skills.md#quin)
 	- [Scholarships](Realizing%20Your%20Skills.md#scholarships)
 	- [Heritages](Realizing%20Your%20Skills.md#heritages)
 	- [Materials](Realizing%20Your%20Skills.md#materials)
@@ -133,12 +133,18 @@ You may freely invest experience into a skill without performing a skill amplifi
 
 ### Control Rank
 
+The **Control Rank** represents your character's universal scale of power in relationship to their ability to handle their Quirk.
+
+It is determined by taking taking the total amount of experience your character has accumulated and dividing that amount by 5. Then, compare the resulting value against the Letter Ranks table above.
+
+It is determined by taking total experience the character has accumulated and dividing that sum by 5. 
+
 The true ranks of your character's skills act as the basis for calculating your character's Control Rank.
 
 You determine the Control Rank of a character by dividing the sum of all of the Experience that your character has accumulated by 5 and comparing the result against the table of Letter Ranks above.
-## Health Points
+## Hit Points
 
-**Health Points** represents the amount of fatigue and injury that your character can endure before succumbing to them and falling unconscious. It is calculated as the sum of the modifiers of all your character's skills except Stamina, plus the amount of additional hit points as determined by the rank of your character's Stamina modifier according to the following table:
+**Hit Points** represent the amount of fatigue and pain that your character can sustain before succumbing to their injuries and falling unconscious. It is calculated as the sum of the modifiers of all your character's skills except Stamina, plus the amount of additional hit points as determined by the rank of your character's Stamina modifier according to the following table:
 
 | Rank | -   | =   | +   |
 | ---- | --- | --- | --- |
@@ -149,12 +155,10 @@ You determine the Control Rank of a character by dividing the sum of all of the 
 | A    | 67  | 78  | 99  |
 | S    | 111 | 123 | 135 |
 
-Your character's total hit points can be further increased through the use of the armors, items, and techniques, (discussed in detail in the third chapter, [The Rules of Engagement](../0300%20-%20The%20Rules%20of%20Engagement/0300%20-%20The%20Rules%20of%20Engagement.md)).
+Your character's maximum hit points can be increased through the use of the armors, items, and techniques. These are discussed in detail in the third chapter, [The Rules of Engagement](../0300%20-%20The%20Rules%20of%20Engagement/0300%20-%20The%20Rules%20of%20Engagement.md).
 ## Technique Points
 
-**Technique Points (TPs)** are representative of your character's ability to discover and master techniques throughout their career. Every technique that your character learns costs a certain number of technique points depending on the technique's rank and type.
-
-When you create a technique for your character, following the rules and guidelines listed in [Crafting Techniques](../0300%20-%20The%20Rules%20of%20Engagement/Crafting%20Techniques.md), you allocate the number of technique points for that technique as specified by the following table. Unless otherwise stated in the technique type's description, all techniques follow this table. 
+**Technique Points (TPs)** represent your character's ability to discover and master techniques throughout their career. Every technique that your character learns or creates requires a certain number of technique points depending on the technique's rank, according to the following table:
 
 | Technique Rank | Technique Cost (in TPs) |
 | -------------- | ----------------------- |
@@ -164,7 +168,9 @@ When you create a technique for your character, following the rules and guidelin
 | A              | 4                       |
 | S              | 5                       |
 
-The number of technique points that your character has available to spend is determined by their Control Rank, as shown in the following table.
+Unless otherwise stated in the technique type's description, all techniques follow this table. Technique creation is covered in detail in the [Crafting Techniques](../0300%20-%20The%20Rules%20of%20Engagement/Crafting%20Techniques.md) section of the third chapter, [The Rules of Engagement](../0300%20-%20The%20Rules%20of%20Engagement/0300%20-%20The%20Rules%20of%20Engagement.md). 
+
+The number of technique points that your character has available to spend is determined by their Control Rank, as shown in the following table:
 
 | Control Rank | Technique Points |
 | ------------ | ---------------- |
@@ -174,16 +180,13 @@ The number of technique points that your character has available to spend is det
 | A            | 17               |
 | S            | 23               |
 
-You may not create new techniques or increase the rank of existing techniques if you do not have the sufficient technique points to do so.
+You may not create new techniques for your character or increase the rank of their existing techniques if doing so would result in exceeding the number of technique points provided to you by your Control Rank.
+
 ## Limit Points
 
-**Limit Points (LPs)** are representative of the physical, mental, and emotional toll that your character must bear in order to activate and utilize techniques that they have learned.
+**Limit Points (LPs)** represent the physical, mental, and emotional motes of stamina that your character expends to safely and reliably activate and utilize their Quirk and the techniques that they have learned.
 
-This subject is discussed in more detail in the [Harnessing the Limit Pool](../0300%20-%20The%20Rules%20of%20Engagement/Harnessing%20the%20Limit%20Pool.md) section of the [0300 - Rules of Engagement](../0300%20-%20The%20Rules%20of%20Engagement/0300%20-%20The%20Rules%20of%20Engagement.md) chapter, specifically regarding topics such as the Limit Refresh Rate, the Limit Point cost of activating techniques, and concepts such as Limit Bursting and Quirk Exhaustion.
-
-For the purposes of character creation, the most relevant information is in relation to the size of your character's **Limit Pool**. 
-
-The Limit Pool refers to the number of Limit Points available to your character when they are at their most rested. The size of your character's Limit Pool is also determined by your character's Control Rank, according to the following table.
+These points are drawn from your character's **Limit Pool**, or the total number of limit points available to them when they are at their most rested. The size of your character's limit pool is determined by your character's Control Rank, according to the following table:
 
 | Control Rank | Limit Pool |
 | ------------ | ---------- |
@@ -193,11 +196,14 @@ The Limit Pool refers to the number of Limit Points available to your character 
 | A            | 18         |
 | S            | 24         |
 
+Other topics related to the use and maintenance of limit points is discussed in detail in the [Harnessing the Limit Pool](../0300%20-%20The%20Rules%20of%20Engagement/Harnessing%20the%20Limit%20Pool.md) section of the third chapter, [The Rules of Engagement](../0300%20-%20The%20Rules%20of%20Engagement/0300%20-%20The%20Rules%20of%20Engagement.md).
+
 ## Plus Ultra Points
 
-**Plus Ultra Points** are a special resource available to valiant heroes or nefarious villains, earned exclusively by award from the Gamemaster for intriguing, compelling, creative, or exciting behavior during play or as a result of rolling a Natural when the value is 20.
+**Plus Ultra Points (PUPs)**  are a special resource which represent the displays of resolve by valiant heroes or nefarious villains in key moments as they carry out their ambitions in the world. In these moments, fueled by their intimate relationship with their Quirk, these characters may align with or manifest their true potential in the world, and are empowered even more because of it.  
 
-These represent the pinnacle of a hero or villain's resolve to carry out their ambitions in the world, often fueled by their intimate relationship with their Quirk. At key moments, these characters may align with or manifest their true potential in the world, and are empowered to do even more because of it.
+Plus Ultra Points are typically granted to characters by the Gamemaster as a reward for intriguing, compelling, creative, or exciting behavior exhibited during play. They are also granted as a result of rolling a Natural when the value is 20. 
+
 ## Quin
 
 ### Scholarships

@@ -138,7 +138,7 @@ Inflicting a Critical while taking the Tank Defensive Action yields the player a
 ### Movement
 
 | Speed Rank | Combat Speed | Cinematic Speed  |
-|------------|--------------|------------------|
+| ---------- | ------------ | ---------------- |
 | Rank E     | 3 Meters     | 3-6 Meters       |
 | Rank D     | 7 Meters     | 6-12 Meters      |
 | Rank C     | 15 Meters    | 12-72 Meters     |
